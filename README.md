@@ -73,6 +73,34 @@ https://youtu.be/mD-IB5wAet8
 
 
 
+Who was the founder of Tata Institute of Fundamental Research (TIFR)?
+
+Prof. Homi Jahangir Bhava
+
+
+Name the scientist who is known for the first use of radiowaves in India to probe the ionosphere.
+
+Acharya J C Bose
+
+
+National Balloon Facility (NBF) of TIFR is situated in the city of
+
+Hyderabad
+
+
+In 1956, the Ionospheric Field Station was established at
+
+Kodaikanal
+
+
+The first Indian satellite Aryabhatta was dedicated to the study of:
+
+X-Ray astronomy, aeronomy and solar physics
+
+
+
+
+
 # Study Material for Download
 
 
