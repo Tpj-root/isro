@@ -100,6 +100,46 @@ X-Ray astronomy, aeronomy and solar physics
 
 
 
+# Day_2
+
+
+How many precursor missions are planned before launching BAS-1 module?
+4
+
+Which was the first ever space station built?
+Salyut
+
+
+How many modules are there in BAS?
+5
+
+Which was the first launch vehicle developed by ISRO?
+SLV
+
+Which of the following mission marked the dawn of Indian human space flight programme?
+SRE
+
+
+
+How many modules are in Bharatiya Antariksh Station?
+5
+
+
+How many missions of Uncrewed & Crewed planned under Gaganyaan Programme?
+4
+
+What was the recent science mission undertaken by ISRO?
+Chandrayaan-3
+
+
+After completion, what will be the targeted mass range of Bharatiya Antariksh Station?
+50-60 tonne
+
+What was the largest sociological experiment in the world conducted by ISRO in 1975?
+SITE
+
+
+
 
 # Study Material for Download
 
