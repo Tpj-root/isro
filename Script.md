@@ -25,3 +25,28 @@ https://isrolms.iirs.gov.in/course/index.php?categoryid=326&browse=courses&page=
 
 
 
+# y_link into transcript
+
+```
+(() => {
+    const segments = document.querySelectorAll('ytd-transcript-segment-renderer');
+    const transcript = Array.from(segments).map(segment => {
+        const timestamp = segment.querySelector('.segment-timestamp').innerText.trim();
+        const text = segment.querySelector('.segment-text').innerText.trim();
+        return `${timestamp} -- ${text}`;
+    }).join('\n');
+    
+    // Create a Blob and a download link
+    const blob = new Blob([transcript], { type: 'text/plain' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'transcript.txt';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+})();
+```
+
+
