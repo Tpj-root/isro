@@ -338,6 +338,105 @@ a. 4.5 billion years ago
 
 
 
+**L7-Towards a Better Understanding of the Sun-Earth Connection: Avenues for Next Two Decades**
+
+
+
+```
+
+The plasma drift direction due to the cross product of the electric field (E) and magnetic field (B) can be determined using the right-hand rule.
+
+In this case:
+
+    The electric field is eastward (along the positive x-axis).
+    The magnetic field is northward (along the positive y-axis).
+
+The E x B drift direction is perpendicular to both E and B. To find it, point the fingers of your right hand in the direction of E (east) and curl them towards B (north). Your thumb will point in the direction of the drift.
+
+    Eastward (positive x-axis) × Northward (positive y-axis) = Upward (positive z-axis).
+    
+    
+
+
+
+
+The direction of the plasma drift (E x B) at ionospheric altitudes in the presence of an eastward electric field and a northward magnetic field is (consider Cartesian coordinate system)
+a.
+Upward
+b.
+Westward
+c.
+Downward
+d.
+Southward
+
+
+Ans: a. Upward
+
+
+
+What did Eugene Parker discover?
+a.
+The greenhouse effect
+b.
+The sunspots
+c.
+The solar wind
+d.
+The ozone hole
+
+
+Ans: c. The solar wind.
+
+
+
+Which of the following is the most energetic radiation in the electromagnetic spectrum?
+a.
+Gamma rays
+b.
+Radio waves
+c.
+Visible light
+d.
+Infrared radiation
+
+Ans: a. Gamma rays.
+
+
+
+Name the locations of the two observatories in India that played an important role in research on Sun-Earth Connection during 19th century
+a.
+Shimla and Hyderabad
+b.
+Madras and Trivandrum
+c.
+Nagpur and Kolkata
+d.
+Colaba (Bombay) and Kodaikanal
+
+
+Ans: d. Colaba (Bombay) and Kodaikanal.
+
+
+
+Average speed of the solar wind is
+a.
+300 km/s
+b.
+400 km/s
+c.
+200 km/s
+d.
+800 km/s
+
+
+Ans: b. 400 km/s.
+
+```
+
+
+
+
 
 
 **L8-Scientific Opportunities for Indian Astronauts on Lunar Surface**
@@ -430,6 +529,169 @@ b. A circular orbit at an altitude of 650 km around the Earth
 
 
 
+
+
+**L9-Envisioning the future for Solar System Exploration**
+```
+What is the name of the first Indian mission to Mars?
+a.
+Mars Orbiter Mission (MOM)
+b.
+Chandrayaan-3
+c.
+Shukrayaan
+d.
+Somayaan-1
+
+
+Ans:a
+
+
+
+
+
+Which planetary body was investigated during the OSIRIS-REx mission
+a.
+Venus
+b.
+Vesta
+c.
+Moon
+d.
+Bennu
+
+
+
+Ans:d
+
+
+
+
+
+
+Which is of these isotopes is a short-lived radionuclide?
+a.
+238U
+b.
+40K
+c.
+232Th
+d.
+26Al
+
+Ans:d
+
+
+
+The half-life of a radioactive substance is:
+a.
+usually about 100 years
+b.
+the time for radium to change into lead
+c.
+half the time it takes for the entire substance to decay
+d.
+the time for half the substance to decay
+
+Ans:d
+
+
+
+Which of these photons will have the lowest energy?
+a.
+Gamma-ray
+b.
+Microwave
+c.
+Infrared
+d.
+X-ray
+
+
+
+Ans:b
+
+```
+
+
+
+
+**L10-Future Directions in Astrochemistry Research**
+
+```
+
+The outermost atmospheric layers of the Sun is called?
+a.
+Chromosphere
+b.
+Heliosphere
+c.
+Corona
+d.
+Photosphere
+
+
+Ans : c. Corona.
+
+What is Heliosphere?
+a.
+It is the size of the Sun
+b.
+It is the space influenced by the Sun
+c.
+It is a space occupied by the Sun
+d.
+Space between the Sun and Earth
+
+
+Ans : b. It is the space influenced by the Sun.
+
+
+Instruments to study Space weather aspects are owned by:
+a.
+ISRO, other Indian Institutes and universities
+b.
+Indian Institutes ONLY
+c.
+ISRO Only
+d.
+Universities in India ONLY
+
+Ans : c ???
+
+
+
+Full form of CIR is
+a.
+Coronal Interaction Region
+b.
+Corotating Interaction Region
+c.
+Corotating Interplanetary Region
+d.
+Coronal Interplanetary Reaction
+
+
+Ans : b. Corotating Interaction Region.
+
+
+
+Which of the following subject is part of Heliosphere
+a.
+All of the above
+b.
+Earth Ionosphere
+c.
+Solar Physics
+d.
+Planetary Science
+
+
+Ans : a. All of the above.
+```
+
+
+**L11 is Also L7**
 
 
 
