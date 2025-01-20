@@ -67,15 +67,10 @@ https://www.youtube.com/@iirsoutreachdehradun
 
 Inauguration of START-2025 Theme: Future of India’s space exploration 
 https://youtu.be/mD-IB5wAet8
-https://youtu.be/IfMcuV3qTDg
+https://youtu.be/Jg58wbpTwFM
+https://youtu.be/I6Jqqk6cKfg
+https://youtu.be/r7U-ilzImvU
 
-
-https://www.youtube.com/watch?v=IfMcuV3qTDg
-
-
-https://www.youtube.com/watch?v=Jg58wbpTwFM
-https://www.youtube.com/watch?v=I6Jqqk6cKfg
-https://www.youtube.com/watch?v=r7U-ilzImvU
 
 
 what??
@@ -94,13 +89,86 @@ https://www.youtube.com/watch?v=IfMcuV3qTDg
 
 
 
-listed
+### Listed
 
 
-India’s Space Science Exploration: Past, Present and Future: Context of START 2025" by Dr. Tirtha Pratim Das
+ - 1. India’s Space Science Exploration: Past, Present and Future: Context of START 2025" by Dr. Tirtha Pratim Das
+
+```
+https://youtu.be/O26eMDDVAJw
+```
+
+ - 2. India’s Human Spaceflight Programme: Beginning of a new Era by Shri. Baluragi H
+
+```
+https://youtu.be/iF9Cp7vwG-0
+```
+
+ - 3. India’s Own Space Station: The Bharatiya Antarish Station (BAS) by Shri D. K. Singh
+```
+https://youtu.be/ivY-ylF9Ep0
+```
+
+ - 4. India’s contributions to exploratory Lunar Science by Dr.Megha Bhat
+
+```
+https://youtu.be/k2TTBIuC834
+```
+
+ - 5. Microgravity and Biology of Living Systems: Challenges for Human Space exploration and new opportunities for research by Dr. K. G. Sreejalekshmi
+
+```
+https://youtu.be/0MW301tweMw
+```
+
+ - 6. Scientific Opportunities for Indian Astronauts on Lunar Surface by Dr. Senthil Kumar
+```
+https://youtu.be/69lXjjYaTgc
+```
+
+ - 7. Towards a Better Understanding of the Sun-Earth Connection: Avenues for Next Two Decades by Prof. Gurubaran
+
+```
+https://youtu.be/wUrtQdaTBOA
+```
+
+ - 8. Future Directions in Space-Based Astronomy and Astrophysics by Prof. Somak Raychaudhury
+
+```
+https://youtu.be/__vkjIvu3bM
+```
+
+ - 9. Envisioning the future for Solar System Exploration by Prof. D. Banerjee
+
+```
+https://youtu.be/HKoZddcNWdI
+```
+
+ - 10. India’s Venture to Heliophysics and Space Weather by Dr. Sankarasubramanian K
+
+```
+https://youtu.be/aQW5JmUimyw
+```
+
+ - 11. Space-Based Cosmology: Thoughts for Future Exploration by Dr. Tarun Souradeep
+
+```
+https://youtu.be/ajJYoRLCewo
+```
 
 
-https://www.youtube.com/watch?v=O26eMDDVAJw
+ - 12. Future Directions in Astrochemistry Research by Prof Bhalamurugan Sivaraman
+
+```
+https://youtu.be/r7U-ilzImvU
+```
+
+
+ - 13. In Search of the Exoplanets by Prof. Abhijit Chakraborty
+
+```
+https://youtu.be/r7U-ilzImvU
+```
 
 
 
@@ -108,18 +176,9 @@ https://www.youtube.com/watch?v=O26eMDDVAJw
 
 
 
-India’s contributions to exploratory Lunar Science by Dr. Megha Bhat 
-
-https://www.youtube.com/watch?v=k2TTBIuC834
- 
 
 
-https://www.youtube.com/watch?v=0MW301tweMw&embeds_referring_euri=https%3A%2F%2Fisrolms.iirs.gov.in%2F&source_ve_path=Mjg2NjY
 
-https://www.youtube.com/watch?v=69lXjjYaTgc&embeds_referring_euri=https%3A%2F%2Fisrolms.iirs.gov.in%2F&source_ve_path=Mjg2NjY
-
-
-https://www.youtube.com/watch?v=wUrtQdaTBOA&ab_channel=IIRSISRODigitalLearningProgramme
 
 
 
