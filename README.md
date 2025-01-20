@@ -76,13 +76,13 @@ https://youtu.be/mD-IB5wAet8
 
 ### 10th January 2025 # live
 
+- India’s Human Spaceflight Programme: Beginning of a new Era
+
+- India’s Own Space Station: The Bharatiya Antarish Station (BAS)
 
 ```
 https://youtu.be/Jg58wbpTwFM
 ```
-
-
-
 
 
 
@@ -96,9 +96,6 @@ https://youtu.be/Jg58wbpTwFM
 
 
 
-
-
-
 ### 15th January 2025
 
 
@@ -108,10 +105,7 @@ https://youtu.be/Jg58wbpTwFM
 
 
 
-
-
 ### 16th January 2025 
-
 
  - Envisioning the future for Solar System Exploration
  - Future Directions in Space-Based Astronomy and Astrophysics
@@ -122,10 +116,7 @@ https://youtu.be/I6Jqqk6cKfg
 ```
 
 
-
 ### 17th January 2025
-
-
 
  - Future Directions in Astrochemistry Research
 
@@ -145,6 +136,7 @@ https://youtu.be/JNuHvOwJs3Q
 ```
 https://youtu.be/r7U-ilzImvU
 ```
+
 
 
 
