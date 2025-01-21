@@ -139,6 +139,36 @@ https://youtu.be/r7U-ilzImvU
 
 
 
+### 21st January 2025 # live
+
+Ground Observatories in India
+
+Lagrange Points as Vantage Points in Space-based Exploration:
+Future Opportunities
+
+```
+https://youtu.be/3GLetyOON3k
+```
+
+
+
+
+### 22nd January 2025 # live
+
+Understanding and predicting solar activity: Do sun’s poles have
+the answer.
+Launch Vehicles for Future Space Exploration
+
+
+```
+
+
+```
+
+
+
+
+
 
 what??
 https://www.youtube.com/watch?v=IfMcuV3qTDg
@@ -224,14 +254,14 @@ https://youtu.be/ajJYoRLCewo
  - 12. Future Directions in Astrochemistry Research by Prof Bhalamurugan Sivaraman
 
 ```
-https://youtu.be/r7U-ilzImvU
+https://youtu.be/YuW0ISv2a5w
 ```
 
 
  - 13. In Search of the Exoplanets by Prof. Abhijit Chakraborty
 
 ```
-https://youtu.be/r7U-ilzImvU
+https://youtu.be/MdhG-EgAeMg
 ```
 
 
@@ -253,6 +283,9 @@ https://youtu.be/r7U-ilzImvU
 
 convert *.png output.pdf
 
+# replacing spaces in their names with underscores
+
+for file in *; do mv "$file" "${file// /_}"; done
 
 
 
