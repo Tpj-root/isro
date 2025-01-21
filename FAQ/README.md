@@ -3,12 +3,12 @@
 
 
 
-![](FAQ/Screenshot_from_2025-01-16_20-08-59.png)
+![](Screenshot_from_2025-01-16_20-08-59.png)
 
 
 
 
-![](FAQ/Screenshot_from_2025-01-20_17-54-02.png)
+![](Screenshot_from_2025-01-20_17-54-02.png)
 
 What role does astrochemistry play in understanding the potential for life on other planets?
 
@@ -45,7 +45,7 @@ So yes, it's very, very important.
 
 
 
-![](FAQ/Screenshot_from_2025-01-20_17-34-09.png)
+![](Screenshot_from_2025-01-20_17-34-09.png)
 
 
 What can learning about exoplanets teach us about our own planet Earth?
