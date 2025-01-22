@@ -1,33 +1,278 @@
 
 
 
+<table>
+  <tr>
+    <th>Quiz</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>5/5</th>
+    <th>Summery</th>
+  </tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L1</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L2</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L3</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;">3</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L4</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L5</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L6</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L7</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L8</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L9</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L10</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L11</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L12</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L13</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L14</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L15</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L16</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L17</td>
+  <td style="width: 150px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L18</td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L19</td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">L20</td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">Total</td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Quiz L1**
 
 
 ```
 Who was the founder of Tata Institute of Fundamental Research (TIFR)?
 
-Ans: Prof. Homi Jahangir Bhava
+My_Ans: Prof. Homi Jahangir Bhava
 
 
 Name the scientist who is known for the first use of radiowaves in India to probe the ionosphere
 
-Ans: Acharya J C Bose
+My_Ans: Acharya J C Bose
 
 
 National Balloon Facility (NBF) of TIFR is situated in the city of
 
-Ans: Hyderabad
+My_Ans: Hyderabad
 
 
 In 1956, the Ionospheric Field Station was established at
 
-Ans: Kodaikanal
+My_Ans: Kodaikanal
 
 
 The first Indian satellite Aryabhatta was dedicated to the study of:
 
-Ans: X-Ray astronomy, aeronomy and solar physics
+My_Ans: X-Ray astronomy, aeronomy and solar physics
 ```
 
 
@@ -39,24 +284,24 @@ Ans: X-Ray astronomy, aeronomy and solar physics
 ```
 How many precursor missions are planned before launching BAS-1 module?
 
-Ans: 4
+My_Ans: 4
 
 Which was the first ever space station built?
 
-Ans: Salyut
+My_Ans: Salyut
 
 
 How many modules are there in BAS?
 
-Ans: 5
+My_Ans: 5
 
 Which was the first launch vehicle developed by ISRO?
 
-Ans: SLV
+My_Ans: SLV
 
 Which of the following mission marked the dawn of Indian human space flight programme?
 
-Ans: SRE
+My_Ans: SRE
 ```
 
 
@@ -67,25 +312,25 @@ Ans: SRE
 
 How many modules are in Bharatiya Antariksh Station?
 
-Ans: 5
+My_Ans: 5
 
 
 How many missions of Uncrewed & Crewed planned under Gaganyaan Programme?
 
-Ans: 4
+My_Ans: 4
 
 What was the recent science mission undertaken by ISRO?
 
-Ans: Chandrayaan-3
+My_Ans: Chandrayaan-3
 
 
 After completion, what will be the targeted mass range of Bharatiya Antariksh Station?
 
-Ans: 50-60 tonne
+My_Ans: 50-60 tonne
 
 What was the largest sociological experiment in the world conducted by ISRO in 1975?
 
-Ans: SITE
+My_Ans: SITE
 ```
 
 
@@ -97,27 +342,27 @@ Ans: SITE
 ```
 Which lunar feature does SARA instrument of Chandrayaan-1 help investigate through its measurements?
 
-Ans: d. The behavior of the Moon’s exosphere and ionosphere
+My_Ans: d. The behavior of the Moon’s exosphere and ionosphere
 
 
 Which instrument did the Chandrayaan-3’s Pragyan carry to study the lunar surface?
 
-Ans: d. A Laser-Induced Breakdown Spectroscope (LIBS)
+My_Ans: d. A Laser-Induced Breakdown Spectroscope (LIBS)
 
 
 One of the discoveries from Chandrayaan-1 regarding the Moon is:
 
-Ans: c. Evidence of ancient volcanic activity
+My_Ans: c. Evidence of ancient volcanic activity
 
 
 DFSAR of Chandrayaan-2 is designed to operate at which frequencies?
 
-Ans: b. Dual frequencies: L-band and S-band
+My_Ans: b. Dual frequencies: L-band and S-band
 
 
 The main surface alteration process on the Moon is:
 
-Ans: a. space weathering
+My_Ans: a. space weathering
 
 ```
 
@@ -129,13 +374,13 @@ Ans: a. space weathering
 
 The first ever human space mission of India is called
 
-Ans: Gaganyaan
+My_Ans: Gaganyaan
 
 
 
 Life on Earth has been constantly under the influence of …………… since it emerged 4.2 billion years ago.
 
-Ans: Gravity
+My_Ans: Gravity
 
 
 
@@ -148,7 +393,7 @@ d. Confinement and isolation
 
 
 
-Ans: c. All the given options
+My_Ans: c. All the given options
 
 
 
@@ -161,7 +406,7 @@ d. 3D-clinostat
 
 
 
-Ans: d. 3D-clinostat
+My_Ans: d. 3D-clinostat
 
 
 
@@ -173,7 +418,7 @@ c. Study and support of life in space
 d. Growing plants in space
 
 
-Ans: c. Study and support of life in space
+My_Ans: c. Study and support of life in space
 
 
 ```
@@ -193,7 +438,7 @@ c. Water activity
 d. Shrinking of the Moon
 
 
-Ans: d. Shrinking of the Moon
+My_Ans: d. Shrinking of the Moon
 
 
 
@@ -206,7 +451,7 @@ d. None of the above
 
 
 
-Ans: c. Volcanic rocks
+My_Ans: c. Volcanic rocks
 
 
 How did anorthositic crust of the Moon form?
@@ -216,7 +461,7 @@ c. intrusive bodies
 d. Crystallization of magma ocean
 
 
-Ans: d. Crystallization of magma ocean
+My_Ans: d. Crystallization of magma ocean
 
 
 
@@ -228,7 +473,7 @@ d. Apollo
 
 
 
-Ans: d. Apollo
+My_Ans: d. Apollo
 
 
 
@@ -241,7 +486,7 @@ d. 3.5 billion years ago
 
 
 
-Ans: a. 4.5 billion years ago
+My_Ans: a. 4.5 billion years ago
 
 
 ```
@@ -278,7 +523,7 @@ c. Downward
 d. Southward
 
 
-Ans: a. Upward
+My_Ans: a. Upward
 
 
 
@@ -289,7 +534,7 @@ c. The solar wind
 d. The ozone hole
 
 
-Ans: c. The solar wind
+My_Ans: c. The solar wind
 
 
 Which of the following is the most energetic radiation in the electromagnetic spectrum?
@@ -298,7 +543,7 @@ b. Radio waves
 c. Visible light
 d. Infrared radiation
 
-Ans: a. Gamma rays. 
+My_Ans: a. Gamma rays. 
 
 
 Name the locations of the two observatories in India that played an important role in research on Sun-Earth Connection during 19th century
@@ -308,7 +553,7 @@ c. Nagpur and Kolkata
 d. Colaba (Bombay) and Kodaikanal
 
 
-Ans: d. Colaba (Bombay) and Kodaikanal. 
+My_Ans: d. Colaba (Bombay) and Kodaikanal. 
 
 
 Average speed of the solar wind is
@@ -318,7 +563,7 @@ c. 200 km/s
 d. 800 km/s
 
 
-Ans: b. 400 km/s. 
+My_Ans: b. 400 km/s. 
 ```
 
 
@@ -409,7 +654,7 @@ c. Shukrayaan
 d. Somayaan-1
 
 
-Ans:a
+My_Ans:a
 
 
 
@@ -423,7 +668,7 @@ d. Bennu
 
 
 
-Ans:d
+My_Ans:d
 
 
 
@@ -436,7 +681,7 @@ b. 40K
 c. 232Th
 d. 26Al
 
-Ans:d
+My_Ans:d
 
 
 
@@ -446,7 +691,7 @@ b. the time for radium to change into lead
 c. half the time it takes for the entire substance to decay
 d. the time for half the substance to decay
 
-Ans:d
+My_Ans:d
 
 
 
@@ -458,7 +703,7 @@ d. X-ray
 
 
 
-Ans:b
+My_Ans:b
 
 ```
 
@@ -535,7 +780,7 @@ c. Mars.
 d. Earth
 
 
-Ans:  a. Mercury. 
+My_Ans:  a. Mercury. 
 
 What will be the major product if water reacts with carbon dioxide in the solar system bodies?
 a. Acetone
@@ -543,7 +788,7 @@ b. Carbonic acid
 c. Hydrogen peroxide
 d. Hydronium ion
 
-Ans: b. Carbonic acid. 
+My_Ans: b. Carbonic acid. 
 
 
 Which of the following icy moons has abundant sulfur?
@@ -552,7 +797,7 @@ b. Miranda
 c. Io
 d. Ariel
 
-Ans:  c. Io. 
+My_Ans:  c. Io. 
 
 What is the most abundant molecule in the atmosphere of Saturn’s satellite Titan?
 a. Methane
@@ -560,13 +805,371 @@ b. Carbon monoxide
 c. All of these. d. Nitrogen
 
 
-Ans: d. Nitrogen. 
+My_Ans: d. Nitrogen. 
 Which of the following energetic particles can induce chemistry on our Moon’s surface?
 a. All of the given options
 b. Photon
 c. Electron
 d. Cosmic rays
 
-Ans: a. All of the given options. 
+My_Ans: a. All of the given options. 
 
 ```
+
+
+
+
+**L13-In Search of the Exoplanets**
+
+
+
+```
+Which method allows scientists to measure the composition of an exoplanet’s atmosphere?
+a.Direct imaging
+b.Pulsar timing
+c.Radial velocity
+d.Transmission Spectroscopy during exoplanet Transit
+
+
+My_Ans: d. Transmission Spectroscopy during exoplanet Transit
+
+
+Which Space based Transit mission discovered the first Earth size exoplanets?
+a.Hubble space telescope
+b.COROT
+c.TESS
+d.Kepler
+
+My_Ans: c. TESS
+
+
+What is one of the main challenges of direct imaging in exoplanet detection?
+
+
+a.Planets are too far away to observe directly.
+b.The planet’s brightness is extremely lower than its star.
+c.The transit method is more reliable.
+d.The planets must be in the star’s habitable zone.
+
+My_Ans: b. The planet’s brightness is extremely lower than its star.
+
+
+
+Which method uses Doppler shifts in a star's light spectrum to infer the presence of an exoplanet?
+a.Radial Velocity
+b.Direct imaging
+c.Pulsar timing
+d.Transit photometry
+
+My_Ans: a. Radial Velocity
+
+
+Who discovered the first exoplanet around a main sequence star?
+a.Francois Bouchy
+b.David Charbonneu
+c.Michel Mayor
+d.Sara Seager
+
+My_Ans: c. Michel Mayor
+
+```
+
+
+
+**L14-Ground Observatories in India**
+
+
+
+```
+Ground- and space-based astronomy complement each other because:
+a.All of the given options
+b.Between them they allow us to study astronomical objects all across the electromagnetic spectrum
+c.Space based observatories are not disturbed by seasonal changes
+d.Space based observatories are typically much more expensive than ground based observatories
+
+
+My_Ans: a. All of the given options
+
+
+
+
+
+
+The largest radio telescope in India, the Giant Metrewave Radio Telescope (GMRT), operated by the National Centre for Radio Astrophysics is one of the world’s most sensitive radio telescopes in its frequency range of operation and is used by scientists from more than 30 countries. The GMRT, is located in which Indian state or Union Territory?
+a.Gujarat
+b.Karnataka
+c.Maharashtra
+d.Madhya Pradesh
+
+
+My_Ans: c. Maharashtra
+
+
+
+
+The largest conventional optical telescope in India, the Devasthal Optical Telescope (DOT), operated by the Aryabhatta Institute of Observational Sciences (ARIES), and is located in Devathal, Uttarakhand. What is the diameter of the primary mirror of the DOT.
+a.1.3 m
+b.2.5 m
+c.3.6 m
+d.4.8 m
+
+My_Ans: c. 3.6 m
+
+
+
+
+Which of these waves of astronomical origin CANNOT be detected by ground based observatories:
+a.Optical waves
+b.Gravitational waves
+c.X-rays
+d.Radio waves
+
+
+My_Ans: c. X-rays
+
+
+
+
+
+The largest window suitable for astronomical observations from the ground, is in which part of the electromagnetic spectrum?
+a.Ultraviolet
+b.X-ray
+c.Radio
+d.Gamma ray
+
+
+My_Ans: c. Radio ??
+
+```
+
+
+**L15-Lagrange Points as Vantage Points in Space-based Exploration: Future Opportunities**
+
+
+
+
+```
+
+Rockets work on principle of
+a.Newton 2nd law
+b.Newton 1st law
+c.Newton's 3rd law
+d.None of these
+
+
+My_Ans: c. Newton's 3rd law
+
+
+
+
+
+
+
+
+
+How many equilibrium points are there in circular restricted three body problem?
+a.6
+b.1
+c.5
+d.0
+
+My_Ans: c. 5
+
+
+
+Laws of Planetay motion were formulated by
+a.Johannes Kepler
+b.Newton
+c.J. Lagrange
+d.None of these
+
+
+My_Ans: a. Johannes Kepler
+
+
+
+Which lagrange points are called as triangular points
+a.L1&amp;L4
+b.L1 &amp;L2
+c.L2&amp;L3
+d.L4&amp;L5
+
+My_Ans: d. L4 & L5
+
+
+
+Moons gravity is about:
+a.1/5th of Earth
+b.1/3rd of Earth
+c.same as earth
+d.1/6th Earth
+
+
+My_Ans: d. 1/6th Earth
+
+```
+
+
+
+
+**L16-Understanding and predicting solar activity: Do sun’s poles have the answer.**
+
+
+```
+
+
+The amplitude of the sun’s polar field can give insight about
+a.The solar surface brightness
+b.The strength of the previous sunspot cycle
+c.The coronal temperature rise
+d.The strength of the next sunspot cycle
+
+
+My_Ans: d. The strength of the next sunspot cycle ??
+
+
+
+
+
+Sun’s polar magnetic field is strong at the time of
+a.Solar minima.
+b.Same all the time.
+c.Randomly.
+d.Solar maxima.
+
+
+My_Ans: d.Solar maxima.  ??  a. Solar minima.
+
+
+
+
+
+
+
+Solar magnetic dipole switches polarity every ___ years.
+a.300
+b.15
+c.22
+d.11
+
+
+My_Ans: d. 11
+
+
+
+
+
+
+Which of the following missions can best observe the polar region of the Sun?
+a.WIND
+b.STEREO
+c.Solar Orbiter
+d.ACE
+
+
+My_Ans: c. Solar Orbiter
+
+
+
+
+
+
+What do polar phenomena primarily contribute to in the context of solar wind?
+a.The reduction of magnetic field strength in the heliosphere.
+b.The generation of high-speed solar wind streams.
+c.The acceleration of fast solar wind.
+d.The development of slow solar wind streams.
+
+
+
+My_Ans: c.The acceleration of fast solar wind.  ??
+
+b. The generation of high-speed solar wind streams.   ??
+
+
+
+```
+
+
+**L17-Launch Vehicles for Future Space Exploration**
+
+
+
+```
+
+Which orbit has been used by India for Lunar & Interplanetary missions?
+a.Lower Earth Orbit
+b.Sun-synchronous Polar Orbit
+c.Medium Earth Orbit
+d.Highly Elliptical Orbit
+
+
+My_Ans:  b.Sun-synchronous Polar Orbit
+
+
+
+
+
+
+
+The payload capability of GSLV MkIII launch vehicle to GTO is
+a.4 tonnes
+b.2 tonnes
+c.7 tonnes
+d.6 tonnes
+
+
+
+
+
+My_Ans: a.4 tonnes
+
+
+
+
+Which was the Cubesat mission to Moon?
+a.Capstone
+b.Proba 3
+c.SPOC
+d.Bird
+
+
+My_Ans: a. Capstone.
+
+
+
+ISRO’s prime launch centre is located in which state
+a.Madhya Pradesh
+b.Tamil Nadu
+c.Andhra Pradesh
+d.Kerala
+
+
+
+
+
+My_Ans: c.Andhra Pradesh
+
+
+
+
+
+
+
+
+The variant of PSLV launch vehicle used for the Mars Orbiter Mission
+a.PSLV-XL
+b.PSLV-DL
+c.PSLV-Core Alone
+d.PSLV-QL
+
+My_Ans: a. PSLV-XL
+
+
+```
+
+
+
+
+
+

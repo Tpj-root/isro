@@ -141,37 +141,80 @@ https://youtu.be/r7U-ilzImvU
 
 ### 21st January 2025 # live
 
-Ground Observatories in India
+ - Ground Observatories in India
 
-Lagrange Points as Vantage Points in Space-based Exploration:
-Future Opportunities
+ - Lagrange Points as Vantage Points in Space-based Exploration: Future Opportunities
 
 ```
 https://youtu.be/3GLetyOON3k
 ```
 
 
-
-
 ### 22nd January 2025 # live
 
-Understanding and predicting solar activity: Do sun’s poles have
-the answer.
-Launch Vehicles for Future Space Exploration
+ - Understanding and predicting solar activity: Do sun’s poles have the answer.
+ 
+ - Launch Vehicles for Future Space Exploration
 
 
 ```
 https://youtu.be/o0XEXGm3fQ8
 ```
 
+### 23rd January 2025 # live
+
+ - Advanced Propulsion System for Future Space Exploration
+ 
+ - Docking in Space: Technologies, Challenges and Possibilities
+
+```
+
+```
+
+### 24th January 2025 # live
+
+ - Communication and Navigation for Futuristic Interplanetary Missions
+ 
+ - Scientific Payloads and Techniques for Solar System Exploration
+
+```
+
+```
+
+
+### 27th January 2025 # live
+
+ - Space Robotics in Future Science Exploration
+ 
+ - Building structures on the Moon: Challenges and Possibilities
+```
+
+```
+
+### 28th January 2025 # live
+
+ - Enabling and Disruptive Technologies for Future Space Science Exploration
+ 
+ - Challenges in the Archival and Analysis of Planetary Samples
+ 
+```
+
+```
+
+### 29th January 2025 # live
+
+ - Planetary Protection in Scientific Exploration: Will new Rules be Necessary for Future?
+ 
+```
+
+```
 
 
 
-
-
+```
 what??
 https://www.youtube.com/watch?v=IfMcuV3qTDg
-
+```
 
 
 
