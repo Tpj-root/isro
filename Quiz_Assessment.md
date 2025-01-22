@@ -3,6 +3,8 @@
 
 **Quiz L1**
 
+
+```
 Who was the founder of Tata Institute of Fundamental Research (TIFR)?
 
 Ans: Prof. Homi Jahangir Bhava
@@ -26,6 +28,7 @@ Ans: Kodaikanal
 The first Indian satellite Aryabhatta was dedicated to the study of:
 
 Ans: X-Ray astronomy, aeronomy and solar physics
+```
 
 
 
@@ -33,6 +36,7 @@ Ans: X-Ray astronomy, aeronomy and solar physics
 **Quiz L2**
 
 
+```
 How many precursor missions are planned before launching BAS-1 module?
 
 Ans: 4
@@ -53,11 +57,13 @@ Ans: SLV
 Which of the following mission marked the dawn of Indian human space flight programme?
 
 Ans: SRE
-
+```
 
 
 **Quiz L3**
 
+
+```
 
 How many modules are in Bharatiya Antariksh Station?
 
@@ -80,7 +86,7 @@ Ans: 50-60 tonne
 What was the largest sociological experiment in the world conducted by ISRO in 1975?
 
 Ans: SITE
-
+```
 
 
 
