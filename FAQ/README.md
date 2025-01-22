@@ -201,7 +201,7 @@ So, one of the biggest challenges for us is to, you know, continue to operate su
 
 
 
-![](Screenshot_from_2025-01-21_17-03-19.png)
+
 
 What role can Lagrange points play in the development of space debris removal or mitigation strategies for protecting satellites and spacecraft?
 
@@ -215,6 +215,43 @@ https://www.youtube.com/live/3GLetyOON3k?feature=shared&t=5793
 Okay, Lagrange point, even though at present it is in the nascent stage only, but one aspect is you can have constant observation of the Earth from this point. You get a constant view of that. So, basically, the tracking becomes, uh, one of the... that is, the tracking of these space debris becomes actually more useful there, and from there itself, some mitigation aspects can be easily looked into from these Lagrange points. So that way, it will be helpful.
 
 ```
+
+
+
+
+![](Screenshot_from_2025-01-22_16-20-31.png)
+
+What can we learn about stellar behavior by studying solar activity and its cycles?
+
+
+
+```
+
+```
+
+```
+
+```
+
+
+![](Screenshot_from_2025-01-22_16-21-47.png)
+
+What technological advancements are needed to improve the accuracy of solar activity forecasting?
+
+
+
+```
+
+```
+
+```
+
+```
+
+
+
+
+
 
 
 
