@@ -1,8 +1,8 @@
 
 
-🔵 = Blue Circle
-🔴 = Red Circle
-🟢 = Green Circle
+🔵 = Blue
+🔴 = Red
+🟢 = Green
 
 
 
@@ -50,11 +50,11 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L4</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
