@@ -1,10 +1,8 @@
 
 
-🔵 = Blue
-🔴 = Red
-🟢 = Green
-
-
+🔵 = Blue (Dont know)
+🔴 = Red (Wrong)
+🟢 = Green (Right)
 
 
 <table>
