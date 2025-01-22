@@ -226,10 +226,31 @@ What can we learn about stellar behavior by studying solar activity and its cycl
 
 
 ```
+https://www.youtube.com/live/o0XEXGm3fQ8?feature=shared&t=2870
 
 ```
 
 ```
+Yes, so, uh, one of the questions is that, uh, is that 
+what can we learn about stellar behavior by studying solar activity and its cycles? 
+
+
+Prof.Bhargav Vaidya 
+
+Yeah, I think it's a very good question, excuse me. So, uh, many of these things, 
+for example, even the aditya L1, suit payload at aditya L1 also is going to study the Sun as a star system. 
+
+So, the Sun as a star, and even the SolX and Helios will study the Sun as a star system. 
+The Sun as a star allows you to understand the Sun in totality and kind of compare with different stellar activities, 
+which are essentially happening, like flaring activity and so on and so forth. 
+
+So, understanding, uh, giving, um, so understanding the Sun as a star system will not only help you to kind of compare it with other stellar activity, but also it helps you to understand what sort of cycle do these things produce. So, the solar minima, solar maxima, similar behavior, uh, will be present also in other stars of similar classes, like the G-type stars, similar to the Sun, which is a G-class star. 
+
+
+So, essentially, you can actually make a one-to-one comparison as well by studying the Sun as a star system. So, that is definitely, definitely possible when you kind of do this, and this can be done with L1. 
+
+But as I said here, you can only get point objects or study it as a star. Uh, but here, POLS gives you more detailed information as such. Yes, thanks.
+
 
 ```
 
@@ -242,9 +263,29 @@ What technological advancements are needed to improve the accuracy of solar acti
 
 ```
 
+https://www.youtube.com/live/o0XEXGm3fQ8?feature=shared&t=3219
+
 ```
 
 ```
+No, I think this is a very interesting and important question.
+
+You see, when you talk about forecasting, there is one thing that is very much required: 
+
+instant data transfer from the spacecraft to the mission center so that immediate processing of that data can happen. 
+
+This will help any models or any kind of prediction capability models to take that data, immediately run their models, and also kind of provide output. 
+
+So, before any activity comes and hits Earth, we have the information, um, built into this.
+
+So, any kind of flag systems from remote sensing measurements think at aditya L1 also has certain properties of flag systems—but in general, anything which has a fast kind of downtime to get the data quickly will actually help as such. 
+
+And in addition to that, if you have, let's say, as I mentioned, this spacecraft vigil, which is basically going into the L5, which essentially has an idea, an up-to-date idea, of what is basically happening, such kind of missions can also augment and help to get the prediction better. 
+
+So, such kind of missions is important.
+
+
+
 
 ```
 
