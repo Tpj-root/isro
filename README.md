@@ -161,8 +161,7 @@ Launch Vehicles for Future Space Exploration
 
 
 ```
-
-
+https://youtu.be/o0XEXGm3fQ8
 ```
 
 
@@ -264,6 +263,19 @@ https://youtu.be/YuW0ISv2a5w
 https://youtu.be/MdhG-EgAeMg
 ```
 
+
+ - 14. Ground Observatories in India by Dr. Divya Oberoi
+
+```
+https://youtu.be/6yj6xFIAy24
+```
+
+
+ - 15. Lagrange Points as Vantage Points in Space-based Exploration: Future Opportunities by Dr. Deepak Negi
+
+```
+https://youtu.be/7-PEE62m0A4
+```
 
 
 

@@ -171,9 +171,33 @@ So far, we have not found such a planet, so the search is on.
 
 What are the challenges faced when designing and operating large-scale radio telescopes, and how are they overcome?
 
-```
 
 ```
+https://www.youtube.com/live/3GLetyOON3k?feature=shared&t=3037
+
+```
+
+
+```
+Yes, and uh, thank you. I think the last question will be, "What are the challenges faced when designing and operating such large-scale telescopes, and how are they overcome?" I think that's a very broad question, but I think you can just... 
+
+
+Dr. Divya Oberoi :
+
+
+Okay, so, uh, there are challenges on many different fronts, right? 
+So, the first thing which one has to realize, which actually I did not emphasize in my talk at all, is that the signals we are talking about are extremely faint. When I mean faint, uh...
+
+Okay, to give you an example, the unit in which we measure the strength of these signals or the energy contained in these signals is referred to as Jansky, in honor of the scientist who first discovered, you know, radio emission from outside the Earth. 
+
+One Jansky is 10^(-26) watts per meter squared per Hertz, and that's an amazingly tiny amount of energy.
+To give you a more familiar example, if you were standing on the surface of the Moon and, you know, were using your cell phone the way you would on Earth, the GMRT would be able to detect that emission. 
+That's how sensitive it is.
+
+So, one of the biggest challenges for us is to, you know, continue to operate such a fantastically sensitive telescope in the presence of all the stray radio signals which we generate during the course of our living. Right? That ranges from, you know, cell phone signals to factories which have, you know, various motors, the high power transmission lines where sparking occurs, and, you know, remote door openers for my car, microwave ovens... the list is sort of endless—LED bulbs. So dealing with those, uh, is a large part of what we do. Uh, that's one of the toughest things which we are facing right now as far as radio observation...
+
+```
+
 
 
 
@@ -182,7 +206,16 @@ What are the challenges faced when designing and operating large-scale radio tel
 What role can Lagrange points play in the development of space debris removal or mitigation strategies for protecting satellites and spacecraft?
 
 ```
+https://www.youtube.com/live/3GLetyOON3k?feature=shared&t=5793
 
 ```
+
+
+```
+Okay, Lagrange point, even though at present it is in the nascent stage only, but one aspect is you can have constant observation of the Earth from this point. You get a constant view of that. So, basically, the tracking becomes, uh, one of the... that is, the tracking of these space debris becomes actually more useful there, and from there itself, some mitigation aspects can be easily looked into from these Lagrange points. So that way, it will be helpful.
+
+```
+
+
 
 
