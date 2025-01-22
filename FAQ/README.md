@@ -199,7 +199,7 @@ So, one of the biggest challenges for us is to, you know, continue to operate su
 ```
 
 
-
+![](Screenshot_from_2025-01-21_17-03-19.png)
 
 
 
