@@ -116,7 +116,7 @@ Ans: a. space weathering
 ```
 
 
-L5-Microgravity and Biology of Living Systems
+**L5-Microgravity and Biology of Living Systems**
 
 
 ```
@@ -176,7 +176,7 @@ Ans: c. Study and support of life in space
 
 
 
-L6-Scientific Opportunities for Indian Astronauts on Lunar Surface
+**L6-Scientific Opportunities for Indian Astronauts on Lunar Surface**
 
 
 ```
@@ -393,6 +393,8 @@ b. A circular orbit at an altitude of 650 km around the Earth
 
 
 **L9-Envisioning the future for Solar System Exploration**
+
+
 ```
 What is the name of the first Indian mission to Mars?
 a. Mars Orbiter Mission (MOM)
@@ -507,12 +509,12 @@ c. Solar Physics
 d. Planetary Science
 
 
-Ans : a. All of the above. ```
+Ans : a. All of the above. 
 
+
+```
 
 **L11 is Also L7**
-
-
 
 
 
@@ -559,4 +561,6 @@ b. Photon
 c. Electron
 d. Cosmic rays
 
-Ans: a. All of the given options. ```
+Ans: a. All of the given options. 
+
+```
