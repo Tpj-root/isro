@@ -18,31 +18,31 @@
   </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L1</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🔵🔴</td>
+  <td style="width: 200px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">-🔵🔴</td>
   <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L2</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">-🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L3</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🔴</td>
+  <td style="width: 200px; word-wrap: break-word;">-🔴</td>
+  <td style="width: 200px; word-wrap: break-word;">-🟢</td>
   <td style="width: 200px; word-wrap: break-word;">3</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
@@ -108,11 +108,11 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L10</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">b</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🔴</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
   <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
@@ -138,22 +138,22 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L13</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">b</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
-  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🔴</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
   <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L14</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🔴</td>
   <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
@@ -171,21 +171,21 @@
 
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L16</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">d🔴🔵</td>
+  <td style="width: 150px; word-wrap: break-word;">d🔴🔵</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
   <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L17</td>
-  <td style="width: 150px; word-wrap: break-word;">b</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 200px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">b🔴🔵</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🔴🔵</td>
   <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
@@ -743,7 +743,7 @@ b. Indian Institutes ONLY
 c. ISRO Only
 d. Universities in India ONLY
 
-Ans : c ???
+Ans :a  ?? c ???
 
 
 
