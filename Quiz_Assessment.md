@@ -58,51 +58,51 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L5</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">-🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L6</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L7</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L8</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L9</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 150px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
@@ -118,21 +118,21 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L11</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L12</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 150px; word-wrap: break-word;">b</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
@@ -160,11 +160,11 @@
 
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L15</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">c</td>
-  <td style="width: 150px; word-wrap: break-word;">a</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
-  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
   <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
