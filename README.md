@@ -183,7 +183,6 @@ https://youtu.be/POF4z_U98pE
 
 ```
 
-
 ### 27th January 2025 # live
 
  - Space Robotics in Future Science Exploration
