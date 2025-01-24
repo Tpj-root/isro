@@ -105,7 +105,7 @@ https://youtu.be/Jg58wbpTwFM
 
 
 
-### 16th January 2025 
+### 16th January 2025 # live
 
  - Envisioning the future for Solar System Exploration
  - Future Directions in Space-Based Astronomy and Astrophysics
@@ -116,7 +116,7 @@ https://youtu.be/I6Jqqk6cKfg
 ```
 
 
-### 17th January 2025
+### 17th January 2025 # live
 
  - Future Directions in Astrochemistry Research
 
@@ -168,6 +168,7 @@ https://youtu.be/o0XEXGm3fQ8
  - Docking in Space: Technologies, Challenges and Possibilities
 
 ```
+https://youtu.be/Ur9m5w_xJMQ
 
 ```
 
@@ -178,6 +179,7 @@ https://youtu.be/o0XEXGm3fQ8
  - Scientific Payloads and Techniques for Solar System Exploration
 
 ```
+https://youtu.be/POF4z_U98pE
 
 ```
 
@@ -321,9 +323,11 @@ https://youtu.be/7-PEE62m0A4
 ```
 
 
+Understanding and predicting solar activity: Do sun’s poles have the answer by Prof.Bhargav Vaidya
 
-
-
+```
+https://youtu.be/o0XEXGm3fQ8
+```
 
 
 

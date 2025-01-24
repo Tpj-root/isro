@@ -292,9 +292,6 @@
   <td style="width: 200px; word-wrap: break-word;">77|85</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
-
-
-
 </table>
 
 
