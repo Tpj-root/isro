@@ -197,7 +197,9 @@ https://youtu.be/POF4z_U98pE
  - Space Robotics in Future Science Exploration
  
  - Building structures on the Moon: Challenges and Possibilities
+ 
 ```
+https://youtu.be/_65UP2iWYwI
 
 ```
 
@@ -208,6 +210,7 @@ https://youtu.be/POF4z_U98pE
  - Challenges in the Archival and Analysis of Planetary Samples
  
 ```
+https://youtu.be/GbEyw7MRp60
 
 ```
 
@@ -216,6 +219,7 @@ https://youtu.be/POF4z_U98pE
  - Planetary Protection in Scientific Exploration: Will new Rules be Necessary for Future?
  
 ```
+
 
 ```
 
