@@ -192,74 +192,74 @@
 
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L18</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L19</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L20</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🔴b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L21</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L22</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L23</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🔴c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">4</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L24</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">b</td>
+  <td style="width: 150px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">3</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@
   <td style="width: 150px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">77|85</td>
+  <td style="width: 200px; word-wrap: break-word;">108|120</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 </table>
@@ -312,27 +312,27 @@
 ```
 Who was the founder of Tata Institute of Fundamental Research (TIFR)?
 
-My_Ans: Prof. Homi Jahangir Bhava
+Prof. Homi Jahangir Bhava
 
 
 Name the scientist who is known for the first use of radiowaves in India to probe the ionosphere
 
-My_Ans: Acharya J C Bose
+Acharya J C Bose
 
 
 National Balloon Facility (NBF) of TIFR is situated in the city of
 
-My_Ans: Hyderabad
+Hyderabad
 
 
 In 1956, the Ionospheric Field Station was established at
 
-My_Ans: Kodaikanal
+Kodaikanal
 
 
 The first Indian satellite Aryabhatta was dedicated to the study of:
 
-My_Ans: X-Ray astronomy, aeronomy and solar physics
+X-Ray astronomy, aeronomy and solar physics
 ```
 
 
@@ -344,24 +344,24 @@ My_Ans: X-Ray astronomy, aeronomy and solar physics
 ```
 How many precursor missions are planned before launching BAS-1 module?
 
-My_Ans: 4
+4
 
 Which was the first ever space station built?
 
-My_Ans: Salyut
+Salyut
 
 
 How many modules are there in BAS?
 
-My_Ans: 5
+5
 
 Which was the first launch vehicle developed by ISRO?
 
-My_Ans: SLV
+SLV
 
 Which of the following mission marked the dawn of Indian human space flight programme?
 
-My_Ans: SRE
+SRE
 ```
 
 
@@ -372,25 +372,25 @@ My_Ans: SRE
 
 How many modules are in Bharatiya Antariksh Station?
 
-My_Ans: 5
+5
 
 
 How many missions of Uncrewed & Crewed planned under Gaganyaan Programme?
 
-My_Ans: 4
+4
 
 What was the recent science mission undertaken by ISRO?
 
-My_Ans: Chandrayaan-3
+Chandrayaan-3
 
 
 After completion, what will be the targeted mass range of Bharatiya Antariksh Station?
 
-My_Ans: 50-60 tonne
+50-60 tonne
 
 What was the largest sociological experiment in the world conducted by ISRO in 1975?
 
-My_Ans: SITE
+SITE
 ```
 
 
@@ -402,27 +402,27 @@ My_Ans: SITE
 ```
 Which lunar feature does SARA instrument of Chandrayaan-1 help investigate through its measurements?
 
-My_Ans: d. The behavior of the Moon’s exosphere and ionosphere
+d. The behavior of the Moon’s exosphere and ionosphere
 
 
 Which instrument did the Chandrayaan-3’s Pragyan carry to study the lunar surface?
 
-My_Ans: d. A Laser-Induced Breakdown Spectroscope (LIBS)
+d. A Laser-Induced Breakdown Spectroscope (LIBS)
 
 
 One of the discoveries from Chandrayaan-1 regarding the Moon is:
 
-My_Ans: c. Evidence of ancient volcanic activity
+c. Evidence of ancient volcanic activity
 
 
 DFSAR of Chandrayaan-2 is designed to operate at which frequencies?
 
-My_Ans: b. Dual frequencies: L-band and S-band
+b. Dual frequencies: L-band and S-band
 
 
 The main surface alteration process on the Moon is:
 
-My_Ans: a. space weathering
+a. space weathering
 
 ```
 
@@ -434,13 +434,13 @@ My_Ans: a. space weathering
 
 The first ever human space mission of India is called
 
-My_Ans: Gaganyaan
+Gaganyaan
 
 
 
 Life on Earth has been constantly under the influence of …………… since it emerged 4.2 billion years ago.
 
-My_Ans: Gravity
+Gravity
 
 
 
@@ -453,7 +453,7 @@ d. Confinement and isolation
 
 
 
-My_Ans: c. All the given options
+c. All the given options
 
 
 
@@ -466,7 +466,7 @@ d. 3D-clinostat
 
 
 
-My_Ans: d. 3D-clinostat
+d. 3D-clinostat
 
 
 
@@ -478,7 +478,7 @@ c. Study and support of life in space
 d. Growing plants in space
 
 
-My_Ans: c. Study and support of life in space
+c. Study and support of life in space
 
 
 ```
@@ -498,7 +498,7 @@ c. Water activity
 d. Shrinking of the Moon
 
 
-My_Ans: d. Shrinking of the Moon
+d. Shrinking of the Moon
 
 
 
@@ -511,7 +511,7 @@ d. None of the above
 
 
 
-My_Ans: c. Volcanic rocks
+c. Volcanic rocks
 
 
 How did anorthositic crust of the Moon form?
@@ -521,7 +521,7 @@ c. intrusive bodies
 d. Crystallization of magma ocean
 
 
-My_Ans: d. Crystallization of magma ocean
+d. Crystallization of magma ocean
 
 
 
@@ -533,7 +533,7 @@ d. Apollo
 
 
 
-My_Ans: d. Apollo
+d. Apollo
 
 
 
@@ -546,7 +546,7 @@ d. 3.5 billion years ago
 
 
 
-My_Ans: a. 4.5 billion years ago
+a. 4.5 billion years ago
 
 
 ```
@@ -583,7 +583,7 @@ c. Downward
 d. Southward
 
 
-My_Ans: a. Upward
+a. Upward
 
 
 
@@ -594,7 +594,7 @@ c. The solar wind
 d. The ozone hole
 
 
-My_Ans: c. The solar wind
+c. The solar wind
 
 
 Which of the following is the most energetic radiation in the electromagnetic spectrum?
@@ -603,7 +603,7 @@ b. Radio waves
 c. Visible light
 d. Infrared radiation
 
-My_Ans: a. Gamma rays. 
+a. Gamma rays. 
 
 
 Name the locations of the two observatories in India that played an important role in research on Sun-Earth Connection during 19th century
@@ -613,7 +613,7 @@ c. Nagpur and Kolkata
 d. Colaba (Bombay) and Kodaikanal
 
 
-My_Ans: d. Colaba (Bombay) and Kodaikanal. 
+d. Colaba (Bombay) and Kodaikanal. 
 
 
 Average speed of the solar wind is
@@ -623,7 +623,7 @@ c. 200 km/s
 d. 800 km/s
 
 
-My_Ans: b. 400 km/s. 
+b. 400 km/s. 
 ```
 
 
@@ -840,7 +840,7 @@ c. Mars.
 d. Earth
 
 
-My_Ans:  a. Mercury. 
+ a. Mercury. 
 
 What will be the major product if water reacts with carbon dioxide in the solar system bodies?
 a. Acetone
@@ -848,7 +848,7 @@ b. Carbonic acid
 c. Hydrogen peroxide
 d. Hydronium ion
 
-My_Ans: b. Carbonic acid. 
+b. Carbonic acid. 
 
 
 Which of the following icy moons has abundant sulfur?
@@ -857,7 +857,7 @@ b. Miranda
 c. Io
 d. Ariel
 
-My_Ans:  c. Io. 
+ c. Io. 
 
 What is the most abundant molecule in the atmosphere of Saturn’s satellite Titan?
 a. Methane
@@ -865,14 +865,14 @@ b. Carbon monoxide
 c. All of these. d. Nitrogen
 
 
-My_Ans: d. Nitrogen. 
+d. Nitrogen. 
 Which of the following energetic particles can induce chemistry on our Moon’s surface?
 a. All of the given options
 b. Photon
 c. Electron
 d. Cosmic rays
 
-My_Ans: a. All of the given options. 
+a. All of the given options. 
 
 ```
 
@@ -891,7 +891,7 @@ c.Radial velocity
 d.Transmission Spectroscopy during exoplanet Transit
 
 
-My_Ans: d. Transmission Spectroscopy during exoplanet Transit
+d. Transmission Spectroscopy during exoplanet Transit
 
 
 Which Space based Transit mission discovered the first Earth size exoplanets?
@@ -900,7 +900,7 @@ b.COROT
 c.TESS
 d.Kepler
 
-My_Ans: c. TESS
+c. TESS
 
 
 What is one of the main challenges of direct imaging in exoplanet detection?
@@ -911,7 +911,7 @@ b.The planet’s brightness is extremely lower than its star.
 c.The transit method is more reliable.
 d.The planets must be in the star’s habitable zone.
 
-My_Ans: b. The planet’s brightness is extremely lower than its star.
+b. The planet’s brightness is extremely lower than its star.
 
 
 
@@ -921,7 +921,7 @@ b.Direct imaging
 c.Pulsar timing
 d.Transit photometry
 
-My_Ans: a. Radial Velocity
+a. Radial Velocity
 
 
 Who discovered the first exoplanet around a main sequence star?
@@ -930,7 +930,7 @@ b.David Charbonneu
 c.Michel Mayor
 d.Sara Seager
 
-My_Ans: c. Michel Mayor
+c. Michel Mayor
 
 ```
 
@@ -948,7 +948,7 @@ c.Space based observatories are not disturbed by seasonal changes
 d.Space based observatories are typically much more expensive than ground based observatories
 
 
-My_Ans: a. All of the given options
+a. All of the given options
 
 
 
@@ -962,7 +962,7 @@ c.Maharashtra
 d.Madhya Pradesh
 
 
-My_Ans: c. Maharashtra
+c. Maharashtra
 
 
 
@@ -973,7 +973,7 @@ b.2.5 m
 c.3.6 m
 d.4.8 m
 
-My_Ans: c. 3.6 m
+c. 3.6 m
 
 
 
@@ -985,7 +985,7 @@ c.X-rays
 d.Radio waves
 
 
-My_Ans: c. X-rays
+c. X-rays
 
 
 
@@ -998,7 +998,7 @@ c.Radio
 d.Gamma ray
 
 
-My_Ans: c. Radio ??
+c. Radio ??
 
 ```
 
@@ -1017,7 +1017,7 @@ c.Newton's 3rd law
 d.None of these
 
 
-My_Ans: c. Newton's 3rd law
+c. Newton's 3rd law
 
 
 
@@ -1033,7 +1033,7 @@ b.1
 c.5
 d.0
 
-My_Ans: c. 5
+c. 5
 
 
 
@@ -1044,7 +1044,7 @@ c.J. Lagrange
 d.None of these
 
 
-My_Ans: a. Johannes Kepler
+a. Johannes Kepler
 
 
 
@@ -1054,7 +1054,7 @@ b.L1 &amp;L2
 c.L2&amp;L3
 d.L4&amp;L5
 
-My_Ans: d. L4 & L5
+d. L4 & L5
 
 
 
@@ -1065,7 +1065,7 @@ c.same as earth
 d.1/6th Earth
 
 
-My_Ans: d. 1/6th Earth
+d. 1/6th Earth
 
 ```
 
@@ -1085,7 +1085,7 @@ c.The coronal temperature rise
 d.The strength of the next sunspot cycle
 
 
-My_Ans: d. The strength of the next sunspot cycle ??
+d. The strength of the next sunspot cycle ??
 
 
 
@@ -1098,7 +1098,7 @@ c.Randomly.
 d.Solar maxima.
 
 
-My_Ans: d.Solar maxima.  ??  a. Solar minima.
+d.Solar maxima.  ??  a. Solar minima.
 
 
 
@@ -1113,7 +1113,7 @@ c.22
 d.11
 
 
-My_Ans: d. 11
+d. 11
 
 
 
@@ -1127,7 +1127,7 @@ c.Solar Orbiter
 d.ACE
 
 
-My_Ans: c. Solar Orbiter
+c. Solar Orbiter
 
 
 
@@ -1142,7 +1142,7 @@ d.The development of slow solar wind streams.
 
 
 
-My_Ans: c.The acceleration of fast solar wind.  ??
+c.The acceleration of fast solar wind.  ??
 
 b. The generation of high-speed solar wind streams.   ??
 
@@ -1164,7 +1164,7 @@ c.Medium Earth Orbit
 d.Highly Elliptical Orbit
 
 
-My_Ans:  b.Sun-synchronous Polar Orbit
+ b.Sun-synchronous Polar Orbit
 
 
 
@@ -1182,7 +1182,7 @@ d.6 tonnes
 
 
 
-My_Ans: a.4 tonnes
+a.4 tonnes
 
 
 
@@ -1194,7 +1194,7 @@ c.SPOC
 d.Bird
 
 
-My_Ans: a. Capstone.
+a. Capstone.
 
 
 
@@ -1208,7 +1208,7 @@ d.Kerala
 
 
 
-My_Ans: c.Andhra Pradesh
+c.Andhra Pradesh
 
 
 
@@ -1223,7 +1223,7 @@ b.PSLV-DL
 c.PSLV-Core Alone
 d.PSLV-QL
 
-My_Ans: a. PSLV-XL
+a. PSLV-XL
 
 
 ```
@@ -1233,3 +1233,506 @@ My_Ans: a. PSLV-XL
 
 
 
+**18-Advanced Propulsion System for Future Space Exploration**
+
+
+
+```
+
+What is the primary challenge of using nuclear thermal propulsion for crewed space missions?
+a.High fuel requirements
+b.Complexity of the propulsion systems
+c.Safety concerns regarding radiation
+d.Lack of suitable nuclear reactors
+
+
+c. Safety concerns regarding radiation
+
+
+What is the working principle behind nuclear thermal propulsion (NTP)?
+a.Fusing atoms to generate energy
+b.Using electricity to ionize propellant
+c.Using solar energy to heat a propellant
+d.Heating a propellant using nuclear reactions and expelling it through a nozzle
+
+
+
+d. Heating a propellant using nuclear reactions and expelling it through a nozzle
+
+
+
+
+
+
+
+
+What is the primary advantage of ion propulsion over traditional chemical propulsion system?
+a.Higher thrust
+b.Higher efficiency and lower fuel consumption
+c.No need for electrical power
+d.Simplicity and lower cost
+
+
+b. Higher efficiency and lower fuel consumption
+
+
+
+
+
+
+
+Which of the following propulsion systems provides the highest specific impulse (Isp)?
+a.Ion thrusters
+b.Cold gas based thrusters
+c.Solar sails
+d.Chemical rockets
+
+a. Ion thrusters
+
+
+Which advanced propulsion system is based on the concept of using photon pressure from light?
+a.Chemical propulsion
+b.Ion propulsion
+c.Nuclear fusion propulsion
+d.Solar sail propulsion
+
+
+d. Solar sail propulsion
+
+
+```
+
+
+
+
+**L19-Advanced Propulsion System for Future Space Exploration**
+
+
+```
+
+
+What is the primary purpose of docking in space?
+a.To refuel and resupply spacecraft
+b.All of the given options
+c.To assemble and construct large space structures
+d.To repair and maintain spacecraft
+
+
+
+b. All of the given options
+
+
+
+
+What is a major challenge in space docking?
+a.Managing the mass and momentum of the spacecraft
+b.All of the given options
+c.Ensuring reliable communication and data exchange
+d.Achieving high-precision alignment and capture
+
+
+
+
+
+b. All of the given options
+
+
+
+What is the benefit of using standardized docking interfaces?
+a.Increased efficiency and reduced costs
+b.All of the given options
+c.Improved safety and reliability
+d.Enhanced flexibility and adaptability
+
+
+
+b. All of the given options
+
+
+
+
+Which of the following is a key technology associated with docking in space?
+a.High-precision navigation and control
+b.Robust communication systems
+c.All of the given options
+d.Advanced propulsion systems
+
+
+c. All of the given options
+
+
+
+
+Which of the following is a potential application of space docking?
+a.Satellite servicing and maintenance
+b.All of the given options
+c.In-orbit assembly and manufacturing
+d.Space-based solar power generation
+
+
+b. All of the given options
+
+
+```
+
+
+
+**L20-Communication and Navigation for Futuristic Interplanetary Missions**
+
+
+
+```
+Proximity Links in the context of Deep Space Communication are
+a.Very high power long distance links
+b.Very high data rate long distance links
+c.The links connecting the orbiters with the Earth
+d.Short haul two way data transfer links
+
+
+
+d. Short haul two way data transfer links
+
+
+
+As per International Telecommunication Union, the Deep Space is the region in Space which is
+a.More than 36,000 Km away from the Earth
+b.More than 2 million Km away from the Earth
+c.More than 20 million Km away from the Earth
+d.More than 9, 30,000,00 Km away from the Earth
+
+
+c. More than 20 million Km away from the Earth  ans:b
+
+
+The major issues with Deep space communication are:
+a.The rain attenuation in the Earth’s atmosphere
+b.The vacuum condition in the space
+c.The radiation belts around the Earth
+d.The fading of the signal and the delay due to large distances
+
+
+
+d. The fading of the signal and the delay due to large distances
+
+
+
+Which of the following is true?
+a.Beam divergence of Optical communication links are smaller than RF links
+b.The Deep Space Network (DSN) antennas are normally very small in size
+c.Sound wave and Radio Frequency wave, both are Electromagnetic waves
+d.RF transmission delay from the Earth to Mars is 1 to 2 minutes
+
+a. Beam divergence of Optical communication links are smaller than RF links
+
+
+The Spacecrafts which have travelled furthest distance from the Earth is:
+a.Voyager 1 and 2
+b.Chandrayaan 2 and 3
+c.Sputnik 1 and 2
+d.Apollo- 11 and 13
+
+
+
+a. Voyager 1 and 2
+
+```
+
+
+
+
+**L21-Scientific Payloads and Techniques for Solar System Exploration**
+
+
+```
+Temperature of a planet ranging around 30 deg C can be derived by remote sensing through instrument working in the wavelength region of:
+a.Microwave
+b.Thermal infrared
+c.Ultraviolet
+d.Visible
+
+
+
+
+b. Thermal infrared
+
+
+Science of the Sun is called-
+a.Terrestrial physics
+b.Heliophysics
+c.Geoscience
+d.Cosmology
+
+
+
+b. Heliophysics
+
+
+
+Which of the following is a first artificial satellite launched in space?
+a.Sputnik-1
+b.Explorer-1
+c.Corona
+d.Ariel
+
+
+
+a. Sputnik-1
+
+
+
+Measurements of plasma parameters such as electron density, electron temperature, plasma potential can be done by instrument called:
+a.Langmuir probe
+b.Particle analyzer
+c.Radiometer
+d.Spectrometer
+
+a. Langmuir probe
+
+
+
+Speed of light is:
+a.3x108 m/s
+b.3x1010 m/s
+c.3x1010 km/s
+d.3x108 km/s
+
+
+
+
+
+a. 3x10^8 m/s
+
+
+```
+
+
+
+
+**L22-Space Robotics in Future Science Exploration**
+
+
+
+
+
+
+```
+
+Which of the following are true for Pragyan rover?
+a.It was built by USA
+b.It moved over the surface of the moon
+c.It only orbited the moon but did not land
+d.It was sent to Mars
+
+
+b. It moved over the surface of the moon
+
+Intelligent robots can perform
+a.are purely software entities
+b.take actions without any intelligence
+c.sensing, planning and execute actions
+d.can only passively sense the environment
+
+
+c. sensing, planning and execute actions
+
+
+
+Planning is the process of
+a.Deciding actions without any knowledge of the goal
+b.Is the process of collecting images of the environment
+c.Deciding how actions should be sequenced to achieve a goal
+d.None of the given options
+
+
+
+
+c. Deciding how actions should be sequenced to achieve a goal
+
+Which of the following terms can be associated with Vyommitra
+a.It is a humanoid robot with two limbs
+b.It is a four-legged robot
+c.It is a robot that goes under water
+d.It is already in orbit
+
+a. It is a humanoid robot with two limbs
+
+
+
+Which of the following statements is true for a lidar sensor
+a.It can only operate in the day
+b.None of the given options
+c.It can operate in both day and night
+d.It can only operate in the night
+
+c. It can operate in both day and night
+
+
+```
+
+**L23-Building structures on the Moon: Challenges and Possibilities**
+
+
+```
+
+
+
+
+
+
+
+
+Regolith of a planet or moon refers to its
+a.Large geological features such as mountains
+b.Core
+c.Fine powdery upper layer of surface
+d.Air-borne dust
+
+
+
+c. Fine powdery upper layer of surface
+
+
+
+
+
+
+
+How many designated Lunar analogue sites does India have?
+a.One
+b.Zero
+c.Two
+d.Three
+
+a. One   ans: c.two
+
+
+
+What is the typical strength of construction bricks used on Earth?
+a.<1 MPa
+b.>1 GPa
+c.5-20 MPa
+d.>50 MPa
+
+
+c. 5-20 MPa
+
+
+
+The footprints of Apollo astronauts on Moon are intact because:
+a.The particles are bonded together
+b.Gravitational bonding between particles
+c.The particles are held in place by friction
+d.Covalent bonds that formed between molecules of different particles
+
+
+c. The particles are held in place by friction
+
+
+
+Lunar regolith does NOT have:
+a.Clay
+b.Aluminum oxide
+c.Sodium
+d.Silicon dioxide
+
+
+a. Clay
+
+
+```
+
+
+
+
+
+**L24-Enabling and Disruptive Technologies for Future Space Science Exploration**
+
+
+
+
+```
+
+On which principle does antimatter propulsion primarily operate?
+a.Electromagnetic repulsion
+b.Matter-antimatter annihilation
+c.Nuclear fission
+d.Ionization of gases
+
+
+b. Matter-antimatter annihilation
+
+
+
+
+
+
+
+
+What distinguishes enabling technology from disruptive technology?
+a.Enabling technology is accessible to a limited audience, while disruptive technology has widespread adoption.
+b.Enabling technology enhances existing processes and systems, while disruptive technology completely replaces them.
+c.Enabling technology improves efficiency incrementally, while disruptive technology fundamentally alters industries and markets.
+d.Enabling technology requires substantial investment, while disruptive technology is cost-effective from the outset.
+
+
+
+
+
+b. Enabling technology enhances existing processes and systems, while disruptive technology completely replaces them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In planetary exploration, what is a key distinction between wheeled rovers and legged rovers?
+a.Legged rovers are typically slower in covering large distances than wheeled rovers.
+b.Wheeled rovers are limited in their ability to traverse steep slopes, unlike legged rovers.
+c.Legged rovers require more complex navigation systems than wheeled rovers.
+d.Wheeled rovers are more energy-efficient on rough terrain compared to legged rovers.
+
+
+
+
+d. Wheeled rovers are more energy-efficient on rough terrain compared to legged rovers.
+
+
+
+
+
+How does methane compare to traditional rocket propellants like liquid hydrogen or kerosene?
+a.Methane is less environmentally friendly and emits more pollutants during combustion than traditional rocket propellants.
+b.Methane requires complex storage and handling systems, making it less practical for space missions compared to traditional rocket propellants.
+c.Methane is more abundant and cheaper to produce than traditional rocket propellants.
+d.Methane offers lower thrust and efficiency compared to traditional rocket propellants.
+
+
+
+c. Methane is more abundant and cheaper to produce than traditional rocket propellants.
+
+
+
+
+
+
+
+
+
+Which gases are commonly used in electric propulsion systems for spacecraft?
+a.Helium and neon
+b.Xenon and krypton
+c.Nitrogen and oxygen
+d.Argon and krypton
+
+b. Xenon and krypton
+
+
+```
