@@ -264,22 +264,12 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L25</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-</tr>
-<tr>
-  <td style="width: 50px; word-wrap: break-word;">L26</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">c</td>
+  <td style="width: 200px; word-wrap: break-word;">d</td>
+  <td style="width: 200px; word-wrap: break-word;">3</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -289,10 +279,15 @@
   <td style="width: 150px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">108|120</td>
+  <td style="width: 200px; word-wrap: break-word;">111|125</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 </table>
+
+
+
+
+
 
 
 
@@ -1736,3 +1731,78 @@ b. Xenon and krypton
 
 
 ```
+
+
+**L25-Challenges in the Archival and Analysis of Planetary Samples**
+
+
+
+
+
+```
+
+First formed solid in solar system
+a.CAI
+b.asteroid
+c.Planet
+d.Chondrule
+
+
+a. CAI (Calcium-Aluminum-rich Inclusion).
+
+
+
+
+Electron MicroProbe Analyser can be used for
+a.Elemental Abundances Measurements
+b.Plasma Measurements
+c.Isotope measurement
+d.Ion Measurements
+
+a. Elemental Abundances Measurements.
+
+
+
+
+What is the full for of CAI
+a.Calcium Aluminium Inclusion
+b.Chromium Ammonium Inclusion
+c.Calcium Ammonium Inclusion
+d.Chromium Aluminium Inclusion
+
+
+
+a. Calcium Aluminium Inclusion.
+
+
+
+
+
+
+
+What is the meaning of condensation temperature?
+a.temperature at which 50% of the mass of a particular element has evaporated
+b.temperature at which 50% of the mass of a particular element has melted
+c.temperature at which 50% of the mass of a particular element has condensed
+d.temperature at which 50% of the mass of a particular element has crystalized
+
+
+
+c. temperature at which 50% of the mass of a particular element has condensed.
+
+
+
+
+What is the best method chronometer to date Solar system
+a.U-Pb
+b.Cr-Mn
+c.Sm-Nd
+d.Al-Mg
+
+
+d.Al-Mg
+
+```
+
+
+

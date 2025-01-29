@@ -335,18 +335,86 @@ https://youtu.be/7-PEE62m0A4
 ```
 
 
-Understanding and predicting solar activity: Do sun’s poles have the answer by Prof.Bhargav Vaidya
+ - 16. Understanding and predicting solar activity: Do sun’s poles have the answer by Prof.Bhargav Vaidya
 
 ```
-https://youtu.be/o0XEXGm3fQ8
+https://youtu.be/SSggkB8rpho
 ```
 
 
 
+ - 17. Launch Vehicles for Future Space Exploration by Shri M.S. Anurup
+ 
+```
+https://youtu.be/12JBMHQKU_Y
+
+```
+
+ 
+ - 18. Advanced Propulsion System for Future Space Exploration by Shri Hutton
+ 
+```
+https://youtu.be/usmmWC5ZPbM
+
+```
+
+ - 19. Docking in Space: Technologies, Challenges and Possibilities by Dr.Koteshwar Rao
+  
+```
+https://youtu.be/ulaK8as0qWk
+```
+
+ - 20. Communication and Navigation for Futuristic Interplanetary Missions by Shri Sumitesh Sarkar
+  
+```
+https://youtu.be/1M11atz7sQc
+```
+
+ - 21. Scientific Payloads and Techniques for Solar System Exploration by Dr. Mehul R. Pandya
+  
+```
+https://youtu.be/_BNzwT7mcTA
+```
+
+ - 22. Space Robotics in Future Science Exploration by Prof. Rohan Paul
+
+ 
+```
+https://youtu.be/Zvn89-uIFq4
+```
+
+
+ - 23. Building structures on the Moon: Challenges and Possibilities by Prof. Aloke Kumar
+
+
+```
+https://youtu.be/AN6HBY3rz7o
+```
+
+
+ - 24. Enabling and Disruptive Technologies for Future Space Science Exploration by Shri. N. Raghu
+
+```
+https://youtu.be/LA5lo6-y6fY
+```
 
 
 
+ -  25. Challenges in the Archival and Analysis of Planetary Samples by Dr. D.K. Panda
 
+```
+https://youtu.be/0WBWl_ZUKmg
+```
+
+
+
+ - 26. Planetary Protection in Scientific Exploration: Will new Rules be Necessary for Future? by Dr. K. Praveen Kumar
+
+
+```
+https://youtu.be/SkqCyiMm3hM
+
+```
 
 
 
