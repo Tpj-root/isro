@@ -274,12 +274,12 @@
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">L26</td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 150px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 150px; word-wrap: break-word;">b🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">c🟢</td>
+  <td style="width: 150px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">a🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">d🟢</td>
+  <td style="width: 200px; word-wrap: break-word;">5</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@
   <td style="width: 150px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
-  <td style="width: 200px; word-wrap: break-word;">111|125</td>
+  <td style="width: 200px; word-wrap: break-word;">116|130</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 </table>
@@ -1811,6 +1811,78 @@ d.Al-Mg
 
 
 d.Al-Mg
+
+```
+
+
+
+**L26-Planetary Protection in Scientific Exploration: Will new Rules be Necessary for Future**
+
+
+
+```
+COSPAR Planetary Protection include
+
+A.Forward contamination
+B.Both forward and backward contamination
+C.Backward contamination
+D.Planetary Defence
+
+
+
+B. Both forward and backward contamination
+
+
+
+
+The Outer Space Treaty came into effect on which year?
+A.1956
+B.1957
+C.1967
+D.1966
+
+
+
+
+
+C. 1967
+
+
+
+
+Which among the following solar system body does not have a potential for probable life?
+A.Venus
+B.Enceladus
+C.Mars
+D.Europa
+
+
+
+
+A. Venus
+
+
+In the case of Planetary protection for Mars, which are the main themes where the knowledge gaps exist and need to be addressed?
+A.All the given options
+B.Contamination transport model
+C.Mars Environmental Conditions
+D.Biocidal effects
+
+
+
+A. All the given options
+
+
+
+How many main categories are there in COSPAR Planetary protection?
+A.6
+B.4
+C.3
+D.5
+
+
+D.5
+
 
 ```
 
