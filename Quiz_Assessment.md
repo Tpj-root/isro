@@ -4,6 +4,10 @@
 🔴 = Red (Wrong)
 🟢 = Green (Right)
 
+### Maybe some answers are wrong... so,
+### It's just for study purposes.
+### Learn from my mistakes.
+
 
 <table>
   <tr>
@@ -307,7 +311,7 @@
 
 
 
-
+Ans: 
 
 
 
@@ -317,27 +321,27 @@
 ```
 Who was the founder of Tata Institute of Fundamental Research (TIFR)?
 
-Prof. Homi Jahangir Bhava
+Ans: Prof. Homi Jahangir Bhava
 
 
 Name the scientist who is known for the first use of radiowaves in India to probe the ionosphere
 
-Acharya J C Bose
+Ans: Acharya J C Bose
 
 
 National Balloon Facility (NBF) of TIFR is situated in the city of
 
-Hyderabad
+Ans: Hyderabad
 
 
 In 1956, the Ionospheric Field Station was established at
 
-Kodaikanal
+Ans: Kodaikanal
 
 
 The first Indian satellite Aryabhatta was dedicated to the study of:
 
-X-Ray astronomy, aeronomy and solar physics
+Ans: X-Ray astronomy, aeronomy and solar physics
 ```
 
 
@@ -349,24 +353,23 @@ X-Ray astronomy, aeronomy and solar physics
 ```
 How many precursor missions are planned before launching BAS-1 module?
 
-4
+Ans: 4
 
 Which was the first ever space station built?
 
-Salyut
-
+Ans: Salyut
 
 How many modules are there in BAS?
 
-5
+Ans: 5
 
 Which was the first launch vehicle developed by ISRO?
 
-SLV
+Ans: SLV
 
 Which of the following mission marked the dawn of Indian human space flight programme?
 
-SRE
+Ans: SRE
 ```
 
 
@@ -377,25 +380,23 @@ SRE
 
 How many modules are in Bharatiya Antariksh Station?
 
-5
-
+Ans: 5
 
 How many missions of Uncrewed & Crewed planned under Gaganyaan Programme?
 
-4
+Ans: 4
 
 What was the recent science mission undertaken by ISRO?
 
-Chandrayaan-3
-
+Ans: Chandrayaan-3
 
 After completion, what will be the targeted mass range of Bharatiya Antariksh Station?
 
-50-60 tonne
+Ans: 50-60 tonne
 
 What was the largest sociological experiment in the world conducted by ISRO in 1975?
 
-SITE
+Ans: SITE
 ```
 
 
@@ -407,27 +408,27 @@ SITE
 ```
 Which lunar feature does SARA instrument of Chandrayaan-1 help investigate through its measurements?
 
-d. The behavior of the Moon’s exosphere and ionosphere
+Ans: d. The behavior of the Moon’s exosphere and ionosphere
 
 
 Which instrument did the Chandrayaan-3’s Pragyan carry to study the lunar surface?
 
-d. A Laser-Induced Breakdown Spectroscope (LIBS)
+Ans: d. A Laser-Induced Breakdown Spectroscope (LIBS)
 
 
 One of the discoveries from Chandrayaan-1 regarding the Moon is:
 
-c. Evidence of ancient volcanic activity
+Ans: c. Evidence of ancient volcanic activity
 
 
 DFSAR of Chandrayaan-2 is designed to operate at which frequencies?
 
-b. Dual frequencies: L-band and S-band
+Ans: b. Dual frequencies: L-band and S-band
 
 
 The main surface alteration process on the Moon is:
 
-a. space weathering
+Ans: a. space weathering
 
 ```
 
@@ -439,15 +440,12 @@ a. space weathering
 
 The first ever human space mission of India is called
 
-Gaganyaan
-
+Ans: Gaganyaan
 
 
 Life on Earth has been constantly under the influence of …………… since it emerged 4.2 billion years ago.
 
-Gravity
-
-
+Ans: Gravity
 
 
 Among the following, which are the challenges experienced by life in space?
@@ -457,10 +455,7 @@ c. All the given options
 d. Confinement and isolation
 
 
-
-c. All the given options
-
-
+Ans: c. All the given options
 
 
 Identify the ground based microgravity simulator among the following
@@ -469,11 +464,7 @@ b. Balloons
 c. ISS
 d. 3D-clinostat
 
-
-
-d. 3D-clinostat
-
-
+Ans: d. 3D-clinostat
 
 
 Bioastronautics refers to …….. 
@@ -482,8 +473,7 @@ b. Study of space radiation
 c. Study and support of life in space
 d. Growing plants in space
 
-
-c. Study and support of life in space
+Ans: c. Study and support of life in space
 
 
 ```
@@ -502,10 +492,7 @@ b. Magmatic intrusion
 c. Water activity
 d. Shrinking of the Moon
 
-
-d. Shrinking of the Moon
-
-
+Ans: d. Shrinking of the Moon
 
 
 What are mare materials?
@@ -514,9 +501,7 @@ b. Metamorphic rocks
 c. Volcanic rocks
 d. None of the above
 
-
-
-c. Volcanic rocks
+Ans: c. Volcanic rocks
 
 
 How did anorthositic crust of the Moon form?
@@ -525,9 +510,7 @@ b. wind borne deposits
 c. intrusive bodies
 d. Crystallization of magma ocean
 
-
-d. Crystallization of magma ocean
-
+Ans: d. Crystallization of magma ocean
 
 
 Which one of the following was the crewed mission to the Moon
@@ -536,10 +519,7 @@ b. SELENE
 c. Chandrayaan-3
 d. Apollo
 
-
-
-d. Apollo
-
+Ans: d. Apollo
 
 
 When did Moon form?
@@ -548,15 +528,10 @@ b. 2.5 billion years ago
 c. 1 billion years ago
 d. 3.5 billion years ago
 
-
-
-
-a. 4.5 billion years ago
+Ans: a. 4.5 billion years ago
 
 
 ```
-
-
 
 
 **L7-Towards a Better Understanding of the Sun-Earth Connection: Avenues for Next Two Decades**
@@ -587,8 +562,7 @@ b. Westward
 c. Downward
 d. Southward
 
-
-a. Upward
+Ans: a. Upward
 
 
 
@@ -598,8 +572,7 @@ b. The sunspots
 c. The solar wind
 d. The ozone hole
 
-
-c. The solar wind
+Ans: c. The solar wind
 
 
 Which of the following is the most energetic radiation in the electromagnetic spectrum?
@@ -608,7 +581,7 @@ b. Radio waves
 c. Visible light
 d. Infrared radiation
 
-a. Gamma rays. 
+Ans: a. Gamma rays. 
 
 
 Name the locations of the two observatories in India that played an important role in research on Sun-Earth Connection during 19th century
@@ -617,8 +590,7 @@ b. Madras and Trivandrum
 c. Nagpur and Kolkata
 d. Colaba (Bombay) and Kodaikanal
 
-
-d. Colaba (Bombay) and Kodaikanal. 
+Ans: d. Colaba (Bombay) and Kodaikanal. 
 
 
 Average speed of the solar wind is
@@ -627,14 +599,8 @@ b. 400 km/s
 c. 200 km/s
 d. 800 km/s
 
-
-b. 400 km/s. 
+Ans: b. 400 km/s. 
 ```
-
-
-
-
-
 
 **L8-Scientific Opportunities for Indian Astronauts on Lunar Surface**
 
@@ -646,10 +612,7 @@ b. 4.5 million km
 c. 1.5 million km
 d. 15,000 km
 
-
-c. 1.5 million km
-
-
+Ans: c. 1.5 million km
 
 
 Which of the following kinds of Astronomy is not done by ISRO’s ASTROSAT?
@@ -658,13 +621,7 @@ b. UV Astronomy
 c. Hard X-ray Astronomy
 d. Radio Astronomy
 
-
-
-d. Radio Astronomy
-
-
-
-
+Ans: d. Radio Astronomy
 
 
 Which of the following types of radiation from celestial sources reach the Earth’s surface passing through the atmosphere?
@@ -674,10 +631,7 @@ c. Far-infrared radiation
 d. Optical radiation
 
 
-
-d. Optical radiation
-
-
+Ans: d. Optical radiation
 
 
 
@@ -688,7 +642,7 @@ c. ASTROSAT was launched in 2015
 d. All the instruments observe the same celestial object at a given time
 
 
-a. All the instruments observe different celestial objects at a given time
+Ans: a. All the instruments observe different celestial objects at a given time
 
 
 What kind of orbit does ISRO’s ASTROSAT have?
@@ -698,14 +652,10 @@ c. An elliptical orbit of major axis 1000 km around the Earth
 d. A Lissajous orbit around the first Lagrangian point between Earth and Sun
 
 
-
-b. A circular orbit at an altitude of 650 km around the Earth
+Ans: b. A circular orbit at an altitude of 650 km around the Earth
 
 
 ```
-
-
-
 
 
 **L9-Envisioning the future for Solar System Exploration**
@@ -719,10 +669,7 @@ c. Shukrayaan
 d. Somayaan-1
 
 
-My_Ans:a
-
-
-
+Ans: a. Mars Orbiter Mission (MOM)
 
 
 Which planetary body was investigated during the OSIRIS-REx mission
@@ -731,13 +678,7 @@ b. Vesta
 c. Moon
 d. Bennu
 
-
-
-My_Ans:d
-
-
-
-
+Ans: d. Bennu
 
 
 Which is of these isotopes is a short-lived radionuclide?
@@ -746,7 +687,7 @@ b. 40K
 c. 232Th
 d. 26Al
 
-My_Ans:d
+Ans: d. 26Al
 
 
 
@@ -756,7 +697,7 @@ b. the time for radium to change into lead
 c. half the time it takes for the entire substance to decay
 d. the time for half the substance to decay
 
-My_Ans:d
+Ans: d. the time for half the substance to decay
 
 
 
@@ -767,8 +708,7 @@ c. Infrared
 d. X-ray
 
 
-
-My_Ans:b
+Ans: d. X-ray
 
 ```
 
@@ -787,7 +727,7 @@ c. Corona
 d. Photosphere
 
 
-Ans : c. Corona
+Ans: c. Corona
 
 What is Heliosphere?
 a. It is the size of the Sun
@@ -796,7 +736,7 @@ c. It is a space occupied by the Sun
 d. Space between the Sun and Earth
 
 
-Ans : b. It is the space influenced by the Sun. 
+Ans: b. It is the space influenced by the Sun. 
 
 Instruments to study Space weather aspects are owned by:
 a. ISRO, other Indian Institutes and universities
@@ -804,8 +744,7 @@ b. Indian Institutes ONLY
 c. ISRO Only
 d. Universities in India ONLY
 
-Ans :a  ?? c ???
-
+Ans: a  ?? c ???
 
 
 Full form of CIR is
@@ -815,7 +754,7 @@ c. Corotating Interplanetary Region
 d. Coronal Interplanetary Reaction
 
 
-Ans : b. Corotating Interaction Region. 
+Ans: b. Corotating Interaction Region. 
 
 
 Which of the following subject is part of Heliosphere
@@ -825,7 +764,7 @@ c. Solar Physics
 d. Planetary Science
 
 
-Ans : a. All of the above. 
+Ans: a. All of the above. 
 
 
 ```
@@ -845,7 +784,7 @@ c. Mars.
 d. Earth
 
 
- a. Mercury. 
+Ans: a. Mercury. 
 
 What will be the major product if water reacts with carbon dioxide in the solar system bodies?
 a. Acetone
@@ -853,7 +792,7 @@ b. Carbonic acid
 c. Hydrogen peroxide
 d. Hydronium ion
 
-b. Carbonic acid. 
+Ans: b. Carbonic acid. 
 
 
 Which of the following icy moons has abundant sulfur?
@@ -862,7 +801,7 @@ b. Miranda
 c. Io
 d. Ariel
 
- c. Io. 
+Ans: c. Io. 
 
 What is the most abundant molecule in the atmosphere of Saturn’s satellite Titan?
 a. Methane
@@ -870,22 +809,20 @@ b. Carbon monoxide
 c. All of these. d. Nitrogen
 
 
-d. Nitrogen. 
+Ans: d. Nitrogen. 
+
+
 Which of the following energetic particles can induce chemistry on our Moon’s surface?
 a. All of the given options
 b. Photon
 c. Electron
 d. Cosmic rays
 
-a. All of the given options. 
+Ans: a. All of the given options. 
 
 ```
 
-
-
-
 **L13-In Search of the Exoplanets**
-
 
 
 ```
@@ -896,7 +833,7 @@ c.Radial velocity
 d.Transmission Spectroscopy during exoplanet Transit
 
 
-d. Transmission Spectroscopy during exoplanet Transit
+Ans: d. Transmission Spectroscopy during exoplanet Transit
 
 
 Which Space based Transit mission discovered the first Earth size exoplanets?
@@ -905,7 +842,7 @@ b.COROT
 c.TESS
 d.Kepler
 
-c. TESS
+Ans: c. TESS
 
 
 What is one of the main challenges of direct imaging in exoplanet detection?
@@ -916,7 +853,7 @@ b.The planet’s brightness is extremely lower than its star.
 c.The transit method is more reliable.
 d.The planets must be in the star’s habitable zone.
 
-b. The planet’s brightness is extremely lower than its star.
+Ans: b. The planet’s brightness is extremely lower than its star.
 
 
 
@@ -926,7 +863,7 @@ b.Direct imaging
 c.Pulsar timing
 d.Transit photometry
 
-a. Radial Velocity
+Ans: a. Radial Velocity
 
 
 Who discovered the first exoplanet around a main sequence star?
@@ -935,7 +872,7 @@ b.David Charbonneu
 c.Michel Mayor
 d.Sara Seager
 
-c. Michel Mayor
+Ans: c. Michel Mayor
 
 ```
 
@@ -953,11 +890,7 @@ c.Space based observatories are not disturbed by seasonal changes
 d.Space based observatories are typically much more expensive than ground based observatories
 
 
-a. All of the given options
-
-
-
-
+Ans: a. All of the given options
 
 
 The largest radio telescope in India, the Giant Metrewave Radio Telescope (GMRT), operated by the National Centre for Radio Astrophysics is one of the world’s most sensitive radio telescopes in its frequency range of operation and is used by scientists from more than 30 countries. The GMRT, is located in which Indian state or Union Territory?
@@ -967,7 +900,7 @@ c.Maharashtra
 d.Madhya Pradesh
 
 
-c. Maharashtra
+Ans: c. Maharashtra
 
 
 
@@ -978,7 +911,7 @@ b.2.5 m
 c.3.6 m
 d.4.8 m
 
-c. 3.6 m
+Ans: c. 3.6 m
 
 
 
@@ -990,9 +923,7 @@ c.X-rays
 d.Radio waves
 
 
-c. X-rays
-
-
+Ans: c. X-rays
 
 
 
@@ -1003,7 +934,7 @@ c.Radio
 d.Gamma ray
 
 
-c. Radio ??
+Ans: c. Radio ??
 
 ```
 
@@ -1022,14 +953,7 @@ c.Newton's 3rd law
 d.None of these
 
 
-c. Newton's 3rd law
-
-
-
-
-
-
-
+Ans: c. Newton's 3rd law
 
 
 How many equilibrium points are there in circular restricted three body problem?
@@ -1038,7 +962,7 @@ b.1
 c.5
 d.0
 
-c. 5
+Ans: c. 5
 
 
 
@@ -1049,7 +973,7 @@ c.J. Lagrange
 d.None of these
 
 
-a. Johannes Kepler
+Ans: a. Johannes Kepler
 
 
 
@@ -1059,7 +983,7 @@ b.L1 &amp;L2
 c.L2&amp;L3
 d.L4&amp;L5
 
-d. L4 & L5
+Ans: d. L4 & L5
 
 
 
@@ -1070,7 +994,7 @@ c.same as earth
 d.1/6th Earth
 
 
-d. 1/6th Earth
+Ans: d. 1/6th Earth
 
 ```
 
@@ -1081,8 +1005,6 @@ d. 1/6th Earth
 
 
 ```
-
-
 The amplitude of the sun’s polar field can give insight about
 a.The solar surface brightness
 b.The strength of the previous sunspot cycle
@@ -1090,9 +1012,7 @@ c.The coronal temperature rise
 d.The strength of the next sunspot cycle
 
 
-d. The strength of the next sunspot cycle ??
-
-
+Ans: d. The strength of the next sunspot cycle ??
 
 
 
@@ -1103,12 +1023,7 @@ c.Randomly.
 d.Solar maxima.
 
 
-d.Solar maxima.  ??  a. Solar minima.
-
-
-
-
-
+Ans: d.Solar maxima.  ??  a. Solar minima.
 
 
 Solar magnetic dipole switches polarity every ___ years.
@@ -1118,10 +1033,7 @@ c.22
 d.11
 
 
-d. 11
-
-
-
+Ans: d. 11
 
 
 
@@ -1132,11 +1044,7 @@ c.Solar Orbiter
 d.ACE
 
 
-c. Solar Orbiter
-
-
-
-
+Ans: c. Solar Orbiter
 
 
 What do polar phenomena primarily contribute to in the context of solar wind?
@@ -1147,9 +1055,7 @@ d.The development of slow solar wind streams.
 
 
 
-c.The acceleration of fast solar wind.  ??
-
-b. The generation of high-speed solar wind streams.   ??
+Ans: c.The acceleration of fast solar wind.  ?? b. The generation of high-speed solar wind streams.   ??
 
 
 
@@ -1169,11 +1075,7 @@ c.Medium Earth Orbit
 d.Highly Elliptical Orbit
 
 
- b.Sun-synchronous Polar Orbit
-
-
-
-
+Ans: b.Sun-synchronous Polar Orbit
 
 
 
@@ -1183,13 +1085,7 @@ b.2 tonnes
 c.7 tonnes
 d.6 tonnes
 
-
-
-
-
-a.4 tonnes
-
-
+Ans: a.4 tonnes
 
 
 Which was the Cubesat mission to Moon?
@@ -1198,8 +1094,7 @@ b.Proba 3
 c.SPOC
 d.Bird
 
-
-a. Capstone.
+Ans: a. Capstone.
 
 
 
@@ -1210,16 +1105,7 @@ c.Andhra Pradesh
 d.Kerala
 
 
-
-
-
-c.Andhra Pradesh
-
-
-
-
-
-
+Ans: c.Andhra Pradesh
 
 
 The variant of PSLV launch vehicle used for the Mars Orbiter Mission
@@ -1228,15 +1114,9 @@ b.PSLV-DL
 c.PSLV-Core Alone
 d.PSLV-QL
 
-a. PSLV-XL
-
+Ans: a. PSLV-XL
 
 ```
-
-
-
-
-
 
 **18-Advanced Propulsion System for Future Space Exploration**
 
@@ -1251,7 +1131,7 @@ c.Safety concerns regarding radiation
 d.Lack of suitable nuclear reactors
 
 
-c. Safety concerns regarding radiation
+Ans: c. Safety concerns regarding radiation
 
 
 What is the working principle behind nuclear thermal propulsion (NTP)?
@@ -1262,13 +1142,7 @@ d.Heating a propellant using nuclear reactions and expelling it through a nozzle
 
 
 
-d. Heating a propellant using nuclear reactions and expelling it through a nozzle
-
-
-
-
-
-
+Ans: d. Heating a propellant using nuclear reactions and expelling it through a nozzle
 
 
 What is the primary advantage of ion propulsion over traditional chemical propulsion system?
@@ -1278,11 +1152,7 @@ c.No need for electrical power
 d.Simplicity and lower cost
 
 
-b. Higher efficiency and lower fuel consumption
-
-
-
-
+Ans: b. Higher efficiency and lower fuel consumption
 
 
 
@@ -1292,7 +1162,7 @@ b.Cold gas based thrusters
 c.Solar sails
 d.Chemical rockets
 
-a. Ion thrusters
+Ans: a. Ion thrusters
 
 
 Which advanced propulsion system is based on the concept of using photon pressure from light?
@@ -1302,13 +1172,10 @@ c.Nuclear fusion propulsion
 d.Solar sail propulsion
 
 
-d. Solar sail propulsion
+Ans: d. Solar sail propulsion
 
 
 ```
-
-
-
 
 **L19-Advanced Propulsion System for Future Space Exploration**
 
@@ -1323,8 +1190,7 @@ c.To assemble and construct large space structures
 d.To repair and maintain spacecraft
 
 
-
-b. All of the given options
+Ans: b. All of the given options
 
 
 
@@ -1336,10 +1202,7 @@ c.Ensuring reliable communication and data exchange
 d.Achieving high-precision alignment and capture
 
 
-
-
-
-b. All of the given options
+Ans: b. All of the given options
 
 
 
@@ -1350,8 +1213,7 @@ c.Improved safety and reliability
 d.Enhanced flexibility and adaptability
 
 
-
-b. All of the given options
+Ans: b. All of the given options
 
 
 
@@ -1363,7 +1225,7 @@ c.All of the given options
 d.Advanced propulsion systems
 
 
-c. All of the given options
+Ans: c. All of the given options
 
 
 
@@ -1375,12 +1237,10 @@ c.In-orbit assembly and manufacturing
 d.Space-based solar power generation
 
 
-b. All of the given options
+Ans: b. All of the given options
 
 
 ```
-
-
 
 **L20-Communication and Navigation for Futuristic Interplanetary Missions**
 
@@ -1394,8 +1254,7 @@ c.The links connecting the orbiters with the Earth
 d.Short haul two way data transfer links
 
 
-
-d. Short haul two way data transfer links
+Ans: d. Short haul two way data transfer links
 
 
 
@@ -1406,7 +1265,7 @@ c.More than 20 million Km away from the Earth
 d.More than 9, 30,000,00 Km away from the Earth
 
 
-c. More than 20 million Km away from the Earth  ans:b
+Ans: c. More than 20 million Km away from the Earth  ans:b
 
 
 The major issues with Deep space communication are:
@@ -1417,7 +1276,7 @@ d.The fading of the signal and the delay due to large distances
 
 
 
-d. The fading of the signal and the delay due to large distances
+Ans: d. The fading of the signal and the delay due to large distances
 
 
 
@@ -1427,7 +1286,7 @@ b.The Deep Space Network (DSN) antennas are normally very small in size
 c.Sound wave and Radio Frequency wave, both are Electromagnetic waves
 d.RF transmission delay from the Earth to Mars is 1 to 2 minutes
 
-a. Beam divergence of Optical communication links are smaller than RF links
+Ans: a. Beam divergence of Optical communication links are smaller than RF links
 
 
 The Spacecrafts which have travelled furthest distance from the Earth is:
@@ -1438,7 +1297,7 @@ d.Apollo- 11 and 13
 
 
 
-a. Voyager 1 and 2
+Ans: a. Voyager 1 and 2
 
 ```
 
@@ -1456,9 +1315,7 @@ c.Ultraviolet
 d.Visible
 
 
-
-
-b. Thermal infrared
+Ans: b. Thermal infrared
 
 
 Science of the Sun is called-
@@ -1468,8 +1325,7 @@ c.Geoscience
 d.Cosmology
 
 
-
-b. Heliophysics
+Ans: b. Heliophysics
 
 
 
@@ -1479,9 +1335,7 @@ b.Explorer-1
 c.Corona
 d.Ariel
 
-
-
-a. Sputnik-1
+Ans: a. Sputnik-1
 
 
 
@@ -1491,7 +1345,7 @@ b.Particle analyzer
 c.Radiometer
 d.Spectrometer
 
-a. Langmuir probe
+Ans: a. Langmuir probe
 
 
 
@@ -1501,24 +1355,13 @@ b.3x1010 m/s
 c.3x1010 km/s
 d.3x108 km/s
 
-
-
-
-
-a. 3x10^8 m/s
+Ans: a. 3x10^8 m/s
 
 
 ```
 
 
-
-
 **L22-Space Robotics in Future Science Exploration**
-
-
-
-
-
 
 ```
 
@@ -1529,7 +1372,7 @@ c.It only orbited the moon but did not land
 d.It was sent to Mars
 
 
-b. It moved over the surface of the moon
+Ans: b. It moved over the surface of the moon
 
 Intelligent robots can perform
 a.are purely software entities
@@ -1538,7 +1381,7 @@ c.sensing, planning and execute actions
 d.can only passively sense the environment
 
 
-c. sensing, planning and execute actions
+Ans: c. sensing, planning and execute actions
 
 
 
@@ -1549,9 +1392,7 @@ c.Deciding how actions should be sequenced to achieve a goal
 d.None of the given options
 
 
-
-
-c. Deciding how actions should be sequenced to achieve a goal
+Ans: c. Deciding how actions should be sequenced to achieve a goal
 
 Which of the following terms can be associated with Vyommitra
 a.It is a humanoid robot with two limbs
@@ -1559,7 +1400,7 @@ b.It is a four-legged robot
 c.It is a robot that goes under water
 d.It is already in orbit
 
-a. It is a humanoid robot with two limbs
+Ans: a. It is a humanoid robot with two limbs
 
 
 
@@ -1569,7 +1410,7 @@ b.None of the given options
 c.It can operate in both day and night
 d.It can only operate in the night
 
-c. It can operate in both day and night
+Ans: c. It can operate in both day and night
 
 
 ```
@@ -1579,13 +1420,6 @@ c. It can operate in both day and night
 
 ```
 
-
-
-
-
-
-
-
 Regolith of a planet or moon refers to its
 a.Large geological features such as mountains
 b.Core
@@ -1593,13 +1427,7 @@ c.Fine powdery upper layer of surface
 d.Air-borne dust
 
 
-
-c. Fine powdery upper layer of surface
-
-
-
-
-
+Ans: c. Fine powdery upper layer of surface
 
 
 How many designated Lunar analogue sites does India have?
@@ -1608,7 +1436,7 @@ b.Zero
 c.Two
 d.Three
 
-a. One   ans: c.two
+Ans: a. One   ans: c.two
 
 
 
@@ -1619,7 +1447,7 @@ c.5-20 MPa
 d.>50 MPa
 
 
-c. 5-20 MPa
+Ans: c. 5-20 MPa
 
 
 
@@ -1630,7 +1458,7 @@ c.The particles are held in place by friction
 d.Covalent bonds that formed between molecules of different particles
 
 
-c. The particles are held in place by friction
+Ans: c. The particles are held in place by friction
 
 
 
@@ -1641,19 +1469,13 @@ c.Sodium
 d.Silicon dioxide
 
 
-a. Clay
+Ans: a. Clay
 
 
 ```
 
 
-
-
-
 **L24-Enabling and Disruptive Technologies for Future Space Science Exploration**
-
-
-
 
 ```
 
@@ -1664,13 +1486,7 @@ c.Nuclear fission
 d.Ionization of gases
 
 
-b. Matter-antimatter annihilation
-
-
-
-
-
-
+Ans: b. Matter-antimatter annihilation
 
 
 What distinguishes enabling technology from disruptive technology?
@@ -1680,21 +1496,7 @@ c.Enabling technology improves efficiency incrementally, while disruptive techno
 d.Enabling technology requires substantial investment, while disruptive technology is cost-effective from the outset.
 
 
-
-
-
-b. Enabling technology enhances existing processes and systems, while disruptive technology completely replaces them.
-
-
-
-
-
-
-
-
-
-
-
+Ans: b. Enabling technology enhances existing processes and systems, while disruptive technology completely replaces them.
 
 
 
@@ -1705,11 +1507,7 @@ c.Legged rovers require more complex navigation systems than wheeled rovers.
 d.Wheeled rovers are more energy-efficient on rough terrain compared to legged rovers.
 
 
-
-
-d. Wheeled rovers are more energy-efficient on rough terrain compared to legged rovers.
-
-
+Ans: d. Wheeled rovers are more energy-efficient on rough terrain compared to legged rovers.
 
 
 
@@ -1720,14 +1518,7 @@ c.Methane is more abundant and cheaper to produce than traditional rocket propel
 d.Methane offers lower thrust and efficiency compared to traditional rocket propellants.
 
 
-
-c. Methane is more abundant and cheaper to produce than traditional rocket propellants.
-
-
-
-
-
-
+Ans: c. Methane is more abundant and cheaper to produce than traditional rocket propellants.
 
 
 
@@ -1737,17 +1528,11 @@ b.Xenon and krypton
 c.Nitrogen and oxygen
 d.Argon and krypton
 
-b. Xenon and krypton
+Ans: b. Xenon and krypton
 
 
 ```
-
-
 **L25-Challenges in the Archival and Analysis of Planetary Samples**
-
-
-
-
 
 ```
 
@@ -1758,9 +1543,7 @@ c.Planet
 d.Chondrule
 
 
-a. CAI (Calcium-Aluminum-rich Inclusion).
-
-
+Ans: a. CAI (Calcium-Aluminum-rich Inclusion).
 
 
 Electron MicroProbe Analyser can be used for
@@ -1769,7 +1552,7 @@ b.Plasma Measurements
 c.Isotope measurement
 d.Ion Measurements
 
-a. Elemental Abundances Measurements.
+Ans: a. Elemental Abundances Measurements.
 
 
 
@@ -1781,13 +1564,7 @@ c.Calcium Ammonium Inclusion
 d.Chromium Aluminium Inclusion
 
 
-
-a. Calcium Aluminium Inclusion.
-
-
-
-
-
+Ans: a. Calcium Aluminium Inclusion.
 
 
 What is the meaning of condensation temperature?
@@ -1798,7 +1575,7 @@ d.temperature at which 50% of the mass of a particular element has crystalized
 
 
 
-c. temperature at which 50% of the mass of a particular element has condensed.
+Ans: c. temperature at which 50% of the mass of a particular element has condensed.
 
 
 
@@ -1810,7 +1587,7 @@ c.Sm-Nd
 d.Al-Mg
 
 
-d.Al-Mg
+Ans: d.Al-Mg
 
 ```
 
@@ -1830,9 +1607,7 @@ D.Planetary Defence
 
 
 
-B. Both forward and backward contamination
-
-
+Ans: B. Both forward and backward contamination
 
 
 The Outer Space Treaty came into effect on which year?
@@ -1842,12 +1617,7 @@ C.1967
 D.1966
 
 
-
-
-
-C. 1967
-
-
+Ans: C. 1967
 
 
 Which among the following solar system body does not have a potential for probable life?
@@ -1857,9 +1627,7 @@ C.Mars
 D.Europa
 
 
-
-
-A. Venus
+Ans: A. Venus
 
 
 In the case of Planetary protection for Mars, which are the main themes where the knowledge gaps exist and need to be addressed?
@@ -1869,8 +1637,7 @@ C.Mars Environmental Conditions
 D.Biocidal effects
 
 
-
-A. All the given options
+Ans: A. All the given options
 
 
 
@@ -1881,7 +1648,7 @@ C.3
 D.5
 
 
-D.5
+Ans: D.5
 
 
 ```
