@@ -8,6 +8,44 @@ User Name: trichyhackerspace@gmail.com
 Password: IamIIRS@xxxxXXXX@III
 
 
+
+
+### courses registration link
+
+
+https://elearning.iirs.gov.in/edusatregistration/
+
+
+
+
+
+<table>
+  <tr>
+    <th>Registration Number</th>
+    <th>Course Name</th>
+    <th>Status</th>
+    <th>Summery</th>
+  </tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251552664361</td>
+  <td style="width: 150px; word-wrap: break-word;">START-2025</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251562682896</td>
+  <td style="width: 150px; word-wrap: break-word;">Geodata Processing using Python and Machine Learning</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+</table>
+
+
+ 	 	 		
+ 	 	 
+
+
+
 ![START-2025](START-2025/README.md)
 
 
