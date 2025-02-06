@@ -43,7 +43,7 @@ https://elearning.iirs.gov.in/edusatregistration/
 
 
  	 	 
-![DLP_Course_Calendar_2025](https://www.iirs.gov.in/iirs/sites/default/files/pdf/2024/DLP_Course_Calendar_2025.pdf)
+[DLP_Course_Calendar_2025](https://www.iirs.gov.in/iirs/sites/default/files/pdf/2024/DLP_Course_Calendar_2025.pdf)
 
 
 
