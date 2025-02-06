@@ -18,6 +18,12 @@ https://elearning.iirs.gov.in/edusatregistration/
 
 
 
+https://eclass.iirs.gov.in/login
+
+
+
+
+
 
 <table>
   <tr>
@@ -45,6 +51,11 @@ https://elearning.iirs.gov.in/edusatregistration/
  	 	 
 ![DLP_Course_Calendar_2025](src/DLP_Course_Calendar_2025.pdf)
 
+```
+https://www.iirs.gov.in/iirs/sites/default/files/pdf/2024/DLP_Course_Calendar_2025.pdf
+```
+
+
 
 ![START-2025](START-2025/README.md)
 
@@ -53,3 +64,15 @@ https://elearning.iirs.gov.in/edusatregistration/
 
 
 	
+
+
+
+
+
+### Help
+
+```
+https://www.isro.gov.in/FAQ.html
+https://www.academia.edu/111571121/Correlation_analysis_of_land_surface_temperature_on_landsat_8_data_of_Visakhapatnam_Urban_Area_Andhra_Pradesh_India
+https://github.com/rohitkrtiwari/ISSAT-ISRO-Satellite-Tracker/tree/master
+```
