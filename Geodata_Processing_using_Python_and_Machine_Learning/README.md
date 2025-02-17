@@ -39,3 +39,62 @@ Wish you all the best.
 
 
 
+
+### Live
+
+
+17-02-2025
+Fundamentals of Remote Sensing & Geographic Information System
+
+
+```
+https://www.youtube.com/watch?v=a1f1sLRl9ac
+```
+
+
+18-02-2025
+Introduction Python for Geodata Processing Ravi Bhandari
+
+
+19-02-2025
+Introduction to Numpy and data visualization Ravi Bhandari
+
+
+
+20-02-2025
+Reading and visualizing different Raster data Formats
+
+
+21-02-2025
+Local Analysis & Writing raster data Ravi Bhandari
+
+
+24-02-2025
+
+Image Intensity Transformation & Spatial Filtering using GDAL & Opencv
+
+
+25-02-2025
+Reading Vectors Data Formats usingGeopandas
+
+
+27-02-2025
+Spatial Analysis on Vector data Ravi Bhandari
+
+
+28-02-2025
+Basics of Machine Learning/ Implementing
+Machine Learning algorithm for geospatial data processing
+
+
+
+
+
+
+
+
+
+
+
+
+
