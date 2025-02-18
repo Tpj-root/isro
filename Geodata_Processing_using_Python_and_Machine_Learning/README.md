@@ -48,12 +48,18 @@ Fundamentals of Remote Sensing & Geographic Information System
 
 
 ```
-https://www.youtube.com/watch?v=a1f1sLRl9ac
+https://youtu.be/a1f1sLRl9ac
 ```
 
 
 18-02-2025
 Introduction Python for Geodata Processing Ravi Bhandari
+
+```
+https://youtu.be/AOuphiajWvY
+
+```
+
 
 
 19-02-2025
