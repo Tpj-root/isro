@@ -49,6 +49,10 @@ Fundamentals of Remote Sensing & Geographic Information System
 
 ```
 https://youtu.be/a1f1sLRl9ac
+
+edit:
+
+https://youtu.be/bnwgLYWdZoQ
 ```
 
 
