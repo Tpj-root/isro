@@ -74,6 +74,10 @@ https://youtu.be/AOuphiajWvY
 19-02-2025
 Introduction to Numpy and data visualization Ravi Bhandari
 
+```
+https://youtu.be/OmVvaD3b2Og
+```
+
 
 
 20-02-2025
