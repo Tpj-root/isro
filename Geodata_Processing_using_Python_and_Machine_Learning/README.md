@@ -83,6 +83,13 @@ https://youtu.be/OmVvaD3b2Og
 20-02-2025
 Reading and visualizing different Raster data Formats
 
+```
+https://youtu.be/o6-RwuvGobQ
+```
+
+
+
+
 
 21-02-2025
 Local Analysis & Writing raster data Ravi Bhandari
