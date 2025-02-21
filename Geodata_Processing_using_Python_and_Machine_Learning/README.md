@@ -67,6 +67,11 @@ Introduction Python for Geodata Processing Ravi Bhandari
 ```
 https://youtu.be/AOuphiajWvY
 
+edit:
+
+
+https://youtu.be/x-G3esqWEwY
+
 ```
 
 
@@ -76,6 +81,10 @@ Introduction to Numpy and data visualization Ravi Bhandari
 
 ```
 https://youtu.be/OmVvaD3b2Og
+
+edit:
+
+https://youtu.be/W0vYB-Did3I
 ```
 
 
@@ -85,6 +94,14 @@ Reading and visualizing different Raster data Formats
 
 ```
 https://youtu.be/o6-RwuvGobQ
+
+
+https://youtu.be/Qu11Ymx7QZc
+
+
+https://youtu.be/xRoJ-5Ef4X0
+
+
 ```
 
 
@@ -93,6 +110,11 @@ https://youtu.be/o6-RwuvGobQ
 
 21-02-2025
 Local Analysis & Writing raster data Ravi Bhandari
+
+```
+https://youtu.be/P0w8v6C7gKU
+
+```
 
 
 24-02-2025
