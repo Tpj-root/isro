@@ -114,12 +114,27 @@ Local Analysis & Writing raster data Ravi Bhandari
 ```
 https://youtu.be/P0w8v6C7gKU
 
+
+https://youtu.be/WQGVlxNqi8w
+
 ```
 
 
 24-02-2025
 
 Image Intensity Transformation & Spatial Filtering using GDAL & Opencv
+
+```
+https://youtu.be/YoBbiQZGq_I
+
+```
+
+
+
+
+
+
+
 
 
 25-02-2025
