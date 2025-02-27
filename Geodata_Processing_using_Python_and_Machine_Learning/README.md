@@ -137,10 +137,6 @@ https://youtu.be/jhpTKZYMIO8
 
 
 
-
-
-
-
 25-02-2025
 Reading Vectors Data Formats usingGeopandas
 
@@ -151,6 +147,11 @@ https://youtu.be/WSLMulv3wvs
 
 <iframe width="1177" height="641" src="https://www.youtube.com/embed/WSLMulv3wvs" title="Reading Vectors Data Formats using Geo pandas by Mr. Ravi Bhandari" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+edit
+
+https://youtu.be/VrZ6M0z_6ZU
+
+
 ```
 
 
@@ -159,6 +160,15 @@ https://youtu.be/WSLMulv3wvs
 
 27-02-2025
 Spatial Analysis on Vector data Ravi Bhandari
+
+```
+https://youtu.be/osQ-knqvtHw
+
+```
+
+
+
+
 
 
 28-02-2025
