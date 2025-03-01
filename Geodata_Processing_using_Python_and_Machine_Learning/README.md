@@ -164,6 +164,9 @@ Spatial Analysis on Vector data Ravi Bhandari
 ```
 https://youtu.be/osQ-knqvtHw
 
+Edit
+
+https://youtu.be/omxCLphdQPA
 ```
 
 
@@ -176,6 +179,10 @@ Basics of Machine Learning/ Implementing
 Machine Learning algorithm for geospatial data processing
 
 
+```
+https://youtu.be/Z4tH14vE_rw
+
+```
 
 
 
