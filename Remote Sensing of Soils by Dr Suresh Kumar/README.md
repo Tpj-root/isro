@@ -23,6 +23,18 @@ Remote Sensing of Soils by Dr Suresh Kumar
 ```
 https://youtu.be/p6H10ydEd8U
 
+edit
 
+https://youtu.be/V5y8E4_VApw
+```
+
+
+
+
+
+
+
+```
+https://youtu.be/jIU7Y8SiPAw
 
 ```
