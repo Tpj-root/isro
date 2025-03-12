@@ -51,14 +51,14 @@ https://eclass.iirs.gov.in/login
   <td style="width: 50px; word-wrap: break-word;">20251572712139</td>
   <td style="width: 150px; word-wrap: break-word;">Remote Sensing of Soils : mapping, classification and evaluation for Agricultural Land Use Planning</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Remote%20Sensing%20of%20Soils%20by%20Dr%20Suresh%20Kumar/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">202510452712140</td>
   <td style="width: 150px; word-wrap: break-word;">Martian surface, analogues and atmosphere</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/MARTIAN%20SURFACE%2C%20ANALOGUES%20AND%20ATMOSPHERE/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
