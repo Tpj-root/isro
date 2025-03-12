@@ -65,14 +65,14 @@ https://eclass.iirs.gov.in/login
   <td style="width: 50px; word-wrap: break-word;">20251582718365</td>
   <td style="width: 150px; word-wrap: break-word;">Space Technology for Disaster Risk Reduction</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Space%20Technology%20for%20Disaster%20Risk%20Reduction/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">202510462720014</td>
   <td style="width: 150px; word-wrap: break-word;">Application of AI/ML model for Specific Crop Acreage</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Application%20of%20AI_ML%20model%20for%20Specific%20Crop%20Acreage/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
