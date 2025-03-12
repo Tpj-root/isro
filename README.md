@@ -37,7 +37,7 @@ https://eclass.iirs.gov.in/login
   <td style="width: 50px; word-wrap: break-word;">20251552664361</td>
   <td style="width: 150px; word-wrap: break-word;">START-2025</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;">[Quiz](START-2025/Quiz_Assessment.md)</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/START-2025/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
