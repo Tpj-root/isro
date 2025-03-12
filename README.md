@@ -44,35 +44,35 @@ https://eclass.iirs.gov.in/login
   <td style="width: 50px; word-wrap: break-word;">20251562682896</td>
   <td style="width: 150px; word-wrap: break-word;">Geodata Processing using Python and Machine Learning</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Geodata_Processing_using_Python_and_Machine_Learning/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251572712139</td>
   <td style="width: 150px; word-wrap: break-word;">Remote Sensing of Soils : mapping, classification and evaluation for Agricultural Land Use Planning</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">202510452712140</td>
   <td style="width: 150px; word-wrap: break-word;">Martian surface, analogues and atmosphere</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251582718365</td>
   <td style="width: 150px; word-wrap: break-word;">Space Technology for Disaster Risk Reduction</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">202510462720014</td>
   <td style="width: 150px; word-wrap: break-word;">Application of AI/ML model for Specific Crop Acreage</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;">-</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="url">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
