@@ -77,17 +77,9 @@ https://eclass.iirs.gov.in/login
 </tr>
 
 
-
-
-
-
-
-
 </table>
 
 
-
- 	 	 
 ![DLP_Course_Calendar_2025](src/DLP_Course_Calendar_2025.pdf)
 
 ```
@@ -98,11 +90,26 @@ https://www.iirs.gov.in/iirs/sites/default/files/pdf/2024/DLP_Course_Calendar_20
 
 ![START-2025](START-2025/README.md)
 
-
 ![Geodata Processing using Python and Machine Learning](Geodata_Processing_using_Python_and_Machine_Learning/README.md)
 
 
-	
+![Remote Sensing of Soils : mapping, classification and evaluation for Agricultural Land Use Planning]()
+![Martian surface, analogues and atmosphere]()
+![Space Technology for Disaster Risk Reduction]()
+![Application of AI/ML model for Specific Crop Acreage]()
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
