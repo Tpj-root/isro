@@ -94,8 +94,11 @@ https://www.iirs.gov.in/iirs/sites/default/files/pdf/2024/DLP_Course_Calendar_20
 
 
 ![Remote Sensing of Soils : mapping, classification and evaluation for Agricultural Land Use Planning]()
+
 ![Martian surface, analogues and atmosphere]()
+
 ![Space Technology for Disaster Risk Reduction]()
+
 ![Application of AI/ML model for Specific Crop Acreage]()
 
 
