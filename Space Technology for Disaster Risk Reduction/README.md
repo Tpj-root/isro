@@ -22,6 +22,15 @@ Application of Space Technology for DRR by Dr. Arijit Roy
 ```
 https://www.youtube.com/watch?v=aU7QlG7DzaI
 
+
+edit
+
+https://youtu.be/PIgWMxl3MTk
 ```
 
 
+
+
+```
+https://youtu.be/a6C8fLZSLeU
+```
