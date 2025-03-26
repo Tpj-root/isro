@@ -35,4 +35,20 @@ https://youtu.be/YKebbbMBL10
 https://youtu.be/a6C8fLZSLeU
 
 
+edit 
+
+https://youtu.be/A5INGF07fEk
+
+
+```
+
+
+ISRO Geoportal BHOONIDHI for supporting Disaster Mitigation by Dr. Kamal Pandey
+
+```
+https://youtu.be/R7ZMaWnKDuY
+
+edit
+
+
 ```
