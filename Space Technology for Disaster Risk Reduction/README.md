@@ -50,5 +50,32 @@ https://youtu.be/R7ZMaWnKDuY
 
 edit
 
+https://youtu.be/QAX8veNAJw4
+
+```
+
+
+
+
+
+
+ISRO Geoportal MOSDAC for supporting Disaster Mitigation by Dr. Shivani Shah
+```
+
+https://youtu.be/97byLT4JFkA
+
+
+```
+
+
+
+
+
+ISRO Geoportal VEDAS for supporting Disaster Mitigation by Dr. Shashikant Sharma
+
+```
+
+https://youtu.be/sMyO0l3h9X4
+
 
 ```
