@@ -23,6 +23,12 @@ https://eclass.iirs.gov.in/login
 
 
 
+```
+This course will enhance my technical skills and deepen my understanding of key concepts relevant to my field. 
+It will help me apply new knowledge to solve real-world problems in my professional career.
+
+```
+
 
 
 <table>
