@@ -1,0 +1,487 @@
+
+
+Question: Which Indian organization operates the MOSDAC portal?
+
+Options:
+
+a.DRDO
+b.CSIR
+c.ISRO
+d.ICAR
+
+
+ANS: c
+
+
+
+Question: What type of satellite data is primarily used in Bhuvan for flood mapping?
+
+Options:
+
+a.Optical & Microwave
+b.INSAT
+c.Lidar
+d.Thermal
+
+
+
+ANS: a
+
+
+
+
+
+
+
+
+
+Question: 6. Which sensor is best suited for detecting wildfires from space?
+
+Options:
+
+a.Multispectral scanner
+b.Panchromatic sensor
+c.Hyperspectral imager
+d.Thermal infrared sensor
+
+
+
+ANS: d
+
+
+
+
+
+
+
+
+
+
+Question: Bhoonidhi VISTA allows visualization of data from which of the following satellites?
+
+Options:
+
+a.Resourcesat-2A
+b.EOS-04
+c.Sentinel-2
+d.All of the given options
+
+
+
+ANS: d
+
+
+
+
+
+
+
+
+
+Question: Bhuvan's Crowdsourcing App is used for:
+
+Options:
+
+a.Public participation in disaster damage assessment
+b.Uploading movies and entertainment content
+c.Registering for ISRO job vacancies
+d.Online satellite data orders
+
+
+
+ANS: a
+
+
+
+
+
+
+Question: What feature does Bhoonidhi VISTA provide to help analyze changes over time?
+
+Options:
+
+a.Audio alerts
+b.Satellite change detection using Swipe functionality
+c.Manual image coloring
+d.Animated GIFs
+
+
+ANS: b
+
+
+
+
+
+
+
+
+Question: Which organization is responsible for developing and maintaining the VEDAS geoportal?
+
+Options:
+
+a.Geological Survey of India
+b.Indian Meteorological Department
+c.National Disaster Response Force
+d.ISRO (Indian Space Research Organisation.
+
+
+ANS: d
+
+
+
+
+
+
+
+Question: Which of the following is not an application area of Bhoonidhi VISTA?
+
+Options:
+
+a.Disaster assessment
+b.Gaming graphics rendering
+c.Agricultural monitoring
+d.Environmental changes tracking
+
+
+ANS: b
+
+
+
+
+
+
+
+
+Question: What is the primary purpose of ISRO's Bhuvan portal in disaster management?
+
+Options:
+
+a.Disseminating geospatial data for monitoring and mitigation
+b.Launching new communication satellites
+c.Conducting space missions
+d.Providing real-time satellite TV broadcasting
+
+
+ANS: a
+
+
+
+
+
+
+
+
+
+Question: What does the acronym 'DRR' stand for in the context of space applications?
+
+Options:
+
+a.Disaster Risk Reduction
+b.Disaster Relief and Recovery
+c.Disaster Remote Response
+d.Direct Radar Reading
+
+
+
+
+ANS: a
+
+
+
+
+
+
+
+
+Question: What is the primary purpose of the MOSDAC portal?
+
+Options:
+
+a.Archiving mineral data
+b.Providing satellite data for agriculture
+c.Disseminating meteorological and oceanographic satellite data
+d.Mapping archaeological sites
+
+
+ANS: c
+
+
+
+
+
+
+
+
+
+Question: What is the role of satellite communication in DRR?
+
+Options:
+
+a.Measuring precipitation
+b.Connectivity when ground networks fail
+c.Land cover classification
+d.Soil moisture detection
+
+
+ANS: b
+
+
+
+
+
+
+
+
+
+
+
+Question: Which organization developed the Bhoonidhi portal?
+
+Options:
+
+a.Liquid Propulsion Systems Centre (LPSC)
+b.National Remote Sensing Centre (NRSC.
+c.U R Rao Satellite Centre (URSC)
+d.Vikram Sarabhai Space Centre (VSSC.
+
+
+
+ANS: b
+
+
+
+
+
+
+
+
+
+
+
+Question: What is the primary function of ISRO's BHOONIDHI portal in disaster mitigation?
+
+Options:
+
+a.Conducting space-based astronomy research
+b.Real-time communication with astronauts
+c.Monitoring satellite launches
+d.Providing satellite data for emergency response and planning
+
+
+
+ANS: d
+
+
+
+
+
+
+
+
+
+Question: Which of these forecast is not provided by MOSDAC ?
+
+Options:
+
+a.Cyclone
+b.Cloudburst
+c.Earthquake
+d.Extreme Weather
+
+
+
+ANS: c
+
+
+
+
+
+
+
+
+
+
+
+Question: The International Charter "Space and Major Disasters" provides satellite data to:
+
+Options:
+
+a.Private agencies only
+b.Countries with advanced space programs
+c.Military operations only
+d.Nations during disasters, free of charge
+
+
+
+
+ANS: d
+
+
+
+
+
+
+
+
+
+
+
+Question: Bhuvan supports disaster management through which of the following means?
+
+Options:
+
+a.Controlling local emergency services
+b.Forecasting asteroid impacts
+c.Providing maps for disaster impacted areas
+d.Predicting pandemics
+
+
+
+ANS: c
+
+
+
+
+
+
+
+
+
+Question: Which Indian satellite is specifically dedicated to monitor weather for disaster management support?
+
+Options:
+
+a.INSAT-3D
+b.RISAT-1
+c.Cartosat-2
+d.Resourcesat-2
+
+
+ANS: a
+
+
+
+
+
+
+Question: What is full form of MOSDAC?
+
+Options:
+
+a.Mines Oceans Ships Data Archival Centre
+b.Meteorological and Oceanographic Satellite Data Archival Centre
+c.Military Oceans Ships Data Analysis Communication
+d.Mines and Oceans Satellite Data Archival Centre
+
+
+
+ANS: b
+
+
+
+
+
+
+
+
+
+Question: What is the primary purpose of the VEDAS portal?
+
+Options:
+
+a.To provide satellite launch services
+b.To develop satellite hardware
+c.To visualize and analyze Earth observation data C. To offer cloud storage solutions
+
+
+ANS: c
+
+
+
+
+
+
+
+
+
+
+Question: GNSS technology is mainly used in DRR for:
+
+Options:
+
+a.Flood mapping
+b.Volcanic ash detection
+c.Earthquake early warning
+d.Real-time location and navigation during rescue
+
+
+ANS: d
+
+
+
+
+
+
+
+Question: Which of the following is NOT a service provided by the VEDAS portal?
+
+
+Options:
+
+a.Hydrological services including flood forecasting
+b.Vegetation and crop monitoring
+c.Satellite manufacturing services
+d.Monitoring of air quality and fire
+
+
+ANS: c
+
+
+
+
+
+
+
+
+
+Question: Which satellites contribute for monitoring extreme weather events by MOSDAC?
+
+Options:
+
+a.Landsat
+b.Sentinel-2
+c.EOS-04
+d.INSAT-3D
+
+ANS: d
+
+
+
+
+
+
+
+Question: Which of the following stakeholders is most likely to benefit from the BHOONIDHI platform during a disaster?
+
+Options:
+
+a.Farmers
+b.Tourists
+c.Disaster response agencies and government authorities
+d.Film producers
+
+
+ANS: c
+
+
+
+Question: Which type of data is primarily used by VEDAS for disaster mitigation purposes?
+
+Options:
+
+a.Remote sensing and GIS data
+b.Social media trends
+c.Newspaper and media reports
+d.Groundwater samples
+
+ANS: a
