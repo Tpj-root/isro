@@ -1,0 +1,912 @@
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:2_:sequencecheck" value="1" id="yui_3_17_2_1_1744881151058_33"><div class="qtext"><p>What type of satellite data is primarily used in Bhuvan for flood mapping?</p></div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:2_answer" value="0" id="q269894:2_answer0" aria-labelledby="q269894:2_answer0_label"><div class="d-flex w-auto" id="q269894:2_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1"><p>Optical &amp; Microwave</p></div></div> </div>
+<div class="r1"><input type="radio" name="q269894:2_answer" value="1" id="q269894:2_answer1" aria-labelledby="q269894:2_answer1_label"><div class="d-flex w-auto" id="q269894:2_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1"><p>INSAT</p></div></div> </div>
+<div class="r0"><input type="radio" name="q269894:2_answer" value="2" id="q269894:2_answer2" aria-labelledby="q269894:2_answer2_label"><div class="d-flex w-auto" id="q269894:2_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1"><p>Lidar</p></div></div> </div>
+<div class="r1"><input type="radio" name="q269894:2_answer" value="3" id="q269894:2_answer3" aria-labelledby="q269894:2_answer3_label"><div class="d-flex w-auto" id="q269894:2_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1"><p>Thermal</p></div></div> </div>
+</div><div id="q269894:2_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:2_answer" id="q269894:2_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:2_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+Question: What type of satellite data is primarily used in Bhuvan for flood mapping?
+
+Options:
+a. 
+a.Optical & Microwave
+b.INSAT
+c.Lidar
+d.Thermal
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:3_:sequencecheck" value="1" id="yui_3_17_2_1_1744881151058_36"><div class="qtext">6. Which sensor is best suited for detecting wildfires from space?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:3_answer" value="0" id="q269894:3_answer0" aria-labelledby="q269894:3_answer0_label"><div class="d-flex w-auto" id="q269894:3_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Multispectral scanner</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:3_answer" value="1" id="q269894:3_answer1" aria-labelledby="q269894:3_answer1_label"><div class="d-flex w-auto" id="q269894:3_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Panchromatic sensor</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:3_answer" value="2" id="q269894:3_answer2" aria-labelledby="q269894:3_answer2_label"><div class="d-flex w-auto" id="q269894:3_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Hyperspectral imager</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:3_answer" value="3" id="q269894:3_answer3" aria-labelledby="q269894:3_answer3_label"><div class="d-flex w-auto" id="q269894:3_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Thermal infrared sensor</div></div> </div>
+</div><div id="q269894:3_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:3_answer" id="q269894:3_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:3_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:4_:sequencecheck" value="1" id="yui_3_17_2_1_1744881268118_30"><div class="qtext">Bhoonidhi VISTA allows visualization of data from which of the following satellites?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:4_answer" value="0" id="q269894:4_answer0" aria-labelledby="q269894:4_answer0_label"><div class="d-flex w-auto" id="q269894:4_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Resourcesat-2A</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:4_answer" value="1" id="q269894:4_answer1" aria-labelledby="q269894:4_answer1_label"><div class="d-flex w-auto" id="q269894:4_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">EOS-04</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:4_answer" value="2" id="q269894:4_answer2" aria-labelledby="q269894:4_answer2_label"><div class="d-flex w-auto" id="q269894:4_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Sentinel-2</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:4_answer" value="3" id="q269894:4_answer3" aria-labelledby="q269894:4_answer3_label"><div class="d-flex w-auto" id="q269894:4_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">All of the given options</div></div> </div>
+</div><div id="q269894:4_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:4_answer" id="q269894:4_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:4_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:5_:sequencecheck" value="1" id="yui_3_17_2_1_1744881268118_33"><div class="qtext">Bhuvan's Crowdsourcing App is used for:</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:5_answer" value="0" id="q269894:5_answer0" aria-labelledby="q269894:5_answer0_label"><div class="d-flex w-auto" id="q269894:5_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Public participation in disaster damage assessment</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:5_answer" value="1" id="q269894:5_answer1" aria-labelledby="q269894:5_answer1_label"><div class="d-flex w-auto" id="q269894:5_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Uploading movies and entertainment content</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:5_answer" value="2" id="q269894:5_answer2" aria-labelledby="q269894:5_answer2_label"><div class="d-flex w-auto" id="q269894:5_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Registering for ISRO job vacancies</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:5_answer" value="3" id="q269894:5_answer3" aria-labelledby="q269894:5_answer3_label"><div class="d-flex w-auto" id="q269894:5_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Online satellite data orders</div></div> </div>
+</div><div id="q269894:5_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:5_answer" id="q269894:5_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:5_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:6_:sequencecheck" value="1" id="yui_3_17_2_1_1744881268118_36"><div class="qtext">What feature does Bhoonidhi VISTA provide to help analyze changes over time?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:6_answer" value="0" id="q269894:6_answer0" aria-labelledby="q269894:6_answer0_label"><div class="d-flex w-auto" id="q269894:6_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Audio alerts</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:6_answer" value="1" id="q269894:6_answer1" aria-labelledby="q269894:6_answer1_label"><div class="d-flex w-auto" id="q269894:6_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Satellite change detection using Swipe functionality</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:6_answer" value="2" id="q269894:6_answer2" aria-labelledby="q269894:6_answer2_label"><div class="d-flex w-auto" id="q269894:6_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Manual image coloring</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:6_answer" value="3" id="q269894:6_answer3" aria-labelledby="q269894:6_answer3_label"><div class="d-flex w-auto" id="q269894:6_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Animated GIFs</div></div> </div>
+</div><div id="q269894:6_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:6_answer" id="q269894:6_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:6_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:7_:sequencecheck" value="1" id="yui_3_17_2_1_1744881371566_30"><div class="qtext">Which organization is responsible for developing and maintaining the VEDAS geoportal?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:7_answer" value="0" id="q269894:7_answer0" aria-labelledby="q269894:7_answer0_label"><div class="d-flex w-auto" id="q269894:7_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Geological Survey of India</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:7_answer" value="1" id="q269894:7_answer1" aria-labelledby="q269894:7_answer1_label"><div class="d-flex w-auto" id="q269894:7_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Indian Meteorological Department</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:7_answer" value="2" id="q269894:7_answer2" aria-labelledby="q269894:7_answer2_label"><div class="d-flex w-auto" id="q269894:7_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">National Disaster Response Force</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:7_answer" value="3" id="q269894:7_answer3" aria-labelledby="q269894:7_answer3_label"><div class="d-flex w-auto" id="q269894:7_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">ISRO (Indian Space Research Organisation.</div></div> </div>
+</div><div id="q269894:7_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:7_answer" id="q269894:7_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:7_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:8_:sequencecheck" value="1" id="yui_3_17_2_1_1744881371566_33"><div class="qtext">Which of the following is not an application area of Bhoonidhi VISTA?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:8_answer" value="0" id="q269894:8_answer0" aria-labelledby="q269894:8_answer0_label"><div class="d-flex w-auto" id="q269894:8_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Disaster assessment</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:8_answer" value="1" id="q269894:8_answer1" aria-labelledby="q269894:8_answer1_label"><div class="d-flex w-auto" id="q269894:8_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Gaming graphics rendering</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:8_answer" value="2" id="q269894:8_answer2" aria-labelledby="q269894:8_answer2_label"><div class="d-flex w-auto" id="q269894:8_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Agricultural monitoring</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:8_answer" value="3" id="q269894:8_answer3" aria-labelledby="q269894:8_answer3_label"><div class="d-flex w-auto" id="q269894:8_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Environmental changes tracking</div></div> </div>
+</div><div id="q269894:8_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:8_answer" id="q269894:8_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:8_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:9_:sequencecheck" value="1" id="yui_3_17_2_1_1744881371566_36"><div class="qtext">What is the primary purpose of ISRO's Bhuvan portal in disaster management?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:9_answer" value="0" id="q269894:9_answer0" aria-labelledby="q269894:9_answer0_label"><div class="d-flex w-auto" id="q269894:9_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Disseminating geospatial data for monitoring and mitigation</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:9_answer" value="1" id="q269894:9_answer1" aria-labelledby="q269894:9_answer1_label"><div class="d-flex w-auto" id="q269894:9_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Launching new communication satellites</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:9_answer" value="2" id="q269894:9_answer2" aria-labelledby="q269894:9_answer2_label"><div class="d-flex w-auto" id="q269894:9_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Conducting space missions</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:9_answer" value="3" id="q269894:9_answer3" aria-labelledby="q269894:9_answer3_label"><div class="d-flex w-auto" id="q269894:9_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Providing real-time satellite TV broadcasting</div></div> </div>
+</div><div id="q269894:9_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:9_answer" id="q269894:9_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:9_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:10_:sequencecheck" value="1" id="yui_3_17_2_1_1744881473829_30"><div class="qtext">What does the acronym 'DRR' stand for in the context of space applications?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:10_answer" value="0" id="q269894:10_answer0" aria-labelledby="q269894:10_answer0_label"><div class="d-flex w-auto" id="q269894:10_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Disaster Risk Reduction</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:10_answer" value="1" id="q269894:10_answer1" aria-labelledby="q269894:10_answer1_label"><div class="d-flex w-auto" id="q269894:10_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Disaster Relief and Recovery</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:10_answer" value="2" id="q269894:10_answer2" aria-labelledby="q269894:10_answer2_label"><div class="d-flex w-auto" id="q269894:10_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Disaster Remote Response</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:10_answer" value="3" id="q269894:10_answer3" aria-labelledby="q269894:10_answer3_label"><div class="d-flex w-auto" id="q269894:10_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Direct Radar Reading</div></div> </div>
+</div><div id="q269894:10_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:10_answer" id="q269894:10_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:10_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:11_:sequencecheck" value="1" id="yui_3_17_2_1_1744881473829_33"><div class="qtext">What is the primary purpose of the MOSDAC portal?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:11_answer" value="0" id="q269894:11_answer0" aria-labelledby="q269894:11_answer0_label"><div class="d-flex w-auto" id="q269894:11_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Archiving mineral data</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:11_answer" value="1" id="q269894:11_answer1" aria-labelledby="q269894:11_answer1_label"><div class="d-flex w-auto" id="q269894:11_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Providing satellite data for agriculture</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:11_answer" value="2" id="q269894:11_answer2" aria-labelledby="q269894:11_answer2_label"><div class="d-flex w-auto" id="q269894:11_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Disseminating meteorological and oceanographic satellite data</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:11_answer" value="3" id="q269894:11_answer3" aria-labelledby="q269894:11_answer3_label"><div class="d-flex w-auto" id="q269894:11_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Mapping archaeological sites</div></div> </div>
+</div><div id="q269894:11_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:11_answer" id="q269894:11_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:11_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:12_:sequencecheck" value="1" id="yui_3_17_2_1_1744881473829_36"><div class="qtext">What is the role of satellite communication in DRR?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:12_answer" value="0" id="q269894:12_answer0" aria-labelledby="q269894:12_answer0_label"><div class="d-flex w-auto" id="q269894:12_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Measuring precipitation</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:12_answer" value="1" id="q269894:12_answer1" aria-labelledby="q269894:12_answer1_label"><div class="d-flex w-auto" id="q269894:12_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Connectivity when ground networks fail</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:12_answer" value="2" id="q269894:12_answer2" aria-labelledby="q269894:12_answer2_label"><div class="d-flex w-auto" id="q269894:12_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Land cover classification</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:12_answer" value="3" id="q269894:12_answer3" aria-labelledby="q269894:12_answer3_label"><div class="d-flex w-auto" id="q269894:12_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Soil moisture detection</div></div> </div>
+</div><div id="q269894:12_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:12_answer" id="q269894:12_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:12_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:13_:sequencecheck" value="1" id="yui_3_17_2_1_1744881574429_30"><div class="qtext">Which organization developed the Bhoonidhi portal?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:13_answer" value="0" id="q269894:13_answer0" aria-labelledby="q269894:13_answer0_label"><div class="d-flex w-auto" id="q269894:13_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Liquid Propulsion Systems Centre (LPSC)</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:13_answer" value="1" id="q269894:13_answer1" aria-labelledby="q269894:13_answer1_label"><div class="d-flex w-auto" id="q269894:13_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">National Remote Sensing Centre (NRSC.</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:13_answer" value="2" id="q269894:13_answer2" aria-labelledby="q269894:13_answer2_label"><div class="d-flex w-auto" id="q269894:13_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">U R Rao Satellite Centre (URSC)</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:13_answer" value="3" id="q269894:13_answer3" aria-labelledby="q269894:13_answer3_label"><div class="d-flex w-auto" id="q269894:13_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Vikram Sarabhai Space Centre (VSSC.</div></div> </div>
+</div><div id="q269894:13_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:13_answer" id="q269894:13_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:13_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:14_:sequencecheck" value="1" id="yui_3_17_2_1_1744881574429_33"><div class="qtext">What is the primary function of ISRO's BHOONIDHI portal in disaster mitigation?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:14_answer" value="0" id="q269894:14_answer0" aria-labelledby="q269894:14_answer0_label"><div class="d-flex w-auto" id="q269894:14_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Conducting space-based astronomy research</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:14_answer" value="1" id="q269894:14_answer1" aria-labelledby="q269894:14_answer1_label"><div class="d-flex w-auto" id="q269894:14_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Real-time communication with astronauts</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:14_answer" value="2" id="q269894:14_answer2" aria-labelledby="q269894:14_answer2_label"><div class="d-flex w-auto" id="q269894:14_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Monitoring satellite launches</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:14_answer" value="3" id="q269894:14_answer3" aria-labelledby="q269894:14_answer3_label"><div class="d-flex w-auto" id="q269894:14_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Providing satellite data for emergency response and planning</div></div> </div>
+</div><div id="q269894:14_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:14_answer" id="q269894:14_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:14_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:15_:sequencecheck" value="1" id="yui_3_17_2_1_1744881574429_36"><div class="qtext">Which of these forecast is not provided by MOSDAC ?</div><div class="ablock no-overflow visual-scroll-x" id="yui_3_17_2_1_1744881574429_260"><div class="answer"><div class="r0"><input type="radio" name="q269894:15_answer" value="0" id="q269894:15_answer0" aria-labelledby="q269894:15_answer0_label"><div class="d-flex w-auto" id="q269894:15_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Cyclone</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:15_answer" value="1" id="q269894:15_answer1" aria-labelledby="q269894:15_answer1_label"><div class="d-flex w-auto" id="q269894:15_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Cloudburst</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:15_answer" value="2" id="q269894:15_answer2" aria-labelledby="q269894:15_answer2_label"><div class="d-flex w-auto" id="q269894:15_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Earthquake</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:15_answer" value="3" id="q269894:15_answer3" aria-labelledby="q269894:15_answer3_label"><div class="d-flex w-auto" id="q269894:15_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Extreme Weather</div></div> </div>
+</div><div id="q269894:15_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:15_answer" id="q269894:15_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:15_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:16_:sequencecheck" value="1" id="yui_3_17_2_1_1744881714245_30"><div class="qtext">The International Charter "Space and Major Disasters" provides satellite data to:</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:16_answer" value="0" id="q269894:16_answer0" aria-labelledby="q269894:16_answer0_label"><div class="d-flex w-auto" id="q269894:16_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Private agencies only</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:16_answer" value="1" id="q269894:16_answer1" aria-labelledby="q269894:16_answer1_label"><div class="d-flex w-auto" id="q269894:16_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Countries with advanced space programs</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:16_answer" value="2" id="q269894:16_answer2" aria-labelledby="q269894:16_answer2_label"><div class="d-flex w-auto" id="q269894:16_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Military operations only</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:16_answer" value="3" id="q269894:16_answer3" aria-labelledby="q269894:16_answer3_label"><div class="d-flex w-auto" id="q269894:16_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Nations during disasters, free of charge</div></div> </div>
+</div><div id="q269894:16_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:16_answer" id="q269894:16_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:16_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:17_:sequencecheck" value="1" id="yui_3_17_2_1_1744881714245_33"><div class="qtext">Bhuvan supports disaster management through which of the following means?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:17_answer" value="0" id="q269894:17_answer0" aria-labelledby="q269894:17_answer0_label"><div class="d-flex w-auto" id="q269894:17_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Controlling local emergency services</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:17_answer" value="1" id="q269894:17_answer1" aria-labelledby="q269894:17_answer1_label"><div class="d-flex w-auto" id="q269894:17_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Forecasting asteroid impacts</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:17_answer" value="2" id="q269894:17_answer2" aria-labelledby="q269894:17_answer2_label"><div class="d-flex w-auto" id="q269894:17_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Providing maps for disaster impacted areas</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:17_answer" value="3" id="q269894:17_answer3" aria-labelledby="q269894:17_answer3_label"><div class="d-flex w-auto" id="q269894:17_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Predicting pandemics</div></div> </div>
+</div><div id="q269894:17_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:17_answer" id="q269894:17_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:17_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:19_:sequencecheck" value="1" id="yui_3_17_2_1_1744881807317_30"><div class="qtext">What is full form of MOSDAC?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:19_answer" value="0" id="q269894:19_answer0" aria-labelledby="q269894:19_answer0_label"><div class="d-flex w-auto" id="q269894:19_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Mines Oceans Ships Data Archival Centre</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:19_answer" value="1" id="q269894:19_answer1" aria-labelledby="q269894:19_answer1_label"><div class="d-flex w-auto" id="q269894:19_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Meteorological and Oceanographic Satellite Data Archival Centre</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:19_answer" value="2" id="q269894:19_answer2" aria-labelledby="q269894:19_answer2_label"><div class="d-flex w-auto" id="q269894:19_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Military Oceans Ships Data Analysis Communication</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:19_answer" value="3" id="q269894:19_answer3" aria-labelledby="q269894:19_answer3_label"><div class="d-flex w-auto" id="q269894:19_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Mines and Oceans Satellite Data Archival Centre</div></div> </div>
+</div><div id="q269894:19_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:19_answer" id="q269894:19_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:19_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:20_:sequencecheck" value="1" id="yui_3_17_2_1_1744881807317_33"><div class="qtext">What is the primary purpose of the VEDAS portal?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:20_answer" value="0" id="q269894:20_answer0" aria-labelledby="q269894:20_answer0_label"><div class="d-flex w-auto" id="q269894:20_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">To provide satellite launch services</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:20_answer" value="1" id="q269894:20_answer1" aria-labelledby="q269894:20_answer1_label"><div class="d-flex w-auto" id="q269894:20_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">To develop satellite hardware</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:20_answer" value="2" id="q269894:20_answer2" aria-labelledby="q269894:20_answer2_label"><div class="d-flex w-auto" id="q269894:20_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">To visualize and analyze Earth observation data C. To offer cloud storage solutions</div></div> </div>
+</div><div id="q269894:20_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:20_answer" id="q269894:20_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:20_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:21_:sequencecheck" value="1" id="yui_3_17_2_1_1744881807317_36"><div class="qtext">GNSS technology is mainly used in DRR for:</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:21_answer" value="0" id="q269894:21_answer0" aria-labelledby="q269894:21_answer0_label"><div class="d-flex w-auto" id="q269894:21_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Flood mapping</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:21_answer" value="1" id="q269894:21_answer1" aria-labelledby="q269894:21_answer1_label"><div class="d-flex w-auto" id="q269894:21_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Volcanic ash detection</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:21_answer" value="2" id="q269894:21_answer2" aria-labelledby="q269894:21_answer2_label"><div class="d-flex w-auto" id="q269894:21_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Earthquake early warning</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:21_answer" value="3" id="q269894:21_answer3" aria-labelledby="q269894:21_answer3_label"><div class="d-flex w-auto" id="q269894:21_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Real-time location and navigation during rescue</div></div> </div>
+</div><div id="q269894:21_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:21_answer" id="q269894:21_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:21_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:22_:sequencecheck" value="1" id="yui_3_17_2_1_1744881883207_30"><div class="qtext">Which of the following is NOT a service provided by the VEDAS portal?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:22_answer" value="0" id="q269894:22_answer0" aria-labelledby="q269894:22_answer0_label"><div class="d-flex w-auto" id="q269894:22_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Hydrological services including flood forecasting</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:22_answer" value="1" id="q269894:22_answer1" aria-labelledby="q269894:22_answer1_label"><div class="d-flex w-auto" id="q269894:22_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Vegetation and crop monitoring</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:22_answer" value="2" id="q269894:22_answer2" aria-labelledby="q269894:22_answer2_label"><div class="d-flex w-auto" id="q269894:22_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Satellite manufacturing services</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:22_answer" value="3" id="q269894:22_answer3" aria-labelledby="q269894:22_answer3_label"><div class="d-flex w-auto" id="q269894:22_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Monitoring of air quality and fire</div></div> </div>
+</div><div id="q269894:22_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:22_answer" id="q269894:22_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:22_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:23_:sequencecheck" value="1" id="yui_3_17_2_1_1744881883207_33"><div class="qtext">Which satellites contribute for monitoring extreme weather events by MOSDAC?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:23_answer" value="0" id="q269894:23_answer0" aria-labelledby="q269894:23_answer0_label"><div class="d-flex w-auto" id="q269894:23_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Landsat</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:23_answer" value="1" id="q269894:23_answer1" aria-labelledby="q269894:23_answer1_label"><div class="d-flex w-auto" id="q269894:23_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Sentinel-2</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:23_answer" value="2" id="q269894:23_answer2" aria-labelledby="q269894:23_answer2_label"><div class="d-flex w-auto" id="q269894:23_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">EOS-04</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:23_answer" value="3" id="q269894:23_answer3" aria-labelledby="q269894:23_answer3_label"><div class="d-flex w-auto" id="q269894:23_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">INSAT-3D</div></div> </div>
+</div><div id="q269894:23_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:23_answer" id="q269894:23_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:23_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:24_:sequencecheck" value="1" id="yui_3_17_2_1_1744881883207_36"><div class="qtext">Which of the following stakeholders is most likely to benefit from the BHOONIDHI platform during a disaster?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:24_answer" value="0" id="q269894:24_answer0" aria-labelledby="q269894:24_answer0_label"><div class="d-flex w-auto" id="q269894:24_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Farmers</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:24_answer" value="1" id="q269894:24_answer1" aria-labelledby="q269894:24_answer1_label"><div class="d-flex w-auto" id="q269894:24_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Tourists</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:24_answer" value="2" id="q269894:24_answer2" aria-labelledby="q269894:24_answer2_label"><div class="d-flex w-auto" id="q269894:24_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Disaster response agencies and government authorities</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:24_answer" value="3" id="q269894:24_answer3" aria-labelledby="q269894:24_answer3_label"><div class="d-flex w-auto" id="q269894:24_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Film producers</div></div> </div>
+</div><div id="q269894:24_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:24_answer" id="q269894:24_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:24_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="accesshide">Question text</h4><input type="hidden" name="q269894:25_:sequencecheck" value="1" id="yui_3_17_2_1_1744881972366_30"><div class="qtext">Which type of data is primarily used by VEDAS for disaster mitigation purposes?</div><div class="ablock no-overflow visual-scroll-x"><div class="answer"><div class="r0"><input type="radio" name="q269894:25_answer" value="0" id="q269894:25_answer0" aria-labelledby="q269894:25_answer0_label"><div class="d-flex w-auto" id="q269894:25_answer0_label" data-region="answer-label"><span class="answernumber">a. </span><div class="flex-fill ml-1">Remote sensing and GIS data</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:25_answer" value="1" id="q269894:25_answer1" aria-labelledby="q269894:25_answer1_label"><div class="d-flex w-auto" id="q269894:25_answer1_label" data-region="answer-label"><span class="answernumber">b. </span><div class="flex-fill ml-1">Social media trends</div></div> </div>
+<div class="r0"><input type="radio" name="q269894:25_answer" value="2" id="q269894:25_answer2" aria-labelledby="q269894:25_answer2_label"><div class="d-flex w-auto" id="q269894:25_answer2_label" data-region="answer-label"><span class="answernumber">c. </span><div class="flex-fill ml-1">Newspaper and media reports</div></div> </div>
+<div class="r1"><input type="radio" name="q269894:25_answer" value="3" id="q269894:25_answer3" aria-labelledby="q269894:25_answer3_label"><div class="d-flex w-auto" id="q269894:25_answer3_label" data-region="answer-label"><span class="answernumber">d. </span><div class="flex-fill ml-1">Groundwater samples</div></div> </div>
+</div><div id="q269894:25_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q269894:25_answer" id="q269894:25_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q269894:25_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Clear my choice</a></label></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
