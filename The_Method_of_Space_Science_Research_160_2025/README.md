@@ -47,16 +47,16 @@ In-situ techniques for space exploration by Dr. Smitha V. Thampi
 
 https://youtu.be/F83iYzUfdOM
 edit
-
-
-```
-
-
+https://youtu.be/a3pwSepNIjE
 
 ```
 
 
+Methods in Astronomy Research by Dr. Debiprasad Duari
+```
 
+
+https://youtu.be/n5pRymfvnLI
 edit
 
 
