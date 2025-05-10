@@ -58,6 +58,14 @@ Methods in Astronomy Research by Dr. Debiprasad Duari
 
 https://youtu.be/n5pRymfvnLI
 edit
+https://youtu.be/fptCsLgSCdQ
 
+```
+
+Ground-based Studies of the Outer Space by Prof. Divya Oberoi
+```
+
+https://youtu.be/xYwrnONT34I
+edit
 
 ```
