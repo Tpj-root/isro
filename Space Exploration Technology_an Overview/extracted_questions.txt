@@ -1,0 +1,466 @@
+Question: Which type of satellite is used to locate your position
+
+Options:
+ 
+a.Space station
+b.Navigation
+c.Remote sensing
+d.Communication
+
+
+Ans:
+
+b. Navigation
+
+
+
+
+
+Question: Which of the following is an example of a messenger used to study outer space?
+
+Options:
+ 
+a.Solar wind
+b.Ocean currents
+c.Earthquake waves
+d.Sound waves
+
+Ans:
+
+
+a. Solar wind
+
+
+
+
+
+
+
+
+Question: What role does computation play in modern space exploration techniques?
+
+Options:
+ 
+a.Minimizes the need for human involvement
+b.Processes and interprets raw data from instruments
+c.Replaces physical sampling entirely
+d.Only controls spacecraft propulsion
+
+Ans:
+
+
+b. Processes and interprets raw data from instruments
+
+
+
+
+
+
+Question: Which of the following is an example of an in situ technique in space exploration?
+
+Options:
+ 
+a.Spectroscopy from Earth-based observatories
+b.Imaging by the Hubble Space Telescope
+c.Soil analysis by the Curiosity rover on Mars
+d.Optical telescopes observing exoplanets
+
+Ans:
+
+
+c. Soil analysis by the Curiosity rover on Mars
+
+
+
+
+
+Question: Which system helps ensure that the spacecraft is oriented correctly to communicate with ground stations?
+
+Options:
+ 
+a.Attitude control system
+b.Orbit correction system
+c.Power distribution unit
+d.Solar array mechanism
+
+Ans:
+
+
+a. Attitude control system
+
+
+
+
+
+
+Question: Why are multistage launch vehicles preferred for reaching space?
+
+Options:
+ 
+a.They are cheaper to build
+b.They carry more fuel
+c.They have longer burn times
+d.They reduce mass progressively to increase efficiency
+
+Ans:
+
+d. They reduce mass progressively to increase efficiency
+
+
+
+
+
+
+Question: What defines the beginning of space according to the Kármán line?
+
+Options:
+ 
+a.100 km above sea level
+b.80 km above sea level
+c.50 km above sea level
+d.120 km above sea level
+
+Ans:
+
+
+b. 80 km above sea level
+
+
+
+
+
+
+Question: What is a key benefit of reusable launch vehicles (RLVs.?
+
+Options:
+ 
+a.They don't need fuel
+b.They use nuclear propulsion
+c.They are faster than conventional rockets
+d.They reduce the cost per launch
+
+Ans:
+
+
+d. They reduce the cost per launch
+
+
+
+
+Question: What is the key difference between ground-based and space-based observations?
+
+Options:
+ 
+a.Ground-based methods are always more expensive
+b.Space-based methods avoid atmospheric distortion
+c.Space-based methods use only optical instruments
+d.Ground-based methods are not suitable for astronomy
+
+Ans:
+
+b. Space-based methods avoid atmospheric distortion
+
+
+
+
+
+
+
+
+Question: What is the Deep Space Network (DSN.?
+
+Options:
+ 
+a.A network of antennas for communication with distant space missions
+b.A type of satellite orbit
+c.A system of GPS satellites
+d.A protocol for satellite internet
+
+Ans:
+
+
+a. A network of antennas for communication with distant space missions
+
+
+
+
+
+
+Question: The health parameters data received from satellite is called
+
+Options:
+ 
+a.Television
+b.Telecommand
+c.Telemetry
+d.Telemedicine
+
+
+Ans:
+
+
+c. Telemetry
+
+
+
+Question: Which of the following is not a function of the propulsion system in a space transportation vehicle?
+
+Options:
+ 
+a.Generate thrust
+b.Maintain orbit stability
+c.Escape Earth's gravity
+d.Change velocity
+
+Ans:
+
+
+b. Maintain orbit stability
+
+
+
+
+Question: In a basic rocket, what provides the thrust?
+
+Options:
+ 
+a.Gravity acting on the vehicle
+b.Combustion of fuel generating high-speed exhaust gases
+c.Rotational motion of Earth
+d.Air pressure around the rocket
+
+
+Ans:
+
+b. Combustion of fuel generating high-speed exhaust gases
+
+
+
+
+Question: Why are multistage launch vehicles used in space transportation?
+
+Options:
+ 
+a.To achieve higher velocities and reach orbit efficiently
+b.To reduce the cost of construction
+c.To carry more passengers
+d.To minimize fuel requirements
+
+
+Ans:
+
+a. To achieve higher velocities and reach orbit efficiently
+
+
+
+
+
+
+Question: Which of the following best describes the function of a tracking system in a ground station?
+
+Options:
+ 
+a.Cooling antenna components
+b.Encrypting command data
+c.Downloading software updates to satellites
+d.Measuring the Doppler shift and range of a spacecraft
+
+
+Ans:
+
+d. Measuring the Doppler shift and range of a spacecraft
+
+
+
+
+
+
+Question: What does the rocket equation relate?
+
+Options:
+ 
+a.Altitude and payload mass
+b.Change in velocity to mass ratio and exhaust velocity
+c.Propellant mass and exhaust velocity
+d.Thrust and altitude
+
+
+Ans:
+
+b. Change in velocity to mass ratio and exhaust velocity
+
+
+
+
+
+
+Question: The term “momentum conservation” in rocketry implies that:
+
+Options:
+ 
+a.The rocket's speed is independent of mass
+b.Rockets cannot work in vacuum
+c.The change in momentum of the rocket is equal and opposite to the momentum of expelled gases
+d.Thrust increases with altitude
+
+
+Ans:
+
+c. The change in momentum of the rocket is equal and opposite to the momentum of expelled gases
+
+
+
+
+
+
+Question: Remote sensing techniques are primarily used to:
+
+Options:
+ 
+a.Analyze environmental conditions using onboard sensors
+b.Measure properties of celestial bodies from a distance
+c.Monitor spacecraft internal systems
+d.Collect samples directly from planetary surfaces
+
+Ans:
+
+b. Measure properties of celestial bodies from a distance
+
+
+
+
+
+Question: What is a major advantage of in situ techniques over remote sensing?
+
+Options:
+ 
+a.Less need for physical access to the object
+b.Coverage of a wider spatial area
+c.Ability to measure surface composition directly
+d.Faster data acquisition
+
+Ans:
+
+c. Ability to measure surface composition directly
+
+
+
+
+
+
+Question: What kind of sensor is most commonly used for remote sensing in space?
+
+Options:
+ 
+a.Cameras and spectrometers
+b.Microphones
+c.Seismometers
+d.Thermometers
+
+Ans:
+
+a. Cameras and spectrometers
+
+
+
+
+
+Question: What is a key benefit of Reusable Launch Vehicles (RLVs.?
+
+Options:
+ 
+a.They use nuclear propulsion
+b.They carry heavier payloads
+c.They eliminate the need for ground tracking
+d.They significantly reduce launch costs
+
+Ans:
+
+d. They significantly reduce launch costs
+
+
+
+
+
+
+Question: Which of the following best differentiates a sounding rocket from a satellite launch vehicle?
+
+Options:
+ 
+a.Sounding rockets can reach geostationary orbit
+b.Sounding rockets use solid fuel only
+c.Sounding rockets are designed for suborbital flights
+d.Satellite launch vehicles cannot carry scientific instruments
+
+Ans:
+
+
+c. Sounding rockets are designed for suborbital flights
+
+
+
+
+Question: Which of the following in an in-situ instrument?
+
+Options:
+ 
+a.Imager
+b.Radiometer
+c.Langmuir probe
+d.Spectrograph
+
+Ans:
+
+c. Langmuir probe
+
+
+
+
+Question: The first black hole to be directly imaged is?
+
+Options:
+ 
+a.Ngc6166
+b.M60
+c.Sagittarius A*
+d.M87
+
+
+Ans:
+d. M87
+
+
+
+
+
+
+
+
+Question: What is meant by "momentum conservation" in the context of rocket propulsion?
+
+Options:
+ 
+a.The rocket gains forward momentum as exhaust gases are expelled backward
+b.Energy is lost during thrust
+c.Thrust is proportional to the weight of the rocket
+d.Total mass of the rocket remains unchanged
+
+
+Ans:
+a. The rocket gains forward momentum as exhaust gases are expelled backward
+
+
+
+
+State 	Grade 24/ 25 	
+FinishedSubmitted Wednesday, 14 May 2025, 11:42 AM 	
+
+
+
+
+
+
+
+info
+
+https://isrolms.iirs.gov.in/mod/quiz/attempt.php?attempt=270018&cmid=4988&page=8
