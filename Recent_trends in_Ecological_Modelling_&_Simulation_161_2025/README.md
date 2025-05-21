@@ -30,14 +30,14 @@ Advances in modelling forest carbon stock using EO data Dr. Subrata Nandy
 
 https://youtu.be/kR7QRcn9iPc
 edit
-
+https://youtu.be/-VbnqyCRAWk
 ```
 
 
 
-
+Advances in biodiversity assessment using geospatial technology by Dr. Ishwari Datt Rai
 ```
-
+https://youtu.be/jMBzY5HdEHs
 edit
 
 ```
