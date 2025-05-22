@@ -36,8 +36,19 @@ https://youtu.be/-VbnqyCRAWk
 
 
 Advances in biodiversity assessment using geospatial technology by Dr. Ishwari Datt Rai
+
 ```
 https://youtu.be/jMBzY5HdEHs
 edit
+https://youtu.be/iWxuIVZ69AQ
+```
+
+
+Advances in modelling forest carbon and water fluxes using in-situ, satellite and models by Dr. Taibanganba Watham
+```
+https://youtu.be/C3Jk8EaY58A
+edit
 
 ```
+
+
