@@ -52,3 +52,11 @@ edit
 ```
 
 
+
+Advances in soil erosion modelling using geospatial technology by Dr. Suresh Kumar
+
+```
+https://youtu.be/GscFDO2U_Q8
+edit
+
+```
