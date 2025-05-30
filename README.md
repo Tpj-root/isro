@@ -37,6 +37,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
     <th>Course Name</th>
     <th>Status</th>
     <th>Quiz</th>
+    <th>Awarded on</th>
     <th>Summery</th>
   </tr>
 <tr>
@@ -44,6 +45,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">START-2025</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/START-2025/Quiz_Assessment.md">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;">9 February 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -51,6 +53,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Geodata Processing using Python and Machine Learning</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Geodata_Processing_using_Python_and_Machine_Learning/Quiz_Assessment.md">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;">10 March 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -58,6 +61,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Remote Sensing of Soils : mapping, classification and evaluation for Agricultural Land Use Planning</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="">not available</a></td>
+  <td style="width: 200px; word-wrap: break-word;">7 April 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -65,6 +69,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Martian surface, analogues and atmosphere</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="">No Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;">15 April 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -72,6 +77,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Space Technology for Disaster Risk Reduction</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="">No attempt</a></td>
+  <td style="width: 200px; word-wrap: break-word;">17 April 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -79,6 +85,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Application of AI/ML model for Specific Crop Acreage</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="">No Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;">17 April 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -86,6 +93,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Space Exploration Technology: an Overview</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Space%20Exploration%20Technology_an%20Overview/extracted_questions.txt">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;">15 May 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
@@ -95,12 +103,14 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/The_Method_of_Space_Science_Research_160_2025/extracted_questions.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251612741979</td>
   <td style="width: 150px; word-wrap: break-word;">Recent trends in Ecological Modelling and Simulation</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -109,12 +119,14 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251672748267</td>
   <td style="width: 150px; word-wrap: break-word;">Archival and Access of the Space Science Data</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -123,12 +135,14 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">update</td>
   <td style="width: 150px; word-wrap: break-word;">update</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 
