@@ -57,28 +57,28 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 50px; word-wrap: break-word;">20251572712139</td>
   <td style="width: 150px; word-wrap: break-word;">Remote Sensing of Soils : mapping, classification and evaluation for Agricultural Land Use Planning</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Remote%20Sensing%20of%20Soils%20by%20Dr%20Suresh%20Kumar/Quiz_Assessment.md">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="">not available</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">202510452712140</td>
   <td style="width: 150px; word-wrap: break-word;">Martian surface, analogues and atmosphere</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/MARTIAN%20SURFACE%2C%20ANALOGUES%20AND%20ATMOSPHERE/Quiz_Assessment.md">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="">No Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251582718365</td>
   <td style="width: 150px; word-wrap: break-word;">Space Technology for Disaster Risk Reduction</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Space%20Technology%20for%20Disaster%20Risk%20Reduction/Quiz_Assessment.md">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="">No attempt</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">202510462720014</td>
   <td style="width: 150px; word-wrap: break-word;">Application of AI/ML model for Specific Crop Acreage</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Application%20of%20AI_ML%20model%20for%20Specific%20Crop%20Acreage/Quiz_Assessment.md">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="">No Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -100,28 +100,28 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 50px; word-wrap: break-word;">20251612741979</td>
   <td style="width: 150px; word-wrap: break-word;">Recent trends in Ecological Modelling and Simulation</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251622744217</td>
   <td style="width: 150px; word-wrap: break-word;">Geospatial technology for modelling of Urban Environment</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251672748267</td>
   <td style="width: 150px; word-wrap: break-word;">Archival and Access of the Space Science Data</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251682752183</td>
   <td style="width: 150px; word-wrap: break-word;">Remote Sensing Data Analytics for Crop Production Forecasting</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
