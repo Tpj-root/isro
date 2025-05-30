@@ -81,6 +81,58 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Application%20of%20AI_ML%20model%20for%20Specific%20Crop%20Acreage/Quiz_Assessment.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251592734030</td>
+  <td style="width: 150px; word-wrap: break-word;">Space Exploration Technology: an Overview</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Space%20Exploration%20Technology_an%20Overview/extracted_questions.txt">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251602738357</td>
+  <td style="width: 150px; word-wrap: break-word;">The Method of Space Science Research</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/The_Method_of_Space_Science_Research_160_2025/extracted_questions.md">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251612741979</td>
+  <td style="width: 150px; word-wrap: break-word;">Recent trends in Ecological Modelling and Simulation</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251622744217</td>
+  <td style="width: 150px; word-wrap: break-word;">Geospatial technology for modelling of Urban Environment</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251672748267</td>
+  <td style="width: 150px; word-wrap: break-word;">Archival and Access of the Space Science Data</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251682752183</td>
+  <td style="width: 150px; word-wrap: break-word;">Remote Sensing Data Analytics for Crop Production Forecasting</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">update</td>
+  <td style="width: 150px; word-wrap: break-word;">update</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+
+
 
 
 </table>
