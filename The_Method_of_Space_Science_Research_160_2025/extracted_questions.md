@@ -18,7 +18,7 @@ Formula: θ = λ / D
 
 θ = 0.21​ / 25 = 0.0084 radians
 
-###Correct answer: c. 0.0084 radians
+### Correct answer: c. 0.0084 radians
 
 
 
@@ -35,7 +35,7 @@ c.Supernovae
 d.Aurora
 
 
-###Correct answer: d. Aurora
+### Correct answer: d. Aurora
 
 
 ---
@@ -50,7 +50,7 @@ b.Limited bandwidth
 c.Calibration in low-gravity environments
 d.Overheating
 
-###Correct answer: c. Calibration in low-gravity environments
+### Correct answer: c. Calibration in low-gravity environments
 
 
 ---
@@ -64,7 +64,7 @@ b.Medium Earth Orbit
 c.Geostationary Orbit
 d.Heliocentric Orbit
 
-###Correct answer: a. Low Earth Orbit
+### Correct answer: a. Low Earth Orbit
 
 ---
 
@@ -79,7 +79,7 @@ c.Astrobiology
 d.Planetary science
 
 
-###Correct answer: b. Cosmology
+### Correct answer: b. Cosmology
 
 ---
 
@@ -95,7 +95,7 @@ d.IUVS (Imaging Ultraviolet Spectrograph)
 
 
 
-###Correct answer: d. IUVS (Imaging Ultraviolet Spectrograph)
+### Correct answer: d. IUVS (Imaging Ultraviolet Spectrograph)
 
 
 ---
@@ -110,7 +110,7 @@ c.Mercury
 d.Mars
 
 
-###Correct answer: b. Venus
+### Correct answer: b. Venus
 
 ---
 
@@ -123,7 +123,7 @@ b.Oxygen
 c.Sulfur dioxide
 d.Helium
 
-###Correct answer: a. Methane
+### Correct answer: a. Methane
 
 
 
@@ -137,7 +137,7 @@ c.Mapping Earth's terrain
 d.Launching multiple satellites at once
 
 
-###Correct answer: a. Combining observational data with model simulations
+### Correct answer: a. Combining observational data with model simulations
 
 
 ---
@@ -152,7 +152,7 @@ c.Real-time visualization
 d.Understanding planetary formation and evolution
 
 
-###Correct answer: d. Understanding planetary formation and evolution
+### Correct answer: d. Understanding planetary formation and evolution
 
 
 ------
@@ -167,7 +167,7 @@ b.Image formation
 c.Data compression
 d.Radio signal amplification
 
-###Correct answer: a. Light detection
+### Correct answer: a. Light detection
 
 ---
 
@@ -182,7 +182,7 @@ c.Mapping archaeological sites
 d.Providing satellite data for agriculture
 
 
-###Correct answer: a. Disseminating meteorological and oceanographic satellite data
+### Correct answer: a. Disseminating meteorological and oceanographic satellite data
 
 ---
 
@@ -196,7 +196,7 @@ b.More temporal data
 c.More radiometric data
 d.More spectral bands
 
-###Correct answer: d. More spectral bands
+### Correct answer: d. More spectral bands
 
 
 
@@ -212,7 +212,7 @@ b.Mass spectrometry
 c.LIBS
 d.Seismic reflection
 
-###Correct answer: c. LIBS
+### Correct answer: c. LIBS
 
 
 ---
@@ -230,7 +230,7 @@ c.Radiometer
 d.Spectrometer
 
 
-###Correct answer: a. Telescope
+### Correct answer: a. Telescope
 
 ---
 
@@ -244,7 +244,7 @@ b.Radio telescope
 c.Infrared telescope
 d.Optical telescope
 
-###Correct answer: b. Radio telescope
+### Correct answer: b. Radio telescope
 
 
 ---
@@ -271,7 +271,7 @@ Calculate:
 z=15000 / 300000 = 0.05
 
 
-###Correct answer: a. 0.05
+### Correct answer: a. 0.05
 
 
 ---
@@ -288,7 +288,7 @@ b.Its velocity relative to Earth
 c.Its temperature
 d.Its rotation speed
 
-###Correct answer: b. Its velocity relative to Earth
+### Correct answer: b. Its velocity relative to Earth
 
 
 ---
@@ -303,12 +303,12 @@ b.Remote sensing from satellites
 c.Simulation in laboratories
 d.Observation using Earth-based telescopes
 
-###Correct answer: a. Direct measurement at the location
+### Correct answer: a. Direct measurement at the location
 
 
 ---
 
-Question: Adaptive optics are used in ground-based telescopes to ###Correct for:
+Question: Adaptive optics are used in ground-based telescopes to ### Correct for:
 
 Options:
 
@@ -318,7 +318,7 @@ c.Gravitational lensing
 d.Earth's rotation
 
 
-###Correct answer: b. Atmospheric distortion
+### Correct answer: b. Atmospheric distortion
 
 
 ---
@@ -332,7 +332,7 @@ b.Blocking radio waves
 c.Reflecting radio waves
 d.Absorbing gamma rays
 
-###Correct answer: c. Reflecting radio waves
+### Correct answer: c. Reflecting radio waves
 
 
 ---
@@ -347,7 +347,7 @@ c.Alpha Particle X-ray Spectrometer (APXS)
 d.Neutron Spectrometer
 
 
-###Correct answer: a. Laser-Induced Breakdown Spectroscopy (LIBS)
+### Correct answer: a. Laser-Induced Breakdown Spectroscopy (LIBS)
 
 
 ---
@@ -361,7 +361,7 @@ b.Measures redshift
 c.Blocks background radiation
 d.Increases spatial resolution
 
-###Correct answer: d. Increases spatial resolution
+### Correct answer: d. Increases spatial resolution
 
 
 
@@ -377,7 +377,7 @@ b.Mapping surface topography
 c.Measuring radiation levels
 d.Detecting planetary magnetic fields
 
-###Correct answer: b. Mapping surface topography
+### Correct answer: b. Mapping surface topography
 
 ---
 
@@ -393,7 +393,7 @@ c.High spatial resolution in daylight
 d.Ability to operate regardless of weather or lighting conditions
 
 
-###Correct answer: d. Ability to operate regardless of weather or lighting conditions
+### Correct answer: d. Ability to operate regardless of weather or lighting conditions
 
 
 ---
