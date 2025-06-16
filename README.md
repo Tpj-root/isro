@@ -102,7 +102,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">The Method of Space Science Research</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/The_Method_of_Space_Science_Research_160_2025/extracted_questions.md">Quiz</a></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">5 June 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
