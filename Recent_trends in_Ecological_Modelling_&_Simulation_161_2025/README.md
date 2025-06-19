@@ -48,6 +48,7 @@ Advances in modelling forest carbon and water fluxes using in-situ, satellite an
 ```
 https://youtu.be/C3Jk8EaY58A
 edit
+https://youtu.be/6x66luY9o5A
 
 ```
 
@@ -58,5 +59,5 @@ Advances in soil erosion modelling using geospatial technology by Dr. Suresh Kum
 ```
 https://youtu.be/GscFDO2U_Q8
 edit
-
+https://youtu.be/jU42jWfF3Pc
 ```
