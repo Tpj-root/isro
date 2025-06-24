@@ -117,7 +117,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 50px; word-wrap: break-word;">20251622744217</td>
   <td style="width: 150px; word-wrap: break-word;">Geospatial technology for modelling of Urban Environment</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Geospatial_technology_for_modelling_of_Urban_Environment_162_2025/extracted_questions.md">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
