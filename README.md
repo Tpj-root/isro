@@ -110,7 +110,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Recent trends in Ecological Modelling and Simulation</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Recent_trends%20in_Ecological_Modelling_%26_Simulation_161_2025/extracted_questions.md">Quiz</a></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">27 June 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Geospatial technology for modelling of Urban Environment</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Geospatial_technology_for_modelling_of_Urban_Environment_162_2025/extracted_questions.md">Quiz</a></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">26 June 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
