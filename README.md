@@ -126,14 +126,38 @@ It will help me apply new knowledge to solve real-world problems in my professio
   <td style="width: 150px; word-wrap: break-word;">Archival and Access of the Space Science Data</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
   <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Archival_and_Access_of_the_Space_Science_Data/extracted_questions.md">Quiz</a></td>
-  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;">16 July 2025</td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
 <tr>
   <td style="width: 50px; word-wrap: break-word;">20251682752183</td>
   <td style="width: 150px; word-wrap: break-word;">Remote Sensing Data Analytics for Crop Production Forecasting</td>
   <td style="width: 150px; word-wrap: break-word;">Approved</td>
-  <td style="width: 150px; word-wrap: break-word;"><a href="later">Quiz_later</a></td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="https://github.com/Tpj-root/isro/blob/main/Remote_Sensing_Data_Analytics_for_Crop%20Production_Forecasting_168_2025/extracted_questions.md">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;">7 July 2025</td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">202510482773121</td>
+  <td style="width: 150px; word-wrap: break-word;">Advanced Image Analysis for Geospatial Professionals</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251642781009</td>
+  <td style="width: 150px; word-wrap: break-word;">Basics of “Remote Sensing, Geographical Information System and Global Navigation Satellite System</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+  <td style="width: 200px; word-wrap: break-word;"></td>
+</tr>
+<tr>
+  <td style="width: 50px; word-wrap: break-word;">20251662781013</td>
+  <td style="width: 150px; word-wrap: break-word;">Remote Sensing and numerical ocean modelling for oceanic processes</td>
+  <td style="width: 150px; word-wrap: break-word;">Approved</td>
+  <td style="width: 150px; word-wrap: break-word;"><a href="update">Quiz</a></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
   <td style="width: 200px; word-wrap: break-word;"></td>
 </tr>
