@@ -1,0 +1,27 @@
+[Ilwis]
+Description=GeoReference from c:\raw data for exercises\cd 2\product1\imagery.l-4, using GeoGateway
+Time=1345548942
+Version=3.1
+Class=GeoReference Corners
+Type=GeoRef
+[GeoRef]
+CoordSystem=unknown.csy
+Lines=5279
+Columns=4985
+Type=GeoRefCorners
+[GeoRefSmpl]
+a11=1.000000000000
+a12=0.000000000000
+a21=0.000000000000
+a22=-1.000000000000
+b1=0.000000000000
+b2=5279.000000000000
+[GeoRefCorners]
+CornersOfCorners=Yes
+MinX=0.000000
+MinY=0.000000
+MaxX=4985.000000
+MaxY=5279.000000
+[Collection]
+NrOfItems=1
+Item0=imp_imagery.ioc

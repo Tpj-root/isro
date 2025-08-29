@@ -1,0 +1,187 @@
+[Table]
+Description=
+Time=1288005120
+Version=3.1
+Class=Table
+Domain=None.dom
+DomainInfo=None.dom;Byte;none;0;;
+Columns=7
+Records=4
+Type=TableStore
+[TableStore]
+Data=lis4g.gr#
+UseAs=No
+Col0=X
+Col1=Y
+Col2=Row
+Col3=Col
+Col4=Active
+Type=TableBinary
+Col5=DRow
+Col6=DCol
+[Col:X]
+Description=X-coord
+Time=1288004876
+Version=3.1
+Class=Column
+Domain=value.dom
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Range=-1000000000.000:1000000000.000:0.001:offset=0
+ReadOnly=No
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Real
+Stored=Yes
+Type=ColumnStore
+[Col:Y]
+Description=Y-coord
+Time=1288004876
+Version=3.1
+Class=Column
+Domain=value.dom
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Range=-1000000000.000:1000000000.000:0.001:offset=0
+ReadOnly=No
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Real
+Stored=Yes
+Type=ColumnStore
+[Col:Row]
+Description=Pixel row
+Time=1288004876
+Version=3.1
+Class=Column
+Domain=value.dom
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Range=-2000:4000:offset=0
+ReadOnly=No
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Long
+Stored=Yes
+Type=ColumnStore
+[Col:Col]
+Description=Pixel column
+Time=1288004876
+Version=3.1
+Class=Column
+Domain=value.dom
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Range=-2000:4000:offset=0
+ReadOnly=No
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Long
+Stored=Yes
+Type=ColumnStore
+[Col:Active]
+Description=Active point
+Time=1288004876
+Version=3.1
+Class=Column
+Domain=bool.dom
+DomainInfo=bool.dom;Byte;bool;0;;
+Range=0:1:offset=-1
+ReadOnly=No
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Long
+Stored=Yes
+Type=ColumnStore
+[Ilwis]
+Description=
+Time=1288005120
+Version=3.1
+Class=GeoReference TiePoints
+Type=GeoRef
+[GeoRef]
+CoordSystem=ddntoposub.csy
+Lines=2000
+Columns=2000
+Type=GeoRefCTP
+[GeoRefCTP]
+Background Map=lis4sub2.mpl
+SubPixelPrecision=No
+Transformation=Affine
+[Col:DRow]
+Description=
+Time=1288004876
+Version=3.1
+Class=Column
+Domain=value.dom
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Range=-9999.00:9999.00:0.01:offset=0
+ReadOnly=Yes
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Long
+Stored=Yes
+Type=ColumnStore
+[Col:DCol]
+Description=
+Time=1288004878
+Version=3.1
+Class=Column
+Domain=value.dom
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Range=-9999.00:9999.00:0.01:offset=0
+ReadOnly=Yes
+OwnedByTable=Yes
+Sum=?
+Mean=?
+StdDev=?
+StoreType=Long
+Stored=Yes
+Type=ColumnStore
+[AdditionalInfo]
+Line0=Transformation: Affine
+Line1=Nr of Ground Control Points: 4
+Line2=Nr of Active Ground Control Points: 4
+Line3=Shift of Ground-Coords grdX,grdY to Centroid:
+Line4=X = grdX - 78.046 m
+Line5=Y = grdY - 30.314 m
+Line6=Equations (from Ground to Picture):
+Line7=pRow = 1060.750 + -4623.555096 * X + -21572.73067 * Y
+Line8=pCol = 646.000 + 18777.912206 * X + -5082.085852 * Y
+Line9=Azimuth of colums in rastermap:
+Line10= 15.14384 degrees
+Line11=Grid intersection angle is
+Line12=(computed at point (78.04639, 30.31366):
+Line13= 90.5764 degrees
+Line14=Pixel size:
+Line15= 4.83036e-005 meter (or degrees) per pixel
+Line16=
+Line17= Inverse Transformation:
+Line18=Shift of Picture pRow,pCol to Centroid:
+Line19=Row = pRow - 1060.750  
+Line20=Col = pCol - 646.000  
+Line21=grdX = 78.04639 + -0.00001 * Row + 0.00005 * Col
+Line22=grdY = 30.31366 + -0.00004 * Row + -0.00001 * Col
+Line23=Scale in X direction : 0.00005 meter (or degrees) per pixel
+Line24=Scale in Y direction : 0.00005 meter (or degrees) per pixel
+Line25=
+Line26= Simplified Coord to RowCol equations: ('GeoRefSimple')
+Line27=Row = 1015860.870 + -4623.555096 * X + -21572.73067 * Y
+Line28=Col = -1310845.566 + 18777.912206 * X + -5082.085852 * Y
+Line29=Sigma = ~0.00 pixels
+Line30=Row = 1015860.870 + -4623.555096 * X + -21572.73067 * Y
+Line31=Col = -1310845.566 + 18777.912206 * X + -5082.085852 * Y
+Line32=Pixel size (GrSmpl):
+Line33= 4.83036e-005 meter (or degrees) per pixel
+Line34=RC * XY matrix = ~
+Line35=[1   4.031346e-008]
+Line36=[1.054319e-007   1]
+Lines=37

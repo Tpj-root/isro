@@ -1,0 +1,15 @@
+[Ilwis]
+Description=Domain Class "lis4dom"
+Time=1251266992
+Version=3.1
+Class=Domain Class
+Type=Domain
+[Domain]
+Width=15
+Type=DomainClass
+Representation=lis4dom.rpr
+[DomainSort]
+Sorting=AlphaNumeric
+Prefix=
+[DomainClass]
+Nr=0

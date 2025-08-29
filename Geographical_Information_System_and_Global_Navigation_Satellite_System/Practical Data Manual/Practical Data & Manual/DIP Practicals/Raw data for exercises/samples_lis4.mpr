@@ -1,0 +1,27 @@
+[Ilwis]
+Description=Map samples_lis4
+Time=1251267846
+Version=3.1
+Class=Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=unknown.csy
+CoordBounds=96.5 -4438.5 2096.5 -2438.5
+Domain=lis4dom1.dom
+DomainInfo=lis4dom1.dom;Byte;class;7;;
+Proximity=1.000000
+Type=Map
+[Map]
+GeoRef=lis4sub2_1.grf
+Size=2000 2000
+Type=MapStore
+[MapStore]
+StoreTime=1251267203
+Data=samples_lis4.mp#
+Structure=Line
+StartOffset=0
+RowLength=2000
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No

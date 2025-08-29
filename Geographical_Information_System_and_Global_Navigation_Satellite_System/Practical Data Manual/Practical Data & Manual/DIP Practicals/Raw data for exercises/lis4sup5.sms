@@ -1,0 +1,16 @@
+[Ilwis]
+Description=SampleSet "lis4sup5"
+Time=1288002268
+Version=3.1
+Class=SampleSet
+Type=SampleSet
+[SampleSet]
+MapList=lis4sub2.mpl
+Domain=super5.dom
+DomainInfo=super5.dom;Byte;class;5;;
+SampleMap=lis4sup5.mpr
+[ObjectDependency]
+NrDepObjects=3
+Object0=lis4sub2.mpl
+Object1=super5.dom
+Object2=lis4sup5.mpr

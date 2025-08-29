@@ -1,0 +1,50 @@
+[Ilwis]
+Description=MapSubMap(lis4sub__3.mpr,350,1,2000,2000)
+Time=1288004876
+Version=3.1
+Class=Dependent Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=ddntoposub.csy
+CoordBounds=78.00273200884 30.257898408344 78.127116300562 30.367100995922
+Domain=Image.dom
+DomainInfo=Image.dom;Byte;image;0;;
+Range=0:255:offset=0
+Type=Map
+Proximity=14.985000
+MinMax=7:255
+Perc1=14:41
+[Map]
+GeoRef=lis4g.grf
+Size=2000 2000
+Type=MapVirtual
+[IlwisObjectVirtual]
+Expression=MapSubMap(lis4sub__3.mpr,350,1,2000,2000)
+DefOnlyPossible=Yes
+[Collection]
+NrOfItems=2
+Item0=lis4sub.ioc
+Item1=lis4sub2.mpl
+[ObjectDependency]
+NrDepObjects=2
+Object0=lis4sub__3.mpr
+Object1=lis4sub2_3.grf
+[MapVirtual]
+Expression=MapSubMap(lis4sub__3.mpr,350,1,2000,2000)
+Type=MapFromMap
+[MapFromMap]
+Map=lis4sub__3.mpr
+Type=MapSubMap
+[MapSubMap]
+Offset=349 0
+Corners=No
+[MapStore]
+StoreTime=1188298690
+Data=lis4sub2_3.mp#
+Structure=Line
+StartOffset=0
+RowLength=2000
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No

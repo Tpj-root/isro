@@ -1,0 +1,16 @@
+[GeoRef]
+CoordSystem=unknown.csy
+Type=GeoRefCorners
+columns=773
+lines=599
+
+[GeoRefCorners]
+CornersOfCorners=Yes
+MaxX=4388.500000
+MaxY=-2651.500000
+MinX=3615.500000
+MinY=-3250.500000
+
+[Ilwis]
+Type=GeoRef
+

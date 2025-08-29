@@ -1,0 +1,17 @@
+[Ilwis]
+Description=Created from MapSubMap(fullscene__1.mpr,2000,1000,500,500)
+Time=1288004330
+Version=3.1
+Class=GeoReference SubMap
+Type=GeoRef
+[GeoRef]
+CoordSystem=unknown.csy
+Lines=500
+Columns=500
+Type=GeoRefSubMap
+[GeoRefSubMap]
+GeoRef=fullscene.grf
+Start=1999 999
+[ObjectDependency]
+NrDepObjects=1
+Object0=fullscene.grf

@@ -1,0 +1,34 @@
+[BaseMap]
+Domain=value.dom
+Range=67:245:offset=0
+Type=Map
+CoordSystem=ddntoposub.csy
+MinMax=67:245
+Perc1=82:216
+CoordBounds=77.999832 30.248662 78.127929 30.421915
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Proximity=-50000000000000001000000000000.
+
+[Ilwis]
+Type=BaseMap
+Description=
+Time=1251265490
+Version=3.1
+Class=Raster Map
+
+[Map]
+GeoRef=ddntoposub.grf
+Size=1504 1112
+Type=MapStore
+
+[MapStore]
+Data=ddntoposub_band_3.mp#
+Structure=Line
+Type=Byte
+
+StoreTime=1220869701
+StartOffset=0
+RowLength=1112
+PixelInterLeaved=No
+SwapBytes=No
+UseAs=No

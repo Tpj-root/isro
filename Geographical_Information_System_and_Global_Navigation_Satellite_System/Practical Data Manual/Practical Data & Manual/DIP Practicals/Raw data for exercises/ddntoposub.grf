@@ -1,0 +1,16 @@
+[GeoRef]
+CoordSystem=ddntoposub.csy
+Type=GeoRefCorners
+columns=1112
+lines=1504
+
+[GeoRefCorners]
+CornersOfCorners=Yes
+MaxX=78.127929
+MaxY=30.421915
+MinX=77.999832
+MinY=30.248662
+
+[Ilwis]
+Type=GeoRef
+

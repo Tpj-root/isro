@@ -1,0 +1,24 @@
+[Ilwis]
+Description=GeoReference Corners "lis4resgeo"
+Time=1288005302
+Version=3.1
+Class=GeoReference Corners
+Type=GeoRef
+[GeoRef]
+CoordSystem=ddntoposub.csy
+Lines=1211
+Columns=1856
+Type=GeoRefCorners
+[GeoRefSmpl]
+a11=18461.538461537235
+a12=0.000000000000
+a21=0.000000000000
+a22=-18461.538461539039
+b1=-1440049.230769135100
+b2=560227.294871812340
+[GeoRefCorners]
+CornersOfCorners=No
+MinX=78.002694
+MinY=30.280076
+MaxX=78.103173
+MaxY=30.345618

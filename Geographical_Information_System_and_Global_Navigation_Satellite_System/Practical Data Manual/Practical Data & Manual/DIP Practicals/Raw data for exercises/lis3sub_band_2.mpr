@@ -1,0 +1,37 @@
+[BaseMap]
+Domain=value.dom
+Range=14:156:offset=0
+Type=Map
+MinMax=14:156
+Perc1=17:63
+CoordSystem=unknown.csy
+CoordBounds=3615.5 -3250.5 4388.5 -2651.5
+DomainInfo=value.dom;Long;value;0;-9999999.9:9999999.9:0.1:offset=0;
+Proximity=-50000000000000001000000000000.
+
+[Ilwis]
+Type=BaseMap
+Description=
+Time=1192084526
+Version=3.1
+Class=Raster Map
+
+[Map]
+GeoRef=lis3sub.grf
+Size=599 773
+Type=MapStore
+
+[MapStore]
+Data=lis3sub_band_2.mp#
+Structure=Line
+Type=Byte
+StoreTime=1192084421
+StartOffset=0
+RowLength=773
+PixelInterLeaved=No
+SwapBytes=No
+UseAs=No
+
+[Collection]
+NrOfItems=1
+Item0=lis3.mpl

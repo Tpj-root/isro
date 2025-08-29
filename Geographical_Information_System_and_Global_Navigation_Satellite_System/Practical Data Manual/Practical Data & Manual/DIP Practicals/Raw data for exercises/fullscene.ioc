@@ -1,0 +1,23 @@
+[Ilwis]
+Description=
+Time=1288004172
+Version=3.1
+Class=Foreign Collection
+Type=ObjectCollection
+[ObjectCollection]
+Type=Foreign Collection
+NrObjects=14
+Object0=fullscene__1.mpr
+Object1=fullscene.grf
+Object2=fullscene__2.mpr
+Object3=fullscene__3.mpr
+Object4=fullscene.mpl
+Object5=fullscene__1.his
+Object6=fullscene__3.his
+Object7=fullscene__2.his
+Object8=subscene_1.mpr
+Object9=subscene_2.mpr
+Object10=subscene_3.mpr
+Object11=subscene_1.his
+Object12=subscene_3.his
+Object13=subscene_2.his

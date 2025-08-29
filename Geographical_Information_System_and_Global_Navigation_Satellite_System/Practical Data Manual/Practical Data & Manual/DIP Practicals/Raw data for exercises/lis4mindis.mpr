@@ -1,0 +1,43 @@
+[Ilwis]
+Description=MapClassify(lis4sup5.mpr,ClassifierMinDist())
+Time=1288002738
+Version=3.1
+Class=Dependent Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=ddntoposub.csy
+CoordBounds=78.002732010588 30.257918631948 78.127116298593 30.36708345767
+Domain=super5.dom
+DomainInfo=super5.dom;Byte;class;5;;
+Type=Map
+Proximity=0.000546
+[Map]
+GeoRef=lis4geo.grf
+Size=2000 2000
+Type=MapVirtual
+[IlwisObjectVirtual]
+Expression=MapClassify(lis4sup5.mpr,ClassifierMinDist())
+DefOnlyPossible=Yes
+[ObjectDependency]
+NrDepObjects=2
+Object0=lis4sup5.mpr
+Object1=lis4sup5.sms
+[MapVirtual]
+Expression=MapClassify(lis4sup5.mpr,ClassifierMinDist())
+Type=MapFromMap
+[MapFromMap]
+Map=lis4sup5.mpr
+Type=MapClassify
+[MapClassify]
+Classify=ClassifierMinDist()
+SampleSet=lis4sup5.sms
+[MapStore]
+StoreTime=1288002738
+Data=lis4mindis.mp#
+Structure=Line
+StartOffset=0
+RowLength=2000
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No

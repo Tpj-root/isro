@@ -1,0 +1,49 @@
+[Ilwis]
+Description=MapSubMap(fullscene__2.mpr,2000,1000,500,500)
+Time=1288004330
+Version=3.1
+Class=Dependent Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=unknown.csy
+CoordBounds=0 0 4985 5279
+Domain=Image.dom
+DomainInfo=Image.dom;Byte;image;0;;
+Range=0:255:offset=0
+Type=Map
+MinMax=13:145
+Perc1=17:57
+[Map]
+GeoRef=subscene_1.grf
+Size=500 500
+Type=MapVirtual
+[IlwisObjectVirtual]
+Expression=MapSubMap(fullscene__2.mpr,2000,1000,500,500)
+DefOnlyPossible=Yes
+[Collection]
+NrOfItems=2
+Item0=fullscene.ioc
+Item1=subscene.mpl
+[ObjectDependency]
+NrDepObjects=2
+Object0=fullscene__2.mpr
+Object1=subscene_2.grf
+[MapVirtual]
+Expression=MapSubMap(fullscene__2.mpr,2000,1000,500,500)
+Type=MapFromMap
+[MapFromMap]
+Map=fullscene__2.mpr
+Type=MapSubMap
+[MapSubMap]
+Offset=1999 999
+Corners=No
+[MapStore]
+StoreTime=1288004330
+Data=subscene_2.mp#
+Structure=Line
+StartOffset=0
+RowLength=500
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No

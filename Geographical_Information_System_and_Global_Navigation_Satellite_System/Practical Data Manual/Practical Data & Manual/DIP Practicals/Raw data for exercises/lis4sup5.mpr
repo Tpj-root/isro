@@ -1,0 +1,27 @@
+[Ilwis]
+Description=Map lis4sup5
+Time=1288002528
+Version=3.1
+Class=Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=ddntoposub.csy
+CoordBounds=78.002732010588 30.257918631948 78.127116298593 30.36708345767
+Domain=super5.dom
+DomainInfo=super5.dom;Byte;class;5;;
+Proximity=0.000048
+Type=Map
+[Map]
+GeoRef=lis4geo.grf
+Size=2000 2000
+Type=MapStore
+[MapStore]
+StoreTime=1288002269
+Data=lis4sup5.mp#
+Structure=Line
+StartOffset=0
+RowLength=2000
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No

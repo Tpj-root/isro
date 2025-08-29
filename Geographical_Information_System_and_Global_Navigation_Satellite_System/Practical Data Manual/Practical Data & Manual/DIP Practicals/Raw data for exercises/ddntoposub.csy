@@ -1,0 +1,12 @@
+[CoordSystem]
+Ellipsoid=User Defined
+Type=LatLon
+Width=28
+
+[Ellipsoid]
+1/f=300.801699
+a=6377276.345200
+
+[Ilwis]
+Type=CoordSystem
+

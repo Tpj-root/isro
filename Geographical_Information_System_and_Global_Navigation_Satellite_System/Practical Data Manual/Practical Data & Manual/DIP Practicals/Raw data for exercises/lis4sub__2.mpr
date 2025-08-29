@@ -1,0 +1,37 @@
+[Ilwis]
+Description=Raster Map from lis4sub.img, using GeoGateway, method : import 
+Time=1181214526
+Version=3.1
+Class=Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=unknown.csy
+CoordBounds=96.5 -5086.5 3265.5 -2089.5
+Domain=Image.dom
+DomainInfo=Image.dom;Byte;image;0;;
+Range=0:255:offset=0
+Proximity=1.000000
+Type=Map
+MinMax=9:255
+Perc1=13:55
+[Map]
+GeoRef=lis4sub.grf
+Size=2997 3169
+Type=MapStore
+InterpolMethod=bilinear
+[MapStore]
+StoreTime=1181039437
+Data=lis4sub__2.mp#
+Structure=Line
+StartOffset=0
+RowLength=3169
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No
+PyramidFile=lis4sub__2.mpy#
+[Collection]
+NrOfItems=3
+Item0=lis4sub.ioc
+Item1=lis4sub.mpl
+Item2=newmap.mpl

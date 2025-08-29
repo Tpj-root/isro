@@ -1,0 +1,17 @@
+[Ilwis]
+Description=
+Time=1251268102
+Version=3.1
+Class=Foreign Collection
+Type=ObjectCollection
+[ObjectCollection]
+Type=Foreign Collection
+NrObjects=8
+Object0=imagery__1.mpr
+Object1=imagery.grf
+Object2=imagery__2.mpr
+Object3=imagery__3.mpr
+Object4=imagery.mpl
+Object5=imagery__1.his
+Object6=imagery__3.his
+Object7=imagery__2.his

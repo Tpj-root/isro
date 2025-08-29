@@ -1,0 +1,34 @@
+[Ilwis]
+Description=Raster Map from f:\raw data for exercises\cd 2\product1\imagery.l-4, using GeoGateway, method : import 
+Time=1251268102
+Version=3.1
+Class=Raster Map
+Type=BaseMap
+[BaseMap]
+CoordSystem=unknown.csy
+CoordBounds=0 0 4985 5279
+Domain=Image.dom
+DomainInfo=Image.dom;Byte;image;0;;
+Range=0:255:offset=0
+Proximity=1.000000
+Type=Map
+MinMax=0:255
+Perc1=15:46
+[Map]
+GeoRef=imagery.grf
+Size=5279 4985
+Type=MapStore
+[MapStore]
+StoreTime=1251268102
+Data=imagery__1.mp#
+Structure=Line
+StartOffset=0
+RowLength=4985
+PixelInterLeaved=No
+SwapBytes=No
+Type=Byte
+UseAs=No
+[Collection]
+NrOfItems=2
+Item0=imagery.ioc
+Item1=imagery.mpl

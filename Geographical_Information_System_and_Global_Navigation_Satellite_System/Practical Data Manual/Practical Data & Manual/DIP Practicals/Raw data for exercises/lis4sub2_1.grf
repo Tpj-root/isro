@@ -1,0 +1,17 @@
+[Ilwis]
+Description=Created from MapSubMap(lis4sub__1.mpr,350,1,2000,2000)
+Time=1188298684
+Version=3.1
+Class=GeoReference SubMap
+Type=GeoRef
+[GeoRef]
+CoordSystem=unknown.csy
+Lines=2000
+Columns=2000
+Type=GeoRefSubMap
+[GeoRefSubMap]
+GeoRef=lis4sub.grf
+Start=349 0
+[ObjectDependency]
+NrDepObjects=1
+Object0=lis4sub.grf

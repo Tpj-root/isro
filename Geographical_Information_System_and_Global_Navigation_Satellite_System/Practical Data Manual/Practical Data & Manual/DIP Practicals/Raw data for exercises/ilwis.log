@@ -1,0 +1,558 @@
+2:17:09 PM Tuesday, August 14, 2007  open 'C:\Minakshi\ilwis Exercise\Raw data for exercises\53j3'.mpr
+2:17:24 PM Tuesday, August 14, 2007  open 'C:\Minakshi\ilwis Exercise\Raw data for exercises\53j3'.his
+11:18:39 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2'.mpl
+11:28:15 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub'.ioc
+11:28:34 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_1'.mpr
+11:30:45 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_2'.mpr
+11:32:17 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_1'.his
+11:32:22 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_1'.mpr
+11:35:17 AM Monday, August 24, 2009  create mpl
+11:36:04 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\newmap'.mpl
+11:36:10 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\newmap'.mpl
+11:36:36 AM Monday, August 24, 2009  prop 'F:\Raw data for exercises\newmap'.mpl
+11:36:46 AM Monday, August 24, 2009  colorcomp 'F:\Raw data for exercises\newmap'.mpl
+11:38:41 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub'.ioc
+11:39:02 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_1'.mpr
+11:39:37 AM Monday, August 24, 2009  histogram
+11:39:45 AM Monday, August 24, 2009  lis4sub2_1.his = TableHistogram(lis4sub2_1)
+11:39:45 AM Monday, August 24, 2009  show lis4sub2_1.his
+11:42:09 AM Monday, August 24, 2009  stretch
+11:43:16 AM Monday, August 24, 2009  Str_band1.mpr{dom=image.dom;vr=0:255} = MapStretchLinear(lis4sub2_1,1.000000,image.dom)
+11:43:16 AM Monday, August 24, 2009  show Str_band1.mpr
+11:43:43 AM Monday, August 24, 2009  histogram
+11:43:50 AM Monday, August 24, 2009  Str_band1.his = TableHistogram(Str_band1)
+11:43:50 AM Monday, August 24, 2009  show Str_band1.his
+11:43:57 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_1'.his
+11:44:25 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\Str_band1'.mpr
+11:45:03 AM Monday, August 24, 2009  stretch
+11:45:35 AM Monday, August 24, 2009  histo_eq.mpr = MapStretchHistEq(lis4sub2_1,0.000000,256)
+11:45:36 AM Monday, August 24, 2009  show histo_eq.mpr
+11:45:46 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\histo_eq'.mpr
+11:46:16 AM Monday, August 24, 2009  histogram
+11:46:20 AM Monday, August 24, 2009  histo_eq.his = TableHistogram(histo_eq)
+11:46:21 AM Monday, August 24, 2009  show histo_eq.his
+11:47:26 AM Monday, August 24, 2009  filter
+11:48:09 AM Monday, August 24, 2009  Average_b1.mpr{dom=Image;vr=0:255} = MapFilter(lis4sub2_1,Average(3,3),Image)
+11:48:09 AM Monday, August 24, 2009  show Average_b1.mpr
+11:48:26 AM Monday, August 24, 2009  filter
+11:48:48 AM Monday, August 24, 2009  ave5_b1.mpr{dom=Image;vr=0:255} = MapFilter(lis4sub2_1,Average(5,5),Image)
+11:48:48 AM Monday, August 24, 2009  show ave5_b1.mpr
+11:50:04 AM Monday, August 24, 2009  filter
+11:51:07 AM Monday, August 24, 2009  Lap_band1.mpr{dom=value;vr=-1912.0:1912.0:0.1} = MapFilter(lis4sub2_1,LAPLACE.fil,value)
+11:51:07 AM Monday, August 24, 2009  show Lap_band1.mpr
+11:51:48 AM Monday, August 24, 2009  filter
+11:52:04 AM Monday, August 24, 2009  open
+11:52:09 AM Monday, August 24, 2009  show 'f:\raw data for exercises\lap_band1'.mpr
+11:52:18 AM Monday, August 24, 2009  filter
+11:52:43 AM Monday, August 24, 2009  LaB_BAN1N.mpr{dom=value;vr=0.0:255.0:0.1} = MapFilter(lis4sub2_1,LAPLACE.fil,value)
+11:52:43 AM Monday, August 24, 2009  show LaB_BAN1N.mpr
+11:52:56 AM Monday, August 24, 2009  open
+11:52:59 AM Monday, August 24, 2009  show 'f:\raw data for exercises\lab_ban1n'.mpr
+11:53:15 AM Monday, August 24, 2009  filter
+11:53:29 AM Monday, August 24, 2009  eDGE_B1.mpr{dom=Image;vr=0:255} = MapFilter(lis4sub__1,EDGESENH.fil,Image)
+11:53:29 AM Monday, August 24, 2009  show eDGE_B1.mpr
+11:54:01 AM Monday, August 24, 2009  filter
+11:54:40 AM Monday, August 24, 2009  DIFF_B1.mpr{dom=value;vr=0.0:255.0:0.1} = MapFilter(lis4sub2_1,D2FDX2.fil,value)
+11:54:40 AM Monday, August 24, 2009  show DIFF_B1.mpr
+11:55:53 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub'.ioc
+11:55:58 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub2_1'.mpr
+11:56:06 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub__3'.mpr
+11:56:16 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub__2'.his
+11:56:21 AM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub__2'.mpr
+11:57:21 AM Monday, August 24, 2009  mapcalc
+11:57:43 AM Monday, August 24, 2009  mapcalc
+11:58:33 AM Monday, August 24, 2009  RVI.mpr{dom=VALUE.dom;vr=-10000000.0:10000000.0:0.1} = lis4sub__3/lis4sub__2
+11:58:33 AM Monday, August 24, 2009  show RVI.mpr
+11:59:12 AM Monday, August 24, 2009  mapcalc
+12:00:30 PM Monday, August 24, 2009  Calc Error  Map 'lis4sub2' not found
+(ILWIS Error 4020)
+in: '(lis4sub__3-lis4sub2)/(lis4sub__3+lis4sub__2)'
+                         ^
+12:00:39 PM Monday, August 24, 2009  NDVI.mpr{dom=VALUE.dom;vr=-1.00:1.00:0.01} = (lis4sub__3-lis4sub__2)/(lis4sub__3+lis4sub__2)
+12:00:39 PM Monday, August 24, 2009  show NDVI.mpr
+12:04:19 PM Monday, August 24, 2009  import -generalraster
+12:06:17 PM Monday, August 24, 2009  mapcalc
+12:06:29 PM Monday, August 24, 2009  import
+12:06:36 PM Monday, August 24, 2009  tblchdom
+12:07:17 PM Monday, August 24, 2009  maplistcalc
+12:07:23 PM Monday, August 24, 2009  mapcalc
+12:07:53 PM Monday, August 24, 2009  rvin.mpr{dom=IMAGE.dom;vr=0:255} = lis4sub__3/lis4sub__2
+12:07:54 PM Monday, August 24, 2009  show rvin.mpr
+12:08:12 PM Monday, August 24, 2009  mapcalc
+12:08:52 PM Monday, August 24, 2009  rvin1.mpr{dom=VALUE.dom;vr=0.0:255.0:0.1} = lis4sub__3/lis4sub__2
+12:08:52 PM Monday, August 24, 2009  show rvin1.mpr
+12:12:33 PM Monday, August 24, 2009  filter
+12:15:19 PM Monday, August 24, 2009  diff.mpr{dom=value;vr=0.0:255.0:0.1} = MapFilter(lis3sub_band_3,D2FDX2.fil,value)
+12:15:19 PM Monday, August 24, 2009  show diff.mpr
+12:15:27 PM Monday, August 24, 2009  open 'F:\Raw data for exercises\diff'.mpr
+12:15:38 PM Monday, August 24, 2009  filter
+12:16:29 PM Monday, August 24, 2009  lin.mpr{dom=value;vr=-236.0:236.1:0.1} = MapFilter(lis3sub_band_1,D2FDY2.fil,value)
+12:16:29 PM Monday, August 24, 2009  show lin.mpr
+12:16:53 PM Monday, August 24, 2009  filter
+12:18:04 PM Monday, August 24, 2009  asasasd.mpr{dom=value;vr=0.00:255.00:0.01} = MapFilter(lis4sub__1,DFDUP.fil,value)
+12:18:04 PM Monday, August 24, 2009  show asasasd.mpr
+12:18:32 PM Monday, August 24, 2009  open 'F:\Raw data for exercises\asasasd'.his
+12:26:06 PM Monday, August 24, 2009  stretch
+12:27:17 PM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis4sub'.ioc
+12:27:26 PM Monday, August 24, 2009  open 'F:\Raw data for exercises\lis3'.mpl
+12:27:52 PM Monday, August 24, 2009  create mpl
+12:28:26 PM Monday, August 24, 2009  open 'F:\Raw data for exercises\fcc_lis3'.mpl
+12:28:31 PM Monday, August 24, 2009  colorcomp 'F:\Raw data for exercises\fcc_lis3'.mpl
+12:30:33 PM Monday, August 24, 2009  mapcalc
+12:31:35 PM Monday, August 24, 2009  rvi1.mpr{dom=VALUE.dom;vr=0.0:255.0:0.1} = lis4sub__3/lis4sub__2
+12:31:35 PM Monday, August 24, 2009  show rvi1.mpr
+12:35:46 PM Monday, August 24, 2009  open 'F:\Raw data for exercises\ddntoposub_band_2'.mpr
+12:35:52 PM Monday, August 24, 2009  histogram
+11:12:32 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub'.ioc
+11:12:36 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub2'.mpl
+11:12:38 AM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+11:14:35 AM Wednesday, August 26, 2009  open F:\georef\lis4sub2.mpl
+11:14:36 AM Wednesday, August 26, 2009  colorcomp F:\georef\lis4sub2.mpl
+11:14:51 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\ddntoposub'.mpl
+11:14:54 AM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\ddntoposub'.mpl
+11:19:30 AM Wednesday, August 26, 2009  resample
+11:21:11 AM Wednesday, August 26, 2009  lis4georef.mpl = MapListApplic(lis4sub2,MapResample(##,lis4georef,nearest))
+11:21:11 AM Wednesday, August 26, 2009  show lis4georef.mpl
+11:21:22 AM Wednesday, August 26, 2009  show F:\georef\lis4georef.mpl
+11:21:47 AM Wednesday, August 26, 2009  open F:\georef\lis4georef.mpl
+11:21:48 AM Wednesday, August 26, 2009  colorcomp F:\georef\lis4georef.mpl
+11:25:31 AM Wednesday, August 26, 2009  create csy
+11:25:43 AM Wednesday, August 26, 2009  open
+11:25:50 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3'.mpl
+11:26:03 AM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\lis3'.mpl
+11:26:56 AM Wednesday, August 26, 2009  princcmp
+11:28:00 AM Wednesday, August 26, 2009  lis3_pca.mat = MatrixPrincComp(lis3, 4)
+11:28:00 AM Wednesday, August 26, 2009  show lis3_pca.mat
+11:29:42 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca'.mpl
+11:29:44 AM Wednesday, August 26, 2009  show 'F:\Raw data for exercises\lis3_pca'.mpl
+11:29:59 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca'.mpl
+11:30:05 AM Wednesday, August 26, 2009  slideshow 'F:\Raw data for exercises\lis3_pca'.mpl
+11:30:42 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca_1'.mpr
+11:31:07 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca_2'.mpr
+11:31:16 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca_3'.mpr
+11:31:27 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca_4'.mpr
+11:31:48 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis3_pca'.mat
+11:32:37 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub2'.mpl
+11:32:39 AM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+11:32:59 AM Wednesday, August 26, 2009  cluster
+11:34:10 AM Wednesday, August 26, 2009  unsup_lis4.mpr = MapCluster(mlist(lis4sub2_1,lis4sub2_2,lis4sub2_3),5, unsuplis4)
+11:34:10 AM Wednesday, August 26, 2009  show unsup_lis4.mpr
+11:35:14 AM Wednesday, August 26, 2009  cluster
+11:35:38 AM Wednesday, August 26, 2009  unsup10.mpr = MapCluster(mlist(lis4sub2_1,lis4sub2_2,lis4sub2_3),10, unsup10)
+11:35:38 AM Wednesday, August 26, 2009  show unsup10.mpr
+11:36:40 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\unsuplis4'.tbt
+11:37:30 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\unsup10'.tbt
+11:38:33 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub2'.mpl
+11:38:37 AM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+11:39:53 AM Wednesday, August 26, 2009  Show 'F:\Raw data for exercises\lis4dom'.dom
+11:40:25 AM Wednesday, August 26, 2009  Show 'F:\Raw data for exercises\lis4dom1'.dom
+11:52:12 AM Wednesday, August 26, 2009  classify
+11:52:53 AM Wednesday, August 26, 2009  box.mpr = MapClassify(samples_lis4,ClassifierBox(1.732000))
+11:52:53 AM Wednesday, August 26, 2009  show box.mpr
+11:54:21 AM Wednesday, August 26, 2009  classify
+11:54:34 AM Wednesday, August 26, 2009  Mindis.mpr = MapClassify(samples_lis4,ClassifierMinDist())
+11:54:34 AM Wednesday, August 26, 2009  show Mindis.mpr
+11:54:47 AM Wednesday, August 26, 2009  classify
+11:54:59 AM Wednesday, August 26, 2009  Maxl.mpr = MapClassify(samples_lis4,ClassifierMaxLikelihood())
+11:54:59 AM Wednesday, August 26, 2009  show Maxl.mpr
+11:57:43 AM Wednesday, August 26, 2009  import -geogateway
+11:58:22 AM Wednesday, August 26, 2009  open 'f:\raw data for exercises\cd 2\product1\imagery'.l-4 -import -output='F:\Raw data for exercises\imagery' -method=GeoGateway
+11:58:40 AM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\imagery'.mpl
+11:58:41 AM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\imagery'.mpl
+12:08:53 PM Wednesday, August 26, 2009  run 'C:\Program Files\ILWIS 3.3 Academic\Scripts\Hydro-DEM\class_coverage_statistics'.isl
+12:09:40 PM Wednesday, August 26, 2009  create sms
+12:09:57 PM Wednesday, August 26, 2009  stretch
+12:10:23 PM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub'.ioc
+12:10:29 PM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub2'.mpl
+12:10:31 PM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+12:13:49 PM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\lis4sub2'.mpl
+12:13:51 PM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+12:14:42 PM Wednesday, August 26, 2009  open 'F:\Raw data for exercises\ddntoposub'.mpl
+12:14:44 PM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\ddntoposub'.mpl
+12:23:52 PM Wednesday, August 26, 2009  resample
+12:26:34 PM Wednesday, August 26, 2009  LIS4_geo.mpl = MapListApplic(lis4sub2,MapResample(##,lis4_geo,nearest))
+12:26:34 PM Wednesday, August 26, 2009  show LIS4_geo.mpl
+12:26:58 PM Wednesday, August 26, 2009  show 'F:\Raw data for exercises\LIS4_geo'.mpl
+12:27:15 PM Wednesday, August 26, 2009  colorcomp 'F:\Raw data for exercises\LIS4_geo'.mpl
+3:55:53 PM Friday, June 04, 2010  open 'F:\Raw data for exercises\box'.mpr
+3:54:30 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3'.mpl
+3:54:39 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3sub_band_1'.mpr
+3:55:53 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\ddntoposub_band_1'.mpr
+3:57:22 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3'.mpl
+3:57:26 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3sub_band_4'.mpr
+3:58:33 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3sub_band_4'.mpr
+3:59:58 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3sub_band_4'.mpr
+4:00:31 PM Thursday, October 21, 2010  pixelinfo
+4:03:43 PM Thursday, October 21, 2010  create grf
+4:04:08 PM Thursday, October 21, 2010  create mpl
+4:04:57 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\FCC'.mpl
+4:05:34 PM Thursday, October 21, 2010  prop 'F:\Raw data for exercises\FCC'.mpl
+4:05:47 PM Thursday, October 21, 2010  colorcomp 'F:\Raw data for exercises\FCC'.mpl
+4:06:14 PM Thursday, October 21, 2010  colorcomp 'F:\Raw data for exercises\FCC'.mpl
+4:09:32 PM Thursday, October 21, 2010  histogram
+4:10:01 PM Thursday, October 21, 2010  lis4sub2_1.his = TableHistogram(lis4sub2_1)
+4:10:02 PM Thursday, October 21, 2010  show lis4sub2_1.his
+4:10:16 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis4sub'.ioc
+4:10:21 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis4sub2_1'.mpr
+4:13:50 PM Thursday, October 21, 2010  stretch
+4:14:33 PM Thursday, October 21, 2010  band1_lin.mpr{dom=image.dom;vr=0:255} = MapStretchLinear(lis4sub2_1,1.000000,image.dom)
+4:14:33 PM Thursday, October 21, 2010  show band1_lin.mpr
+4:15:01 PM Thursday, October 21, 2010  histogram
+4:15:12 PM Thursday, October 21, 2010  band1_lin.his = TableHistogram(band1_lin)
+4:15:12 PM Thursday, October 21, 2010  show band1_lin.his
+4:15:33 PM Thursday, October 21, 2010  stretch
+4:37:56 PM Thursday, October 21, 2010  filter
+4:39:33 PM Thursday, October 21, 2010  lis3avg3.mpr{dom=value;vr=36:213} = MapFilter(lis3sub_band_1,AVG3X3.fil,value)
+4:39:33 PM Thursday, October 21, 2010  show lis3avg3.mpr
+4:40:07 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3sub_band_1'.his
+4:40:20 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3'.mpl
+4:40:22 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3sub_band_1'.mpr
+4:40:59 PM Thursday, October 21, 2010  filter
+4:41:49 PM Thursday, October 21, 2010  lis3avg5.mpr{dom=value;vr=36:213} = MapFilter(lis3sub_band_1,Average(5,5),value)
+4:41:50 PM Thursday, October 21, 2010  show lis3avg5.mpr
+4:43:29 PM Thursday, October 21, 2010  filter
+4:45:18 PM Thursday, October 21, 2010  lis4d2fy.mpr{dom=value;vr=-322.8:322.7:0.1} = MapFilter(lis4sub__1,D2FDY2.fil,value)
+4:45:18 PM Thursday, October 21, 2010  show lis4d2fy.mpr
+4:45:26 PM Thursday, October 21, 2010  show lis4d2fy.mpr
+4:45:49 PM Thursday, October 21, 2010  filter
+4:47:52 PM Thursday, October 21, 2010  mapcalc
+4:49:35 PM Thursday, October 21, 2010  lis3_4by3.mpr{dom=VALUE.dom;vr=0.0:255.0:0.1} = lis3sub_band_4/lis3sub_band_3
+4:49:35 PM Thursday, October 21, 2010  show lis3_4by3.mpr
+4:50:10 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3_4by3'.mpr
+4:51:12 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis4sub'.mpl
+4:51:14 PM Thursday, October 21, 2010  colorcomp 'F:\Raw data for exercises\lis4sub'.mpl
+4:51:34 PM Thursday, October 21, 2010  mapcalc
+4:52:27 PM Thursday, October 21, 2010  lis4_rvi.mpr{dom=VALUE.dom;vr=-10000000.0:10000000.0:0.1} = lis4sub__3/lis4sub__2
+4:52:27 PM Thursday, October 21, 2010  show lis4_rvi.mpr
+4:52:52 PM Thursday, October 21, 2010  mapcalc
+4:54:25 PM Thursday, October 21, 2010  lis4_ndvi.mpr{dom=VALUE.dom;vr=-1.0:1.0:0.1} = ( lis4sub__3 - lis4sub__2)/ (lis4sub__3+lis4sub__2)  
+4:54:25 PM Thursday, October 21, 2010  show lis4_ndvi.mpr
+4:57:15 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3'.mpl
+4:57:33 PM Thursday, October 21, 2010  princcmp
+4:58:04 PM Thursday, October 21, 2010  lis3_pcamat.mat = MatrixPrincComp(lis3, 4)
+4:58:04 PM Thursday, October 21, 2010  show lis3_pcamat.mat
+4:59:19 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3_pca'.mpl
+4:59:22 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3_pca_1'.mpr
+4:59:42 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3_pca_2'.mpr
+4:59:54 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3_pca_3'.mpr
+5:00:09 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\lis3_pca_4'.mpr
+5:00:32 PM Thursday, October 21, 2010  colorcomp 'F:\Raw data for exercises\lis3_pca'.mpl
+5:10:29 PM Thursday, October 21, 2010  import
+5:11:25 PM Thursday, October 21, 2010  filter
+5:11:51 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\test'.fil
+5:20:55 PM Thursday, October 21, 2010  filter
+5:21:44 PM Thursday, October 21, 2010  open 'F:\Raw data for exercises\new'.fil
+5:23:03 PM Thursday, October 21, 2010  lis3new.mpr{dom=value;vr=14.0:156.0:0.1} = MapFilter(lis3sub_band_2,'F:\Raw data for exercises\new',value)
+5:23:04 PM Thursday, October 21, 2010  show lis3new.mpr
+3:43:13 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\lis3'.mpl
+3:43:30 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis4sub2'.mpl
+3:43:31 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+3:44:05 PM Monday, October 25, 2010  cluster
+3:45:06 PM Monday, October 25, 2010  unsup10.mpr = MapCluster(mlist(lis4sub__1,lis4sub2_2,lis4sub2_3),10, unsup10)
+3:45:08 PM Monday, October 25, 2010  Error  Map List "mlist(lis4sub__1,lis4sub2_2,lis4sub2_3)"
+Incompatible georefs: lis4sub.grf and lis4geo.grf
+(ILWIS Error 2005)
+3:45:11 PM Monday, October 25, 2010  cluster
+3:45:42 PM Monday, October 25, 2010  lis4un10.mpr = MapCluster(mlist(lis4sub__1,lis4sub__2,lis4sub__3),10, lis4un10)
+3:45:43 PM Monday, October 25, 2010  show lis4un10.mpr
+3:46:58 PM Monday, October 25, 2010  cluster
+3:47:29 PM Monday, October 25, 2010  lis4un5.mpr = MapCluster(mlist(lis4sub__1,lis4sub__2,lis4sub__3),5, lis4un5)
+3:47:30 PM Monday, October 25, 2010  show lis4un5.mpr
+3:49:09 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis4sub2'.mpl
+3:49:11 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+3:50:35 PM Monday, October 25, 2010  Show 'F:\Raw data for exercises\super5'.dom
+4:00:50 PM Monday, October 25, 2010  classify
+4:01:30 PM Monday, October 25, 2010  parallel.mpr = MapClassify(lis4sup5,ClassifierBox(1.732000))
+4:01:30 PM Monday, October 25, 2010  show parallel.mpr
+4:01:44 PM Monday, October 25, 2010  classify
+4:02:05 PM Monday, October 25, 2010  classify
+4:02:16 PM Monday, October 25, 2010  lis4mindis.mpr = MapClassify(lis4sup5,ClassifierMinDist())
+4:02:16 PM Monday, October 25, 2010  show lis4mindis.mpr
+4:03:21 PM Monday, October 25, 2010  classify
+4:03:36 PM Monday, October 25, 2010  maxl5.mpr = MapClassify(lis4sup5,ClassifierMaxLikelihood())
+4:03:36 PM Monday, October 25, 2010  show maxl5.mpr
+4:04:00 PM Monday, October 25, 2010  classify
+4:06:28 PM Monday, October 25, 2010  import -geogateway
+4:06:35 PM Monday, October 25, 2010  open imagery.l-4 -combine -method=GeoGateway
+4:06:46 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\CD 2\PRODUCT1\imagery'.mpl
+4:06:48 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\CD 2\PRODUCT1\imagery'.mpl
+4:07:32 PM Monday, October 25, 2010  cross
+4:08:09 PM Monday, October 25, 2010  subras
+4:08:43 PM Monday, October 25, 2010  subimage.mpl = MapListApplic(imagery,MapSubMap(##,200,200,400,400))
+4:08:43 PM Monday, October 25, 2010  show subimage.mpl
+4:08:44 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\CD 2\PRODUCT1\subimage'.mpl
+4:09:03 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\CD 2\PRODUCT1\subimage'.mpl
+4:09:49 PM Monday, October 25, 2010  sample
+4:09:54 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis4sup5'.sms
+4:11:38 PM Monday, October 25, 2010  tblchdom
+4:14:12 PM Monday, October 25, 2010  run 'C:\Program Files\ILWIS 3.3 Academic\Scripts\Hydro-DEM\class_coverage_statistics'.isl
+4:16:53 PM Monday, October 25, 2010  cross
+4:25:13 PM Monday, October 25, 2010  import -geogateway
+4:26:13 PM Monday, October 25, 2010  open 'f:\raw data for exercises\cd 2\product1\imagery'.l-4 -import -output=fullscene -method=GeoGateway
+4:26:38 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\fullscene__1'.mpr
+4:26:46 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\fullscene'.mpl
+4:26:48 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\fullscene'.mpl
+4:28:17 PM Monday, October 25, 2010  subras
+4:28:49 PM Monday, October 25, 2010  subscene.mpl = MapListApplic(fullscene,MapSubMap(##,2000,1000,500,500))
+4:28:49 PM Monday, October 25, 2010  show subscene.mpl
+4:28:51 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\subscene'.mpl
+4:28:54 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\subscene'.mpl
+4:31:08 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\ddntoposub'.mpl
+4:31:09 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\ddntoposub'.mpl
+4:31:43 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis4sub2'.mpl
+4:31:44 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+4:32:15 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis3'.mpl
+4:32:17 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\lis3'.mpl
+4:37:04 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis4sub2'.mpl
+4:37:06 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\lis4sub2'.mpl
+4:37:14 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\ddntoposub'.mpl
+4:37:16 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\ddntoposub'.mpl
+4:37:22 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\ddntoposub'.mpl
+4:43:05 PM Monday, October 25, 2010  resample
+4:45:06 PM Monday, October 25, 2010  lis4res.mpl = MapListApplic(lis4sub,MapResample(##,lis4resgeo,nearest))
+4:45:06 PM Monday, October 25, 2010  show lis4res.mpl
+4:45:11 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:11 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:12 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:12 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:12 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:12 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:13 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:13 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:13 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:13 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:14 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:14 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:14 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:14 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:15 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:15 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:15 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:15 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:15 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:16 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:16 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:16 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:17 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:17 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:17 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:17 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:18 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:18 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:20 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:20 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:25 PM Monday, October 25, 2010  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+4:45:25 PM Monday, October 25, 2010  show 'F:\Raw data for exercises\lis4res'.mpl
+4:45:40 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo'.mpl
+4:45:41 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\LIS4_geo'.mpl
+4:57:26 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\fullscene'.ioc
+5:01:13 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo'.mpl
+5:01:15 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo_1'.mpr
+5:01:23 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo_1'.mpr
+5:02:02 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo_1'.mpr
+5:03:51 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo_1'.mpr
+5:04:39 PM Monday, October 25, 2010  pixelinfo
+5:04:42 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\LIS4_geo_1'.mpr
+5:06:11 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\lis3'.mpl
+5:06:24 PM Monday, October 25, 2010  create mpl
+5:07:25 PM Monday, October 25, 2010  open 'F:\Raw data for exercises\ newmaplist'.mpl
+5:07:35 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\ newmaplist'.mpl
+5:07:53 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\ newmaplist'.mpl
+5:08:14 PM Monday, October 25, 2010  colorcomp 'F:\Raw data for exercises\ newmaplist'.mpl
+5:09:48 PM Monday, October 25, 2010  run 'C:\Program Files\ILWIS 3.3 Academic\Scripts\Hydro-DEM\dem_visualization'.isl
+5:10:59 PM Monday, October 25, 2010  mapiter
+10:10:33 AM Friday, November 12, 2010  open 'F:\Raw data for exercises\lis4_geo'.grf
+10:17:15 AM Friday, November 12, 2010  open 'F:\Raw data for exercises\new'.fil
+10:17:19 AM Friday, November 12, 2010  open 'F:\Raw data for exercises\maxl5'.mpr
+10:17:29 AM Friday, November 12, 2010  open 'F:\Raw data for exercises\fcc_lis3'.mpl
+10:17:37 AM Friday, November 12, 2010  colorcomp 'F:\Raw data for exercises\fcc_lis3'.mpl
+10:17:50 AM Friday, November 12, 2010  colorcomp 'F:\Raw data for exercises\fcc_lis3'.mpl
+10:22:11 AM Friday, November 12, 2010  import -gdal
+10:22:37 AM Friday, November 12, 2010  maskpol
+10:25:00 AM Friday, November 12, 2010  attribpol
+10:25:38 AM Friday, November 12, 2010  colorcomp F:\georef\lis4georef.mpl
+10:29:40 AM Friday, November 12, 2010  create grf
+11:06:04 AM Monday, November 15, 2010  open 'F:\Raw data for exercises\ddntoposub_band_2'.mpr
+3:31:55 PM Thursday, August 11, 2011  open 'C:\Raw data for exercises\LIS4_geo'.mpl
+3:31:57 PM Thursday, August 11, 2011  colorcomp 'C:\Raw data for exercises\LIS4_geo'.mpl
+12:01:06 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lin'.mpr
+12:01:11 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lin'.mpr
+12:02:03 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3'.mpl
+12:02:04 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:02:18 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_2'.mpr
+12:02:25 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_4'.mpr
+12:02:34 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:02:51 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_1'.mpr
+12:02:58 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_1'.mpr
+12:03:06 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:03:22 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:03:34 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_1'.mpr
+12:03:38 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:03:51 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:04:13 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_4by3'.mpr
+12:04:36 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_4by3'.mpr
+12:05:03 PM Thursday, August 22, 2013  show 'C:\Program Files\ILWIS 3.3 Academic\system\pseudo'.rpr
+12:05:32 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pcamat'.mpl
+12:05:33 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis3_pcamat'.mpl
+12:06:05 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\fcc_lis3'.mpl
+12:06:07 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\fcc_lis3'.mpl
+12:06:34 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\subscene'.mpl
+12:06:36 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\subscene'.mpl
+12:06:51 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\newmap'.mpl
+12:06:53 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\newmap'.mpl
+12:07:03 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\Mindis'.mpr
+12:07:09 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis4sub2'.mpl
+12:07:10 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis4sub2'.mpl
+12:07:19 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis4res'.mpl
+12:07:21 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:21 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:22 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:22 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:22 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:22 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:23 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:23 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:25 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:25 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:25 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:26 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:29 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:29 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:33 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:33 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:39 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:39 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:40 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:40 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:07:41 PM Thursday, August 22, 2013  Error  Raster Map "lis4res_1"
+Incompatible coordinate systems: ddntoposub.csy and unknown.csy
+(ILWIS Error 4094)
+12:07:41 PM Thursday, August 22, 2013  show 'C:\Raw data for exercises\lis4res'.mpl
+12:08:48 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\fcc_lis3'.mpl
+12:09:04 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\fullscene'.mpl
+12:09:50 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\fullscene__1'.mpr
+12:10:13 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3'.mpl
+12:10:14 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_1'.mpr
+12:10:19 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:10:27 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pcamat'.mpl
+12:10:28 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3_pcamat'.mpl
+12:10:33 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pcamat_1'.mpr
+12:10:37 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pcamat_3'.mpr
+12:10:41 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pcamat_4'.mpr
+12:10:46 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pcamat_4'.mpr
+12:11:05 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\imp_imagery__1'.mpr
+12:11:39 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pca'.mpl
+12:11:41 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3_pca'.mpl
+12:11:50 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3_pca_1'.mpr
+12:11:54 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3_pca'.mpl
+12:13:07 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3new'.mpr
+12:13:16 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3new'.mpr
+12:13:40 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:13:56 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3'.mpl
+12:13:57 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:13:57 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:13:58 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:13:59 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:14:01 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:14:02 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:14:03 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:14:03 PM Thursday, August 22, 2013  Error  C:\Raw data for exercises\lis3geo.grf
+Find error
+(ILWIS Error 1002)
+12:14:05 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3sub_band_1'.mpr
+12:14:12 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:14:25 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis3'.mpl
+12:15:08 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\LIS4_geo'.mpl
+12:15:09 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\LIS4_geo'.mpl
+12:15:29 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis4sub2'.mpl
+12:15:31 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis4sub2'.mpl
+12:15:41 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\LIS4_geo'.mpl
+12:15:44 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\LIS4_geo'.mpl
+12:16:12 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis3new'.mpr
+12:16:14 PM Thursday, August 22, 2013  Error  File C:\Raw data for exercises\lis3new.mpr 
+can not be opened. The file may be corrupt, incomplete or the format is not supported
+
+12:16:14 PM Thursday, August 22, 2013  del C:\Raw data for exercises\lis3new.ioc -quiet -force
+12:16:17 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\newmap'.mpl
+12:16:19 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\newmap'.mpl
+12:16:28 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\Maxl'.mpr
+12:17:50 PM Thursday, August 22, 2013  exit
+12:18:48 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis4sub2'.mpl
+12:18:49 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\lis4sub2'.mpl
+12:19:03 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis4sub2'.mpl
+12:19:04 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\lis4sub2_2'.mpr
+12:19:50 PM Thursday, August 22, 2013  open
+12:19:56 PM Thursday, August 22, 2013  show 'c:\raw data for exercises\lis4sub__1'.mpr
+12:22:26 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\ddntoposub'.mpl
+12:22:27 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\ddntoposub'.mpl
+12:22:32 PM Thursday, August 22, 2013  colorcomp 'C:\Raw data for exercises\ddntoposub'.mpl
+12:23:50 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\ddntoposub'.grf
+12:23:56 PM Thursday, August 22, 2013  open 'C:\Raw data for exercises\ddntoposub'.csy
