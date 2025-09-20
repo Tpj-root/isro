@@ -31,6 +31,17 @@ It will help me apply new knowledge to solve real-world problems in my professio
 
 
 
+Certificate: Verified 
+
+
+```
+
+https://isrolms.iirs.gov.in/mod/customcert/verify_certificate.php
+
+```
+
+
+
 <table>
   <tr>
     <th>Registration Number</th>
