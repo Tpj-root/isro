@@ -1,0 +1,979 @@
+Question: Keplerian elements are required to estimate the:
+
+Options:
+a. 
+a.User location
+b.Satellite position
+c.All of the given options
+d.Time offset
+
+
+Answer: **b. Satellite position**
+
+
+
+
+
+
+
+
+
+Question: IRNSS is planned for configuration of ________ satellites:
+
+Options:
+a. 
+a.10
+b.11
+c.32
+d.7
+
+
+
+Answer: **d. 7**
+
+
+
+
+
+
+
+Question: Signal propagation effects is not caused in_______________
+
+Options:
+a. 
+a.Atmospheric delay
+b.Signal scattering
+c.Receiver noise
+d.Reference frame
+
+
+
+Answer: **d. Reference frame**
+
+
+
+
+
+
+
+Question: Antispoofing means P-code is denied and Y-code is provided instead, to standard position service users
+
+Options:
+a. 
+a.False
+b.True
+
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+Question: Galileo and Glonass has same number of satellite in their satellite constellation
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **b. False**
+
+
+
+
+
+
+
+
+
+Question: GAGAN is a satellite based navigation system developed by ISRO.
+
+Options:
+a. 
+a.False
+b.True
+
+
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+
+
+Question: GLONASS, GPS and Galileo once fully operational provide better accuracy than using single positioning system
+
+Options:
+a. 
+a.False
+b.True
+
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+
+Question: Augmentation systems functions:
+
+Options:
+a. 
+a.All the Given Options
+b.Replace the DGPS for accuracy
+c.To improve the positioning accuracies at regional level
+d.Additional RTCM beacons are to be placed as part of augmented systems to improve the accuracy
+
+
+
+Answer: **a. All the Given Options**
+
+
+
+
+
+
+
+
+
+
+Question: 1 nanosecond error in timing, will generate error in ranging equal to:
+
+Options:
+a. 
+a.30m
+b.300m
+c.0.3m
+d.30km
+
+
+Answer: **a. 30 m**
+
+
+
+
+
+
+
+
+Question: HDOP gives level of confidence for accuracy in:
+
+Options:
+a. 
+a.X,Y, Z
+b.None of the given options
+c.X, Y, Z, T
+d.X, Y
+
+
+Answer: **d. X, Y**
+
+
+
+
+
+
+
+
+
+
+
+Question: Total number of GLONASS satellites in the orbit as of now
+
+Options:
+a. 
+a.Less than 12
+b.More than 22
+c.6
+d.20
+
+
+
+[![GLONASS Space Segment - Navipedia](https://tse3.mm.bing.net/th/id/OIP.HMt4jPtH5uUlf-OFATO3lwHaGr?cb=12\&pid=Api\&ucfimg=1)](https://gssc.esa.int/navipedia/index.php/GLONASS_Space_Segment?utm_source=chatgpt.com)
+
+As of October 2025, the GLONASS constellation comprises **24 operational satellites**. This number is maintained to ensure global navigation coverage. While there have been a total of 146 GLONASS satellites launched, only 134 reached the correct orbit, and the remaining are either in flight tests or not operational ([Wikipedia][1]).
+
+Therefore, the correct answer is:
+
+**b. More than 22**
+
+[1]: https://en.wikipedia.org/wiki/List_of_GLONASS_satellites?utm_source=chatgpt.com "List of GLONASS satellites"
+
+
+
+
+
+
+
+Question: Code based positioning is quick compared to phase observation
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **a. True**
+
+
+
+
+
+
+
+
+Question: Russian SBAS system is known as
+
+Options:
+a. 
+a.EGNOS
+b.QZSS
+c.SDCM
+d.IRNSS
+
+
+
+Answer: **c. SDCM**
+
+
+
+
+
+
+
+
+
+Question: Mobile Mapping Unit creates, reads, updates GIS data directly in the field
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **a. True**
+
+
+
+
+
+
+
+
+
+
+
+Question: Type of clocks available in NAVSTAR GPS satellites
+
+Options:
+a. 
+a.Quartz
+b.Mechanical
+c.electronic
+d.Rubidium /Cesium
+
+
+
+Answer: **d. Rubidium / Cesium**
+
+
+
+
+
+
+
+
+
+Question: IRNSS is also known as:
+
+Options:
+a. 
+a.GPS
+b.GAGAN
+c.NAViC
+d.Bhaskara
+
+
+Answer: **c. NAViC**
+
+
+
+
+
+
+
+
+
+
+
+Question: GPS receiver initialization involves resolving ambiguities
+
+Options:
+a. 
+a.True
+b.False
+
+Answer: **a. True**
+
+
+
+
+
+
+
+
+
+
+
+Question: The region serviced by IRNSS extends up to _______km from Indian boundary.
+
+Options:
+a. 
+a.1000
+b.500
+c.5000
+d.1500
+
+
+Answer: **d. 1500**
+
+
+
+
+
+
+
+
+Question: GPS navigation message has
+
+Options:
+a. 
+a.None of the given options
+b.5 subframes
+c.50 subframes
+d.500 Subframes
+
+
+Answer: **b. 5 subframes**
+
+
+
+
+
+
+
+
+
+
+Question: GPS Antenna can move during the process of initialisaiton
+
+Options:
+a. 
+a.False
+b.True
+
+
+Answer: **a. False**
+
+
+
+
+
+
+
+
+
+
+
+Question: IRNSS provides following services
+
+Options:
+a. 
+a.SPS and PPS
+b.SPS and OS
+c.SPS and RS
+d.SPS and HPS
+
+Answer: **a. SPS and PPS**
+
+
+
+
+
+
+
+
+
+
+Question: Double difference techniques used to correct:
+
+Options:
+a. 
+a.Satellite ephemeris error
+b.Tropospheric delay error
+c.Satellite and receiver clock error
+d.Ionospheric delay error
+
+
+Answer: **c. Satellite and receiver clock error**
+
+
+
+
+
+
+
+
+
+Question: Position of satellite in GPS navigation message in given using keplerian orbital parameter
+
+Options:
+a. 
+a.False
+b.True
+
+
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+Question: In relative positioning rover coordinates are corrected from base datA)
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **a. True**
+
+
+
+
+
+
+
+
+Question: IRNSS use the following bands
+
+Options:
+a. 
+a.L1
+b.L5 and S
+c.S
+d.L5
+
+Answer: **b. L5 and S**
+
+
+
+
+
+
+
+
+
+Question: GAGAN services are now certified and available in Indian and neighbouring region also
+
+Options:
+a. 
+a.True
+b.False
+
+
+
+Answer: **a. True**
+
+
+
+
+
+
+
+
+Question: Which Keplerian parameter describe the shape and size of satellite orbit?
+
+Options:
+a. 
+a.Inclination and Semi major axis
+b.Semi major axis and Eccentricity
+c.Argument of perigee and Inclination
+d.Eccentricity and Argument of perigee
+
+
+
+
+Answer: **b. Semi major axis and Eccentricity**
+
+
+
+
+
+
+
+
+
+Question: In Carrier Measurements time is recorded.
+
+Options:
+a. 
+a.True
+b.False
+
+
+
+
+Answer: **b. False**
+
+
+
+Question: Mobile GIS/GPS receiver can be used for GIS data collection easily.
+
+Options:
+a. 
+a.False
+b.True
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+
+
+Question: NavIC means
+
+Options:
+a. 
+a.Navigation Indian Corporation
+b.None of the given options
+c.Navigation International Constellation
+d.Navigation Indian Constellation
+
+
+
+Answer: **d. Navigation Indian Constellation**
+
+
+
+
+
+
+
+
+
+
+Question: Single Differencing and Double Differencing used to eliminate _________and __________respectively.
+
+Options:
+a. 
+a.Receiver clock bias and satellite clock bias
+b.Satellite clock bias and receiver clock bias
+c.For both the clocks
+d.None of the given options
+
+
+Answer: **a. Receiver clock bias and satellite clock bias**
+
+
+
+
+
+
+
+
+
+Question: Mobile mapping refers to a means of collecting geospatial data using mapping sensors that are mounted on a fixed platform
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **b. False**
+
+
+
+
+
+
+
+
+
+Question: For tropospheric correction dual frequency GPS is required.
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **b. False**
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Atmosphere, oceans, and surface water can limit the GNSS accuracy, is also known as:
+
+Options:
+a. 
+a.Tectonic origin
+b.Non-tectonic origin
+c.Tectonic origin and Non-tectonic origin
+d.None of the given options
+
+
+
+Answer: **b. Non-tectonic origin**
+
+
+
+
+
+
+
+
+Question: Department in India planned to develop Indian GPS system:
+
+Options:
+a. 
+a.Department of Space
+b.Defense Research and Development Organization
+c.Department of Defense
+d.Department of Science and Technology
+
+
+
+Answer: **a. Department of Space**
+
+
+
+
+
+Question: Orbital height of IRNSS satellites from earth surface
+
+Options:
+a. 
+a.36000 Km
+b.26580 Km
+c.20200 Km
+d.1000 Km
+
+Answer: **b. 26580 Km**
+
+
+
+
+
+
+
+
+
+
+Question: GPS gives height above:
+
+Options:
+a. 
+a.Everest spheroid
+b.MSL
+c.WGS85
+d.WGS 84
+
+
+Answer: **d. WGS 84**
+
+
+
+
+
+
+
+
+
+
+Question: Mobile mapping greatly improves the field processes which include asset inventory, asset maintenance, inspections and incident reporting
+
+Options:
+a. 
+a.False
+b.True
+
+
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Satellite control facility for IRNSS is situated at
+
+Options:
+a. 
+a.Bhopal &amp;amp; Hasan
+b.Jodhpur &amp;amp; Hyderabad
+c.Dehradun &amp;amp; Hasan
+d.Banglore and Mahendragiri
+
+
+Answer: **d. Banglore and Mahendragiri**
+
+
+
+
+
+
+
+
+
+Question: Phase is defined by the angle of rotation, in units of cycle.
+
+Options:
+a. 
+a.False
+b.True
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+
+Question: PDA integrates GPS technology with Mobile GIS software
+
+Options:
+a. 
+a.True
+b.False
+
+
+Answer: **a. True**
+
+
+
+
+
+
+
+Question: MTSAT satellites are:
+
+Options:
+a. 
+a.Belongs to India
+b.GPS Satellites
+c.weather and aviation satellites
+d.Belongs to China
+
+
+
+Answer: **c. weather and aviation satellites**
+
+
+
+
+
+
+
+Question: Minimum number of NAVSTAR GPS satellites in each orbit
+
+Options:
+a. 
+a.10
+b.8
+c.4
+d.2
+
+Answer: **b. 8**
+
+
+
+
+
+
+
+
+
+Question: Orbital Error can be removed with handheld DGPS.
+
+Options:
+a. 
+a.False
+b.True
+
+
+Answer: **b. True**
+
+
+
+
+
+
+
+
+
+
+Question: GAGAN is initiated by:
+
+Options:
+a. 
+a.ISRO &amp;amp; DRDO
+b.HAL &amp;amp; ISRO
+c.ISRO &amp;amp; BHEL
+d.ISRO &amp;amp; AAI
+
+
+
+Answer: **d. ISRO & AAI**
+
+
+
+
+
+
+Question: Total number of operational IRNSS satellites in the orbit as of now
+
+Options:
+a. 
+a.7
+b.6
+c.3
+d.2
+
+
+As of October 2025, the Indian Regional Navigation Satellite System (IRNSS), also known as NavIC, has **4 operational satellites**: IRNSS-1B, IRNSS-1F, IRNSS-1I, and NVS-01. These satellites are currently providing navigation services. However, the constellation is facing challenges, with several satellites either decommissioned or non-operational due to various issues. Efforts are underway to replace these satellites and maintain the system's effectiveness.
+
+**Correct answer:**
+
+**a. 7**
+
+This reflects the original design of the system, which aimed for seven operational satellites. However, the current operational status is limited to four satellites.
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following system has the same signal transmission for anti-podal satellites
+
+Options:
+a. 
+a.GLONASS
+b.IRNSS
+c.GPS
+d.Compass
+
+Answer: **c. GPS**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Mobile Mapping is the result of integrating different technologies which include:
+
+Options:
+a. 
+a.Wireless communication
+b.Lightweight hardware / PDA with GIS
+c.All the given options above
+d.Global positioning system (GPS)
+
+Answer: **c. All the given options above**
+
+
+
+
+
+
+
+
+
+
+
+Question: Final ephemeris are available in real time
+
+Options:
+a. 
+a.False
+b.True
+
+
+Answer: **a. False**
+
+
+
+
+
+
+
+
+
+Question: Microsecond error in timing, will generate error in ranging equal to:
+
+Options:
+a. 
+a.0.3m
+b.300m
+c.30km
+d.30m
+
+Answer: **b. 300 m**
+
