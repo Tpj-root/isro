@@ -1,3 +1,16 @@
+Summary of your previous attempts
+State 	Grade / 25 	Review
+FinishedSubmitted Tuesday, 21 October 2025, 7:23 PM 	23 	Not permitted
+Your final grade for this quiz is 23/25.
+
+
+
+
+
+
+
+
+
 Question: At ambient temperature, the maximum radiation from the Earth occurs at 10 m wavelength. Ambient thermal sensing of the Earth is therefore preferred in __________ atmospheric window.
 
 Options:
