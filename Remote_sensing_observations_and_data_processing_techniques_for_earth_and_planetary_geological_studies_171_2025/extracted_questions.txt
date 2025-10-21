@@ -1,0 +1,513 @@
+Question: At ambient temperature, the maximum radiation from the Earth occurs at 10 m wavelength. Ambient thermal sensing of the Earth is therefore preferred in __________ atmospheric window.
+
+Options:
+a. 
+a.8-14 m,
+b.1-3 m.
+c.3-5 m,
+d.17-25 m,
+
+
+✅ **Answer: a. 8–14 µm**
+
+
+
+
+
+
+
+
+Question: The most acceptable hypothesis for the formation of the Moon is
+
+Options:
+a. 
+a.Fission Theory
+b.None of the givenoptionss
+c.Nebular Hypothesis
+d.Giant Impact Hypothesis
+
+
+✅ **Answer: d. Giant Impact Hypothesis**
+
+
+
+
+
+
+
+
+
+
+Question: Thermal Remote Sensing is principally based on the  ______________________.
+
+Options:
+a. 
+a.Stokes’ law.
+b.Newton’s law,
+c.Einstein’s law,
+d.Planck’s law,
+
+
+
+✅ **Answer: d. Planck’s law**
+
+
+
+
+
+
+
+
+Question: Landslide risk mapping will consider:
+
+Options:
+a. 
+a.vulnerability
+b.factor of safety
+c.All of the given options
+d.Susceptibility
+
+
+✅ **Answer: c. All of the given options**
+
+
+
+
+
+
+
+
+
+
+Question: In Thermal Remote Sensing, the most sensitive thermal parameter for geological mapping is ______________________.
+
+Options:
+a. 
+a.Reflectance,
+b.Thermal inertia,
+c.Dielectric property.
+d.Magnetic susceptibility,
+
+
+
+✅ **Answer: b. Thermal inertia**
+
+
+
+
+
+
+
+
+
+Question: Which strength of rock/soil is more important for landslide analysis?
+
+Options:
+a. 
+a.Compressive
+b.none of the given options
+c.Shear
+d.Tensile
+
+✅ **Answer: c. Shear**
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following can act as a triggering factor for landslide occurrence?
+
+Options:
+a. 
+a.Reservoir drawdown
+b.Rainfall
+c.All of the options
+d.Seismicity
+
+✅ **Answer: c. All of the options**
+
+
+
+
+
+
+
+
+Question: India’s first mission to the Mars
+
+Options:
+a. 
+a.Mars Express
+b.Mars Global Surveyor
+c.Mars Orbiter Mission
+d.Mars Reconnaissance Mission
+
+✅ **Answer: c. Mars Orbiter Mission**
+
+
+
+
+
+
+
+
+
+
+
+Question: Landslide Inventory consists of:
+
+Options:
+a. 
+a.Landslide vulnerability map
+b.Landslide susceptibility map
+c.Active and old landslide occurrences
+d.Landslide risk map
+
+
+
+✅ **Answer: c. Active and old landslide occurrences**
+
+
+
+
+
+
+
+Question: Which of the following is not generally considered as an element in landslide vulnerability mapping?
+
+Options:
+a. 
+a.Geological structures
+b.Agricultural land
+c.Roads
+d.Built-up area
+
+
+✅ **Answer: a. Geological structures**
+
+
+
+
+
+
+
+
+
+Question: India’s first completely indigenous mission to the Moon
+
+Options:
+a. 
+a.Indian Moon Mission
+b.Chandrayaan-1
+c.Chandrayaan-2
+d.Lunar Orbiter Mission
+
+✅ **Answer: c. Chandrayaan-2**
+
+
+
+
+
+
+
+
+
+
+Question: Which type of the following landslide contains lot of water?
+
+Options:
+a. 
+a.Creep
+b.Topple
+c.Rockfall
+d.Debris flow
+
+
+✅ **Answer: d. Debris flow**
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Expansion of glacial lakes take place due to:
+
+Options:
+a. 
+a.Increase in  groundwater level
+b.None of the given options
+c.Higher melting of glaciers
+d.Increase in extreme rainfall activity
+
+
+✅ **Answer: c. Higher melting of glaciers**
+
+
+
+
+
+
+
+
+
+
+
+Question: Which among the following is a favorite condition for landslide to happen?
+
+Options:
+a. 
+a.Bed dips in the opposite direction as topographic slope
+b.Bed dips vertically
+c.Bed dips in the same direction as topographic slope
+d.All of the conditions are equally favorable
+
+
+✅ **Answer: c. Bed dips in the same direction as topographic slope**
+
+
+
+
+
+
+
+
+
+
+
+Question: The dark, low albedo basaltic plains (volcanic units) on the surface of the Moon are called
+
+Options:
+a. 
+a.Highland
+b.Mare
+c.Craters
+d.Oceanus
+
+✅ **Answer: b. Mare**
+
+
+
+
+
+
+
+Question: The combination of GNSS and InSAR is beneficial because:
+
+Options:
+a. 
+a.Both methods provide the same type of data
+b.GNSS improves the temporal sampling of InSAR
+c.They complement each other in terms of spatial and temporal coverage
+d.Both can measure atmospheric humidity directly
+
+✅ **Answer: c. They complement each other in terms of spatial and temporal coverage**
+
+
+
+
+
+
+
+
+
+Question: _______has the maximum albedo:
+
+Options:
+a. 
+a.Snow
+b.Rock
+c.Water
+d.Ice
+
+✅ **Answer: a. Snow**
+
+
+
+
+
+
+
+
+
+
+
+
+Question: ________ is not a component of cryosphere:
+
+Options:
+a. 
+a.Permafrost
+b.Forest
+c.Glacier
+d.Snow
+
+✅ **Answer: b. Forest**
+
+
+
+
+
+
+
+
+
+Question: Which parameter is most critical when integrating EO and geodetic observations for crustal deformation studies?
+
+Options:
+a. 
+a.Spatial resolution
+b.Temporal resolution
+c.Accuracy of displacement estimation
+d.All of the given options
+
+
+✅ **Answer: c. Accuracy of displacement estimation**
+
+
+
+
+
+
+
+
+
+Question: In tectonic deformation studies, GNSS provides ______, while InSAR provides ______.
+
+Options:
+a. 
+a.High temporal resolution; global coverage
+b.Surface temperature; soil moisture
+c.Point-based continuous displacement; spatially dense surface deformation
+d.Only vertical displacement; only horizontal displacement
+
+
+✅ **Answer: c. Point-based continuous displacement; spatially dense surface deformation**
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is not Mars Mission
+
+Options:
+a. 
+a.Venera
+b.Mariner
+c.All of the given options
+d.Mars Odyssey
+
+
+✅ **Answer: a. Venera**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Normalized snow differential index (NDSI) is estimated using bands:
+
+Options:
+a. 
+a.VNIR and Microwave
+b.SWIR and Thermal
+c.Thernal and Microwave
+d.VNIR and SWIR
+
+
+✅ **Answer: d. VNIR and SWIR**
+
+
+
+
+
+
+
+
+
+
+
+Question: Remote Sensing is the science of sensing Earth and Planetary objects from a remote distance using ______________________.
+
+Options:
+a. 
+a.Gravitational radiation,
+b.Seismic wave radiation.
+c.Acoustic radiation,
+d.Electromagnetic radiation,
+
+
+✅ **Answer: d. Electromagnetic radiation**
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Crustal deformation can be broadly categorized into:
+
+Options:
+a. 
+a.Thermal, optical, and radar deformation
+b.Elastic, plastic, and brittle deformation
+c.None of the above
+d.Co-seismic, post-seismic, and inter-seismic deformation
+
+
+
+✅ **Answer: b. Elastic, plastic, and brittle deformation**
+
+
+
+
+
+
+
+
+Question: Microwave Radar Remote Sensing is an Active Remote Sensing technique. It is advantageous over Optical Remote Sensing because of its ______________________.
+
+Options:
+a. 
+a.Day-Night imaging capability,
+b.Synoptic coverage,
+c.Temporal repetivity.
+d.Sensitivity to colour and composition of materials,
+
+
+✅ **Answer: a. Day-Night imaging capability**
+

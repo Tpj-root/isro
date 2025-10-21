@@ -1,0 +1,115 @@
+// 1) Open any page on https://isrolms.iirs.gov.in
+// 2) Open Firefox Console (F12 → Console), paste & run.
+
+const ids = [438310, 438320]; // change/add IDs
+
+function decodeMailto(href){ return decodeURIComponent(href.replace(/^mailto:/i, '')); }
+
+async function fetchProfile(id){
+  const r = await fetch(`/user/profile.php?id=${id}`);
+  const text = await r.text();
+  const doc = new DOMParser().parseFromString(text, 'text/html');
+
+  const nameEl = doc.querySelector('h1.h2');
+  const name = nameEl ? nameEl.textContent.trim().replace(/\s+\.$/,'') : '';
+
+  // find dt whose text contains "City" (case-insensitive), then next dd
+  let city = '';
+  for(const dt of doc.querySelectorAll('dt')){
+    if((dt.textContent||'').toLowerCase().includes('city')){
+      const dd = dt.nextElementSibling;
+      if(dd && dd.tagName.toLowerCase() === 'dd'){ city = dd.textContent.trim(); break; }
+    }
+  }
+
+  const emailA = doc.querySelector('a[href^="mailto:"]');
+  const email = emailA ? decodeMailto(emailA.getAttribute('href')) : '';
+
+  return { id, name, city, email };
+}
+
+(async ()=>{
+  const out = ['ID,NAME,CITY,EMAIL'];
+  for(const id of ids){
+    try{
+      const p = await fetchProfile(id);
+      out.push(`${p.id},"${p.name.replace(/"/g,'""')}","${p.city.replace(/"/g,'""')}",${p.email}`);
+    }catch(e){ out.push(`${id},ERROR,ERROR,ERROR`); }
+  }
+  const blob = new Blob([out.join('\n')], {type:'text/csv'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'profiles.csv';
+  a.click();
+  URL.revokeObjectURL(a.href);
+})();
+
+
+
+
+
+
+
+// ==== Run this on https://isrolms.iirs.gov.in ====
+// It will download "profiles.csv" automatically
+
+const startID = 438310;
+const endID   = 438315;
+const ids = Array.from({length: endID - startID + 1}, (_, i) => startID + i);
+
+function decodeMailto(href){ return decodeURIComponent(href.replace(/^mailto:/i, '')); }
+
+async function fetchProfile(id){
+  const resp = await fetch(`/user/profile.php?id=${id}`);
+  const html = await resp.text();
+  const doc = new DOMParser().parseFromString(html, 'text/html');
+
+  const name = doc.querySelector('h1.h2')?.textContent.trim().replace(/\s+\.$/,'') || '';
+
+  let city = '';
+  for(const dt of doc.querySelectorAll('dt')){
+    if(dt.textContent.toLowerCase().includes('city')){
+      const dd = dt.nextElementSibling;
+      if(dd && dd.tagName.toLowerCase() === 'dd'){
+        city = dd.textContent.trim();
+        break;
+      }
+    }
+  }
+
+  const emailA = doc.querySelector('a[href^="mailto:"]');
+  const email = emailA ? decodeMailto(emailA.getAttribute('href')) : '';
+
+  return { id, name, city, email };
+}
+
+(async ()=>{
+  const out = ['ID,NAME,CITY,EMAIL'];
+  for(const id of ids){
+    try {
+      const p = await fetchProfile(id);
+      out.push(`${p.id},"${p.name.replace(/"/g,'""')}","${p.city.replace(/"/g,'""')}",${p.email}`);
+      console.log(`✔ Done ${id}`);
+    } catch(e){
+      console.error(`✖ Failed ${id}:`, e);
+      out.push(`${id},ERROR,ERROR,ERROR`);
+    }
+  }
+  const blob = new Blob([out.join('\n')], {type:'text/csv'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'profiles.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+  console.log('✅ CSV file downloaded.');
+})();
+
+
+
+
+
+
+
+
+
