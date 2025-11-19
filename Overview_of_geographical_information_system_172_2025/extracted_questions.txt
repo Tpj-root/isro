@@ -1,0 +1,955 @@
+
+
+Dear Participants,
+
+Date of Examination: November 13 to 23, 2025.
+
+Timings:  10:00 Hrs to 1700 Hrs
+
+Total Marks: 50 Marks &50 Questions
+
+Duration of Examination: 30 Minutes           
+
+Note: Quiz, feedback and minimum dedication time 9Hours   is compulsory to get the certificate
+
+Attempts allowed: 1
+
+Time limit: 30 mins
+Summary of your previous attempts
+State 	Marks / 50 	Grade / 10 	Review
+FinishedSubmitted Wednesday, 19 November 2025, 3:51 PM 	40 	8
+
+
+
+
+
+
+Question: Classification error can be measured by:
+
+Options:
+
+a.Geometric Accuracy
+b.Tolerance
+c.Positional Accuracy
+d.Attribute Accuracy
+
+Answer: d. Attribute Accuracy
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Raster data compression techniques
+
+Options:
+
+a.TIN
+b.Generalization
+c.None of these
+d.Run length Encoding (RLE)
+
+
+Answer: d. Run Length Encoding (RLE)
+
+
+
+
+
+
+Question: Geoserver and Mapserver are same product for GIS analysis.
+
+Options:
+
+a.True
+b.False
+
+
+Answer: b. False
+
+
+
+
+
+
+
+
+
+Question: What is Spatial Data made of?
+
+Options:
+
+a.Positional data
+b.All of the above
+c.Decimal data
+d.Graphics data
+
+
+Answer: b. All of the above
+
+
+
+
+
+
+
+
+Question: What is the output device for GIS?
+
+Options:
+
+a.Mouse
+b.Digitizer
+c.All of the given
+d.Printer
+
+Answer: d. Printer
+
+
+
+
+
+
+
+Question: Road network map consist national highways with thickness of 3 mm. One wanted to scan and to vectorise NH automatically. It is recommended to scan at 1/3 thickness of the road. At what DPI the map has to be scanned?
+
+Options:
+
+a.254 dpi
+b.0.254 dpi
+c.2.54 dpi
+d.25.4 dpi
+
+Answer: d. 25.4 dpi
+
+
+
+
+
+
+
+
+Question: What type of projection preferred to measure the areas in metric units?
+
+Options:
+
+a.Geographic Coordinate System and Projection Coordinate System
+b.Geographic Coordinate System
+c.None of the above
+d.Projection Coordinate System
+
+
+Answer: d. Projection Coordinate System
+
+
+
+
+
+
+
+
+
+
+
+Question: TIN model stands for
+
+Options:
+
+a.Topological Irregular Network
+b.None of the given options
+c.Tessellation Irregular Network
+d.Triangular Irregular Network
+
+Answer: d. Triangular Irregular Network
+
+
+
+
+
+
+
+
+Question: If a raster has the cell resolution of 30 meters, then a cell in the raster measures
+
+Options:
+
+a.900 square meters
+b.300 square meters
+c.600 square meters
+d.None of the given above.
+
+Answer: a. 900 square meters
+
+
+
+
+
+
+
+
+
+
+Question: In QGIS__________provides layout and printing capabilities in QGIS
+
+Options:
+
+a.Layout Composer
+b.Print Composer
+c.Map composer
+d.None of the options
+
+Answer: b. Print Composer
+
+
+
+
+
+
+
+Question: Is it possible to find changes from single topo map?
+
+Options:
+
+a.False
+b.True
+
+Answer: a. False
+
+
+
+
+
+
+Question: QGIS doesnt have a built-in topological editing feature.
+
+Options:
+
+a.True
+b.False
+Answer: b. False
+
+
+
+
+
+
+
+Question: Neighbourhood Analysis is based on the dependency of a variable on distances.
+
+Options:
+
+a.False
+b.True
+
+Answer: b. True
+
+
+
+
+
+
+
+Question: Topology cannot be created between multiple vector layers.
+
+Options:
+
+a.True
+b.False
+Answer: b. False
+
+
+
+
+
+
+
+
+
+
+Question: What kind of data is stored in GIS?
+
+Options:
+
+a.Levels
+b.Layers
+c.Boxes
+d.Panels
+
+Answer: b. Layers
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following is not an example of spatial data?
+
+Options:
+
+a.Points showing location of discrete objects.
+b.Polygons showing the area occupied by a particular land use or variable.
+c.Lines showing the route of linear objects.
+d.Times of particular events.
+
+Answer: d. Times of particular events
+
+
+
+
+
+
+
+
+
+
+
+Question: QGIS allows connecting to OGC complaint ________ services
+
+Options:
+
+a.All of the given options
+b.WMTS
+c.WCS
+d.WFS
+
+
+Answer: a. All of the given options
+
+
+
+
+
+
+Question: Database Management System is a
+
+Options:
+
+a.Software development environment
+b.Repository of data
+c.Software package
+d.Electronic filing cabinet system
+
+Answer: c. Software package
+
+
+
+
+
+
+
+
+
+
+Question: Errors in GIS database may be introduced by natural variation or fuzzy boundaries.
+
+Options:
+
+a.True
+b.False
+
+Answer: b. True
+
+
+
+
+
+
+
+
+Question: Shapefile is a non-topological data format.
+
+Options:
+
+a.False
+b.True
+
+
+Answer: b. True
+
+
+
+
+
+
+
+
+
+
+Question: Which is not a programing language
+
+Options:
+
+a.Python
+b.C#
+c.XML
+d.Java
+
+Answer: c. XML
+
+
+
+
+
+
+
+
+
+
+Question: Which of these is the application of GIS in the commercial industry?
+
+Options:
+
+a.Early health emergency response
+b.Mapping of areas susceptible to landslides
+c.Crime mapping
+d.Managing Telecommunication Networks
+
+
+Answer: d. Managing Telecommunication Networks
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following statements is NOT true about the polygon feature?
+
+Options:
+
+a.A polygon is a two-dimensional object.
+b.A polygon may form a hole within another polygon.
+c.None of the given above.
+d.A polygon has the properties of area and perimeter.
+
+
+Answer: c. None of the given above
+
+
+
+
+
+
+
+
+
+
+
+Question: The science of map-making is known as:
+
+Options:
+
+a.Coordinate Systems
+b.Cartography
+c.Geology
+d.Geography
+
+
+Answer: b. Cartography
+
+
+
+
+
+
+
+Question: Geographical phenomena is something that can be:
+
+Options:
+
+a.Given Name
+b.Georeferenced
+c.Given Time Interval
+d.All of the given options.
+
+
+Answer: d. All of the given options.
+
+
+
+
+
+
+
+
+
+
+Question: PostGIS function ST_Intersection(a,b) returns a Boolean value .
+
+Options:
+
+a.False
+b.True
+
+
+Answer: a. False
+
+
+
+
+
+
+
+
+
+
+
+Question: The element of road network which signifies the movement of resources from one link to another link connected through a node, is called
+
+Options:
+
+a.Junction
+b.Turn
+c.Facility Point
+d.Barrier
+
+Answer: b. Turn
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: All measurements in ‘geography’ data type available in PostgreSQL/PostGIS are expressed in ___________
+
+Options:
+
+a.Both Degrees and Meters
+b.Meters
+c.Degrees
+d.None of the given options
+
+Answer: b. Meters
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Buffer is a multi-layer operation.
+
+Options:
+
+a.False
+b.True
+Answer: a. False
+
+
+
+
+
+
+
+
+Question: What is the difference between a join and a relate in ArcGIS?
+
+Options:
+
+a.There is no difference, they both have a one to many relationship.
+b.A relate has a one to one relationship, and a join has a one to many relationship.
+c.A join has a one to one relationship, and a relate has a one to many relationship.
+d.There is no difference, they both have a one to one relationship.
+
+
+Answer: c. A join has a one to one relationship, and a relate has a one to many relationship.
+
+
+
+
+
+
+
+
+
+
+Question: Biodiversity Information System (BIS) is developed by ISRO for Satellite data visualization.
+
+Options:
+
+a.True
+b.False
+
+Answer: b. False
+
+
+
+
+
+
+
+Question: Raster occupies less size than vector
+
+Options:
+
+a.False
+b.True
+
+
+
+Answer: a. False
+
+
+
+
+
+
+
+Question: Assigning a value to each landuse type is an example usage of ___________ function.
+
+Options:
+
+a.Zonal
+b.Local
+c.Focal
+d.Global
+
+
+Answer: b. Local
+
+
+
+
+
+
+
+
+
+
+Question: What is digitization in GIS?
+
+Options:
+
+a.Converting geographical data into tables
+b.Converting geographical data into text
+c.Converting geographical data into images
+d.Converting geographical data into vector
+
+
+Answer: d. Converting geographical data into vector
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: If the vehicle is moving from one link to the another link, connected through a node, then the impedance in the movement is
+
+Options:
+
+a.Both link and turn impedances
+b.None of the given options
+c.Only turn impedance
+d.Only link impedance
+
+Answer: a. Both link and turn impedances
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Give an example for continuous data:
+
+Options:
+
+a.DEM
+b.Roads
+c.Buildings
+d.Well locations
+
+
+Answer: a. DEM
+
+
+
+
+
+
+
+
+
+Question: ORDBMS standards for
+
+
+
+Options:
+
+a.Object Relational Database Management System
+b.Object Rational Database Management System
+c.Object Regional Database Management System
+d.Object Rows Database Management System
+
+Answer: a. Object Relational Database Management System
+
+
+
+
+
+
+
+
+
+Question: Which of these is not Spatial Data?
+
+Options:
+
+a.The boundary of a village
+b.Location of discrete object
+c.The population of a district
+d.Location of schools in a city
+
+Answer: c. The population of a district
+
+
+
+
+
+
+
+Question: To find the names of all wards within 5 km distance of my house is a type of spatial query.
+
+Options:
+
+a.True
+b.False
+
+Answer: a. True
+
+
+
+
+
+
+
+
+Question: Which is the standard for OGC raster data Service?
+
+Options:
+
+a.SLD
+b.WMS
+c.WCS
+d.WPS
+Answer: c. WCS
+
+
+
+
+
+
+
+
+
+
+Question: How many RS principles are there under UN Principles of R.S.?
+
+Options:
+
+a.12
+b.15
+c.8
+d.10
+
+Answer: a. 12
+
+
+
+
+
+
+
+
+
+Question: _____________ is the Read-only view listing spatial tables, geometry columns and geometry types present in the database
+
+Options:
+
+a.geography_columns
+b.Both b and c
+c.geometry_columns
+d.spatial_ref_sys
+Answer: c. geometry_columns
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Projection System and Datum are the same thing.
+
+Options:
+
+a.False
+b.True
+
+Answer: a. False
+
+
+
+
+
+
+
+
+
+
+Question: MEF is metadata Exchange Format
+
+Options:
+
+a.True
+b.False
+Answer: a. True
+
+
+
+
+
+
+
+
+Question: One of the topological relationships in vectors is containment in which starting node and ending node information is stored.
+
+Options:
+
+a.False
+b.True
+
+Answer: a. False
+
+
+
+
+
+
+
+Question: The most appropriate and acceptable vector data model is
+
+Options:
+
+a.Whole Polygon model
+b.Point-polygon model
+c.Topological data model
+d.Sphagetti model
+
+Answer: c. Topological data model
+
+
+
+
+
+
+
+
+Question: The network analysis in GIS can be performed on vector as well as raster data layers.
+
+Options:
+
+a.True
+b.False
+
+Answer: a. True
+
+
+
+
+
+
+
+
+Question: _________ tool is used to convert data into and from PostGIS to many data formats
+
+Options:
+
+a.Shp2pgsql
+b.Org2org
+c.Pgsql2shp
+d.All of the options
+
+Answer: d. All of the options
+
+
+
+
+
+
+Question: If the map document has complex details then automatic digitizing techniques are used
+
+Options:
+
+a.False
+b.True
+
+Answer: a. False
+
+
+
+
+
+
+
+
+
+
+
+Question: The weight of the line feature in Network analysis is also knows as impedance factor.
+
+Options:
+
+a.False
+b.True
+
+
+Answer: b. True
