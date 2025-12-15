@@ -1,0 +1,223 @@
+Question: What is VRML:
+
+Options:
+a. 
+a.Virtual Realation and Manupulation Language
+b.Visual Reality Modeling Language
+c.Visualization and Reality Markup Language
+d.Virtual Reality Modeling Language
+
+Question: Which is not a part of spatial model?
+
+Options:
+a. 
+a.Virtual
+b.Mathematical
+c.Process
+d.Physical
+
+Question: Which standard is used for data definition in web services?
+
+Options:
+a. 
+a.XML
+b.REST
+c.HTML
+d.SOS
+
+Question: Resuse and _____________ ar the key feature of open data repository
+
+Options:
+a. 
+a.Re-collect
+b.Re-make
+c.Re-edit
+d.Re-distribute
+
+Question: __________ is an not a type of data repository
+
+Options:
+a. 
+a.Data Cube
+b.Data Kit
+c.Data Mart
+d.Data Lake
+
+Question: Which OGC service standanrd may be used for both ratser and vector data?
+
+Options:
+a. 
+a.WMS
+b.TSW
+c.WCS
+d.WFS
+
+Question: Which of the following is not a mode of maintaing open data repository?
+
+Options:
+a. 
+a.Online Data Creation
+b.Web Services
+c.FTP
+d.Remote Procedure Call
+
+Question: Who is recognized as a Father of Geocomputation
+
+Options:
+a. 
+a.Tom Harry
+b.Stan Openshaw
+c.Jack Dangermond
+d.Charlse Justing
+
+Question: An open data repository dedicated to species from different kingdoms.
+
+Options:
+a. 
+a.Pl@ntNet
+b.Bhuvan
+c.iNaturalist
+d.eBird
+
+Question: Which of the following is a mutable object in python
+
+Options:
+a. 
+a.int
+b.List
+c.Tuple
+d.String
+
+Question: Which standard is uded for data presentation in web application?
+
+Options:
+a. 
+a.SQL
+b.XML
+c.HTML
+d.SOAP
+
+Question: In computing, a ___________ is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+Options:
+a. 
+a.Antivirus
+b.Router
+c.Switch
+d.Firewall
+
+Question: Select the tradeoff involved in Crowdsourcing approach?
+
+Options:
+a. 
+a.Cost vs Quality
+b.Explicit vs Implicit
+c.Volume vs Accuracy
+d.Data vs Information
+
+Question: Which one is Relational Database Management Systems?
+
+Options:
+a. 
+a.Sybase
+b.MongoDB
+c.Cassandra
+d.Coachbase
+
+Question: WPS is used for?
+
+Options:
+a. 
+a.Geodata Presentation
+b.Geodata Editing
+c.Geodata Analysis
+d.Geodata Processing
+
+Question: Advantages of DBMS
+
+Options:
+a. 
+a.Size
+b.Multiple user interface
+c.Complexity
+d.Higher impact of failure
+
+Question: What is SOA?
+
+Options:
+a. 
+a.Protocol for Geocomputation
+b.Protocol for API
+c.Protocol for Website Development
+d.Protocol for Webservices
+
+Question: Spatial Modelling may be dynamic, multiple points in time
+
+Options:
+a. 
+a.False
+b.TRUE
+
+Question: Which OGC service standanrd is used for data encoding?
+
+Options:
+a. 
+a.SLD
+b.WCS
+c.CSW
+d.WFS
+
+Question: Identify the challanges in Open Data Repository
+
+Options:
+a. 
+a.Accuracy
+b.Licensing
+c.All the given options
+d.Mishandling
+
+Question: How many major properties of Relational Database (ACID)
+
+Options:
+a. 
+a.3
+b.4
+c.5
+d.2
+
+Question: Which is not a Geo-computation Methods
+
+Options:
+a. 
+a.SQL Injection
+b.Artificial Intelligence and Machine Learning
+c.Artificial Neural Networks (ANNs)
+d.Evolutionary computing (EC)
+
+Question: OSM is an
+
+Options:
+a. 
+a.Open Source GIS Tool
+b.Open Geo-Data Repository
+c.Open Spatial Map
+d.Open Source Geo-Data collection MobileApp
+
+Question: Data can be used in a variety of forms including
+
+Options:
+a. 
+a.Media
+b.All of the given options
+c.Numbers
+d.Text
+
+Question: Total number of rows present in the Table is called
+
+Options:
+a. 
+a.Attribute
+b.Cardinality
+c.Relation
+d.Column
+

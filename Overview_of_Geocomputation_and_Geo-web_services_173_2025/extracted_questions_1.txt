@@ -1,0 +1,232 @@
+Question: This is not the databases:
+
+Options:
+a. 
+a.Checkpoint
+b.NoSQL
+c.Sybase
+d.Informix
+
+Question: UGC in the context of crowdsourcing stands for
+
+Options:
+a. 
+a.User Geospatial
+b.User Geospatial Consortium
+c.User Generated Content
+d.User Given Collection
+
+Question: UGC in the context of crowdsourcing stands for
+
+Options:
+a. 
+a.User Geospatial
+b.User Geospatial Consortium
+c.User Generated Content
+d.User Given Collection
+
+Question: Which of the following feature is not available in the BHUVAN, the data repository maintained by ISRO
+
+Options:
+a. 
+a.Satellite Data as Download
+b.Thematic Data as a Service
+c.Online Data Creation
+d.Thematic Data as Download
+
+Question: Which is not a charectristics of Geo-data
+
+Options:
+a. 
+a.Demposer Functions
+b.Constructor Functions
+c.Spatial Predicates
+d.Observer Functions
+
+Question: Which of the following is not a component of ODK
+
+Options:
+a. 
+a.Aggregate
+b.Google Drive
+c.Collect
+d.Build
+
+Question: In the statement csString = ee.String('I am a strong String!') csString is a
+
+Options:
+a. 
+a.Client Object
+b.Client Proxy Object
+c.Invalid object
+d.Server Object
+
+Question: Which client side standard can be used for data sharing between applications in Web GIS?
+
+Options:
+a. 
+a.HTML
+b.SQL
+c.WMS
+d.JSON
+
+Question: What is WebGL?
+
+Options:
+a. 
+a.Web Geo Library
+b.Web Geoprocessing Library
+c.Web GIS Library
+d.Web Graphics Library
+
+Question: Satellite Data of _____________ can be downloaded from ISRO Bhuvan
+
+Options:
+a. 
+a.1 m
+b.23.5 m
+c.2.5 m
+d.5.6 m
+
+Question: Which is not a Cloud service:
+
+Options:
+a. 
+a.Kamatera
+b.Microsoft Azure
+c.PhonixNAP
+d.None of the given
+
+Question: Which is not a charectristics of Geo-data
+
+Options:
+a. 
+a.Observer Functions
+b.Demposer Functions
+c.Constructor Functions
+d.Spatial Predicates
+
+Question: LIDAR acquisition system does not includes:
+
+Options:
+a. 
+a.Sensor
+b.Digital camera
+c.IMU
+d.Geoprocessing
+
+Question: What is WebGL?
+
+Options:
+a. 
+a.Web Geoprocessing Library
+b.Web Geo Library
+c.Web GIS Library
+d.Web Graphics Library
+
+Question: Spatial Anylsis can be generating ideas and hypotheses
+
+Options:
+a. 
+a.False
+b.TRUE
+
+Question: What is OGC?
+
+Options:
+a. 
+a.Open GIS and Mapping Consortium
+b.Open Geospatial Consortium
+c.Open GIS Consortium
+d.Open geospatial Center
+
+Question: SPAM email is ____________
+
+Options:
+a. 
+a.Email client
+b.Unsolicited Bulk Email
+c.Hardware
+d.Email server
+
+Question: Which is not a ground based 3D data collection system
+
+Options:
+a. 
+a.UAV Survey
+b.Utility location survey
+c.Topographic survey
+d.Ground control survey (geodetic network)
+
+Question: Which one is Non-relational DBMS:
+
+Options:
+a. 
+a.NoSQL
+b.Sybase
+c.MySQL
+d.MS SQL
+
+Question: on the deployment and management of applications
+
+Options:
+a. 
+a.IaaS
+b.PaaS
+c.SaaS
+d.CaaS
+
+Question: Not a type of Integrity constraint
+
+Options:
+a. 
+a.Domain constraints
+b.Key constraints
+c.Referential integrity constraints
+d.Password lock
+
+Question: ODK stands for:
+
+Options:
+a. 
+a.Open Digital Kit
+b.Open Data Key
+c.Open Data Kit
+d.Open Digital Key
+
+Question: What will be the output of print(1//2)
+
+Options:
+a. 
+a.0.5
+b.0
+c.1
+d.2
+
+Question: ______________is software that is installed using an internet connection or they come by-default with operating systems.
+
+Options:
+a. 
+a.Software Firewall
+b.Microsoft office suite
+c.Hardware Firewall
+d.Stateful Inspection Firewall
+
+Question: Which of the following is not related to Crowdsourcing?
+
+Options:
+a. 
+a.Democratizing Science
+b.Citizen Science
+c.Geodata repository
+d.User Generated Content
+
+Question: Which of the following is not related to crowdsourcing
+
+Options:
+a. 
+a.Webportal
+b.Location Information
+c.Operating System
+d.Multimedia
+
