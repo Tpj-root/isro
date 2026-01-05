@@ -1,0 +1,969 @@
+Question: Rainfall map can be generated  using
+
+Options:
+
+a.TRMM
+b.Cartosat-1
+c.None of the given options
+d.RISAT
+
+Question: Sample segment approach is used for acreage estimation at:
+
+Options:
+
+a.Village level
+b.State level
+c.Tehsil level
+d.District level
+
+Question: Advantages of Mobile GIS Software:
+
+Options:
+
+a.All of the given options
+b.Efficient data creation/updation
+c.Real-time upload/ download through wired/wireless device
+d.Input from GPS (in field)
+
+Question: For mapping of the geomorphic landforms such as intertidal flats, coral reefs etc,  …………………  remote sensing data are essential.
+
+Options:
+
+a.Microwave
+b.Multi-temporal
+c.Panchromatic
+d.High resolution
+
+Question: Debris flows are
+
+Options:
+
+a.solid flow
+b.Elastic flow
+c.Non-elastic flows
+d.Liquefied flows
+
+Question: Hyperspectral sensor carried by IMS-1 satellite is ___________________.
+
+Options:
+
+a.Synthetic Aperture Radar
+b.Hyperspectral Imager
+c.MERIS
+
+Question: GDOP stands for:
+
+Options:
+
+a.Geometrical dilution of precision
+b.Gravitational dilution of precision
+c.Geographical Dilution of Precision
+d.Geomorphological dilution of precision
+
+Question: __________ is an not an example of spatial database
+
+Options:
+
+a.SAP Sybase SQL Anywhere
+b.MS SQL Server
+c.Mysql spatial
+d.SQLite
+
+Question: Type of clocks available in NAVSTAR GPS satellites
+
+Options:
+
+a.Rubidium /Cesium
+b.Mechanical
+c.Electronic
+d.Quartz
+
+Question: Which one of the following does not provide atmospheric ozone information
+
+Options:
+
+a.Measurement of Pollution In The Troposphere (MOPITT)
+b.Ozone Monitoring Instrument (OMI)
+c.None of the given options
+d.Tropospheric emission spectrometer (TES)
+
+Question: OGC stands for
+
+Options:
+
+a.None of the given options
+b.Open source GIS Company
+c.Open Geospatial Company
+d.Open Geospatial Consortium
+
+Question: Conic projections with normal positions
+
+Options:
+
+a.were used for polar regions
+b.were used for mid Latitude countries.
+c.All of the given options
+
+Question: MOPITT instrument on-board TERRA spacecraft provides
+
+Options:
+
+a.Vertical distribution of CO
+b.Vertical distribution of NO2
+c.Vertical distribution of CO2
+d.Vertical distribution of ozone
+
+Question: Multiplication of a raster by another raster is an example usage of ___________ function.
+
+Options:
+
+a.focal
+b.Zonal
+c.Local
+d.global
+
+Question: Question not found
+
+Options:
+
+Question: Question not found
+
+Options:
+
+Question: Topo maps help to GIS related information
+
+Options:
+
+a.Identification
+b.All the given option
+c.Locate
+d.Optimum path
+
+Question: Augmentation systems functions:
+
+Options:
+
+a.All of  the given options
+b.Replace the DGPS for accuracy
+c.To improve the positioning accuracies at regional level
+d.Additional RTCM beacons are to be placed as part of augmented systems to improve the accuracy
+
+Question: Zone of depletion of landslides is
+
+Options:
+
+a.Zone of run out
+b.None of the given option
+c.Zone of aeration
+d.Zone of initiation
+
+Question: Zone of depletion of landslides is
+
+Options:
+
+a.Zone of run out
+b.None of the given option
+c.Zone of aeration
+d.Zone of initiation
+
+Question: Mohr-Coulomb Criteria involves:
+
+Options:
+
+a.Principal stress
+b.None of the given option
+c.Strain and strain
+d.Normal and shear stress
+
+Question: In India biodiversity
+
+Options:
+
+a.Decrease from tropical forest to alpine forest
+b.Same throughout the forests
+c.Increases from tropical forest to alpine forest
+d.All of the given options
+
+Question: In India biodiversity
+
+Options:
+
+a.Decrease from tropical forest to alpine forest
+b.Same throughout the forests
+c.Increases from tropical forest to alpine forest
+d.All of the given options
+
+Question: Raster data compression techniques
+
+Options:
+
+a.JPEG2000
+b.TIN
+c.Run length Encoding (RLE)
+d.None of the given options
+
+Question: Which wavelength regions are most appropriate for differentiating snow and clouds?
+
+Options:
+
+a.Gamma Rays
+b.Radio Wave
+c.X-Rays
+d.SWIR
+
+Question: Angle of friction is dependent upon:
+
+Options:
+
+a.Aspect
+b.Density
+c.Slope
+d.Mineralogy
+
+Question: Angle of friction is dependent upon:
+
+Options:
+
+a.Aspect
+b.Density
+c.Slope
+d.Mineralogy
+
+Question: Motion of a satellite in its orbit can be explained by ……….
+
+Options:
+
+a.Newton’s law
+b.Gauss law
+c.Kepler’s law
+
+Question: The relationship between radiant and kinetic temperature is  given by the expression ____________________.
+
+Options:
+
+a.None of the given options
+b.Trad = Tkin
+c.Trad = e1/4 Tkin
+d.Trad = e4 Tkin
+
+Question: Which one is the open source GIS software?
+
+Options:
+
+a.Map Info
+b.ERADAS Imagine
+c.QGIS
+d.ARC VIEW
+
+Question: Typical Soil profile is composed ----------------------------
+
+Options:
+
+a.Regolith
+b.Vegitations
+c.Parent material
+d.Horizon
+
+Question: QGIS allows connecting to OGC complaint ________ services
+
+Options:
+
+a.All of the given options
+b.WMTS
+c.WFS
+d.WCS
+
+Question: QGIS allows connecting to OGC complaint ________ services
+
+Options:
+
+a.All of the given options
+b.WMTS
+c.WFS
+d.WCS
+
+Question: The output from a thermal sensor is a measurement of the __________ temperature of an object.
+
+Options:
+
+a.Infrared
+b.Radiant
+c.Blackbody
+d.Kinetic
+
+Question: Positional error is error due to:
+
+Options:
+
+a.Imprecision in coordinate registration
+b.Incorrect labelling of features
+c.None of the given options
+d.Biasness
+
+Question: Units of radiant flux are
+
+Options:
+
+a.Watts sr-1
+b.Watts m-2
+c.W m-2 sr-1
+d.None of the given options
+
+Question: What is the use of foreign key?
+
+Options:
+
+a.To uniquely identify the data
+b.Referential integrity
+c.Used to refer between records of different relations
+d.To link the relations
+
+Question: GRASS stands for
+
+Options:
+
+a.Geographic Resources Analysis Support System
+b.Geo Record Analysis Support System
+c.GIS Resource Analysis System
+
+Question: GRASS stands for
+
+Options:
+
+a.Geographic Resources Analysis Support System
+b.Geo Record Analysis Support System
+c.GIS Resource Analysis System
+
+Question: What is the optimal resolution for delineating plant community boundaries?
+
+Options:
+
+a.&amp;gt;500m
+b.Around 30m
+c.60 – 500m
+d.1-5 m
+
+Question: Which of the following is not a spatial data type.
+
+Options:
+
+a.Multipoint
+b.Linestring
+c.Varchar
+d.Point
+
+Question: Which of the following is not a spatial data type.
+
+Options:
+
+a.Multipoint
+b.Linestring
+c.Varchar
+d.Point
+
+Question: Which of the following is not an important component of GIS?
+
+Options:
+
+a.Spatial data
+b.None of the given options
+c.Internet
+d.GIS software
+
+Question: The most appropriate and acceptable vector data model is
+
+Options:
+
+a.Topological data model
+b.Whole Polygon model
+c.Point-polygon model
+d.Sphagetti model
+
+Question: Assigning a value to each landuse type is an example usage of ___________ function.
+
+Options:
+
+a.Local
+b.Global
+c.Zonal
+d.Focal
+
+Question: Minimum number of NAVSTAR GPS satellites  in each orbit
+
+Options:
+
+a.4
+b.8
+c.2
+d.10
+
+Question: NavIC means
+
+Options:
+
+a.Navigation Indian Corporation
+b.Navigation Indian Constellation
+c.None of the given options
+d.Navigation International Constellation
+
+Question: NavIC means
+
+Options:
+
+a.Navigation Indian Corporation
+b.Navigation Indian Constellation
+c.None of the given options
+d.Navigation International Constellation
+
+Question: Unit of dry frictional coefficient is:
+
+Options:
+
+a.Degrees
+b.None of the given option
+c.MPa
+d.kPa
+
+Question: Identify the DBMS tools from the following list
+
+Options:
+
+a.Java
+b.SQL*plus
+c.C++
+d.PostGreSQL
+
+Question: Give  an example for continuous data
+
+Options:
+
+a.Well locations
+b.Roads
+c.DEM
+d.Buildings
+
+Question: Which library is used for vector data read and write in GIS?
+
+Options:
+
+a.OGR
+b.OGC WMS
+c.GDAL
+d.Map Object
+
+Question: Which Open source GIS product is for Mobile GIS
+
+Options:
+
+a.QGIS
+b.PAdGIS
+c.gvSig
+d.Android
+
+Question: If x, y are two electromagnetic radiations, having the energy in the following order :x>y; following is true for wavelength:
+
+Options:
+
+a.None of the given options
+b.x&amp;gt;y
+c.x&amp;lt;y
+d.x=y
+
+Question: Question not found
+
+Options:
+
+Question: The API for georeferencing in QGIS is provided by
+
+Options:
+
+a.GDAL
+b.Shapely
+c.GeoExt
+d.Fiona
+
+Question: Which Open source GIS product is for Mobile GIS
+
+Options:
+
+a.QGIS
+b.gvSig
+c.Android
+d.PAdGIS
+
+Question: AND operator is equivalent to ____________ operator of set theory.
+
+Options:
+
+a.Identity
+b.Union
+c.Intersection
+
+Question: Which  of following is adopted by GLONASS
+
+Options:
+
+a.TDMA
+b.Both CDMA and FDMA
+c.CDMA
+d.FDMA
+
+Question: According to Land Resource Department, Total degraded lands in India is ----------------MHa.
+
+Options:
+
+a.320
+b.150
+c.120
+d.270
+
+Question: Digital Image is composed of tiny areas known as pixels. With each pixel is associated a number known as
+
+Options:
+
+a.Brightness Value
+b.Digital Number
+c.Grey Level
+d.All of the given options
+
+Question: Lithological change will happen across:
+
+Options:
+
+a.later joints
+b.Bedding
+c.Lineation
+d.None of the option given
+
+Question: Who has defined the RDBMS rules:
+
+Options:
+
+a.Oracle
+b.Bill Gate
+c.E.F. Codd
+d.Mark steev
+
+Question: Plunging folds are represented by ………. ridges and valleys in a horizontal terrain.
+
+Options:
+
+a.Flat-lying
+b.Converging
+c.Parallel
+d.Both Parallel &amp;amp; Converging
+
+Question: Formula of NDVI
+
+Options:
+
+a.Sqrt (( IR-R)/ (IR +R))
+b.All of the given options
+c.IR  - R  / IR + R
+d.IR  / R
+
+Question: Vertical profile of humidity can be retrieved from
+
+Options:
+
+a.AltiKa
+b.SAPHIR
+c.AVHRR
+d.ScaRab
+
+Question: Which band is good for land water discrimination.
+
+Options:
+
+a.Blue band
+b.Green band
+c.Near-infrared band
+d.None of the given options
+
+Question: If a map is scanned at 100 dots per inch (DPI) then what will be the size of one dot in mm?
+
+Options:
+
+a.2.54
+b.0.254
+c.25.4
+d.0.0254
+
+Question: ORDBMS standards for
+
+Options:
+
+a.Object Rows Database Management System
+b.Object Relational Database Management System
+c.Object Rational Database Management System
+d.Object Regional Database Management System
+
+Question: Which of the following methods may be used to input paper maps into a GIS?
+
+Options:
+
+a.Tracing
+b.Scanning
+c.Kayboard entry
+d.None of the given options
+
+Question: The number of orbital planes of GALILEO system
+
+Options:
+
+a.5
+b.3
+c.6
+d.4
+
+Question: UTM divides earth in:
+
+Options:
+
+a.60 Zones
+b.None of the given options
+c.75 Zones
+d.80 Zones
+
+Question: Which Libraries are used to read and write raster data?
+
+Options:
+
+a.GDAL
+b.Python
+c.OGR
+d.QTR
+
+Question: Rock Mass Rating does not directly include:
+
+Options:
+
+a.Compressive strength
+b.Ground water condition
+c.Joint conditions
+d.Melting point
+
+Question: The distance between two identical points on the wave is called
+
+Options:
+
+a.Amplitude
+b.Frequency
+c.Wave number
+d.Wavelength
+
+Question: Which GIS software can publish data directly to Mapserver?
+
+Options:
+
+a.QGIS
+b.SAGA
+c.Openjump
+d.gvSig
+
+Question: Which of the following is an open source GIS software?
+
+Options:
+
+a.QGIS
+b.ArcGIS
+c.None of the given options
+d.IGIS
+
+Question: What is the purpose of Map Server?
+
+Options:
+
+a.Access Maps
+b.Create Database
+c.Manage GIS data
+d.Publish GIS data
+
+Question: Ocean phytoplankton concentration can be retrieved using
+
+Options:
+
+a.Visible Remote Sensing
+b.Microwave Remote Sensing
+c.AVHRR
+d.Thermal Remote Sensing
+
+Question: Which is the correct output for the given data using Natural Break data classification
+
+Options:
+
+a.III
+b.IV
+c.I
+d.II
+
+Question: Vibrational absorptions seen in the 0.4 to 2.5µm region, actually originate at _______________wavelengths.
+
+Options:
+
+a.shorter
+b.All the given options
+c.longer
+
+Question: LCC shows:
+
+Options:
+
+a.Parallels as concentric arcs.
+b.Both Parallels as concentric arcs and Meridians are straight lines cutting parallels at right angles
+c.Meridians are straight lines cutting parallels at right angles
+d.Parallels as straight lines
+
+Question: The placement of label in case of polygon is done _______________
+
+Options:
+
+a.as a part of edge.
+b.Inside
+c.on the edge
+d.Outside
+
+Question: Abbreviation of LACIE is:
+
+Options:
+
+a.Land Assessment Crop Inventory Experiment
+b.Large Area Crop Innovation Experiment
+c.Land Area Crop Inventory Experiment
+d.Large Area Crop Inventory Experiment
+
+Question: Classification error can be measured by
+
+Options:
+
+a.Geometric Accuracy
+b.Positional Accuracy
+c.Attribute Accuracy
+d.Tolerance
+
+Question: GRASS stands for
+
+Options:
+
+a.GIS Resource Analysis System
+b.Geographic Resources Analysis Support System
+c.Geo Record Analysis Support System
+d.None of the given options
+
+Question: Zero information value for a class in landslide susceptibility map indicates:
+
+Options:
+
+a.Strongly positive influence
+b.No influence
+c.Positive influence
+d.Negative influence
+
+Question: The optical center is ______ geometrical  center
+
+Options:
+
+a.on
+b.left side.
+c.below
+d.above
+
+Question: Which of the following system has the same signal transmission for anti-nodal satellites
+
+Options:
+
+a.Compass
+b.IRNSS
+c.GPS
+d.GLONASS
+
+Question: What is the purpose of Map Server?
+
+Options:
+
+a.Manage GIS data
+b.Publish GIS data
+c.Create Database
+d.Access Maps
+
+Question: Total number of IRNSS satellites in the orbit as of now
+
+Options:
+
+a.3
+b.2
+c.6
+d.7
+
+Question: Bodies having high thermal inertia have _____________ tendency to change their temperature easily
+
+Options:
+
+a.less
+b.High
+c.None of the given options
+d.No
+
+Question: Which GIS server is based on CGI based architecture:
+
+Options:
+
+a.ArcGIS Server
+b.Degree
+c.MapServer
+d.Geoserver
+
+Question: High temporal NDVI data can be used to study the
+
+Options:
+
+a.Changes in the species range shift
+b.All the options mentioned
+c.The changes in phenology
+d.Biodiversity distribution in a region
+
+Question: Human eye is sensitive to the ………… region of EMR.
+
+Options:
+
+a.visible
+b.Infrared
+
+Question: GPS navigation message has
+
+Options:
+
+a.None of the given Options
+b.500 Subframes
+c.5 subframes
+d.50 subframes
+
+Question: Disturbance is functions of
+
+Options:
+
+a.Fragmentation, porosity, patchiness and juxtaposition
+b.All of the given options
+c.Fragmentation, porosity, patchiness and interspersion
+d.Fragmentation, porosity, patchiness and proximity to settlement.
+
+Question: _____________ is the Read-only view listing spatial tables, geometry columns and geometry types present in the database
+
+Options:
+
+a.geometry_columns
+b.Both b and c
+c.spatial_ref_sys
+d.geography_columns
+
+Question: µ stands for:
+
+Options:
+
+a.Dry frictional coefficient
+b.Density coefficient
+c.Viscous coefficient
+d.None of the given option
+
+Question: What is the most important thing  that CARTOSAT-1 gives which can be used in terrain analysis ?
+
+Options:
+
+a.None of the given options
+b.DSM
+c.DTM
+d.DEM
+
+Question: Attribute error arises due to:
+
+Options:
+
+a.Biasness
+b.None of the given options
+c.Incorrect labelling of features
+d.Imprecision in coordinate registration
+
+Question: Coastal Zone occupies ------------------ % of the surface of the globe
+
+Options:
+
+a.33%
+b.27%
+c.18%
+
+Question: In QGIS, a projection system can be specified as:
+
+Options:
+
+a.Proj.4 format
+b.EPSG:n format
+c.OGC’s Well Known Text (WKT) format
+d.All of the given options
+
+Question: HDOP gives level of confidence for accuracy in:
+
+Options:
+
+a.X, Y
+b.X, Y, Z, T
+c.X,Y, Z
+d.None of the given options
+
+Question: Which of the following is not a map projection?
+
+Options:
+
+a.UTM
+b.Cassini-Soldener
+c.WGS84
+d.Polyconic
+
+Question: What are the two spatial models?
+
+Options:
+
+a.Raster &amp;amp; Vector
+b.Hierarchical &amp;amp; Network
+c.Topological &amp;amp; Sphagetti
+d.Nominal and ordinal
+
+Question: Question not found
+
+Options:
+
+Question: If the vehicle is moving from one link to the another link, connected through a node, then the impedance in the movement is
+
+Options:
+
+a.Only link impedance
+b.Both link and turn impedances
+c.Only turn impedance
+d.None of the given options
+
+Question: ………… drainage pattern develops on horizontal or low dipping beds of homogeneous rock types.
+
+Options:
+
+a.Parallel
+b.Trellis
+c.Rectangular
+d.Dendritic
+
+Question: GPL Stands for
+
+Options:
+
+a.None of the given options
+b.General Public License
+c.GIS Process license
+d.Geo Public License
+
+Question: Emissivity values lies between ___________ to ________________ for real bodies
+
+Options:
+
+a.-1  to + 1
+b.None of the given options
+c.0.5 to 1
+d.0 to  &amp;lt;1
+

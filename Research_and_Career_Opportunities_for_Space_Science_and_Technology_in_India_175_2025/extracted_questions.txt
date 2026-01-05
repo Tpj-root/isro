@@ -1,0 +1,508 @@
+Question: MOOCs and online ISRO courses mainly help UG students to:
+
+Options:
+
+a.Obtain automatic ISRO jobs
+b.Gain conceptual understanding and exposure to real mission challenges
+c.Replace laboratory work completely
+d.Avoid higher education
+
+
+Correct answer:
+
+b. Gain conceptual understanding and exposure to real mission challenges
+
+
+
+
+
+
+Question: ISRO internships for UG students typically emphasize:
+
+Options:
+
+a.Routine clerical work
+b.Commercial product development
+c.Purely theoretical exams
+d.Hands-on exposure to research, data analysis, or engineering tasks
+
+
+Correct answer:
+d. Hands-on exposure to research, data analysis, or engineering tasks
+
+
+
+
+
+
+
+Question: START programme is designed to:
+
+Options:
+
+a.Support private companies
+b.Recruit scientists directly
+c.Introduce UG/PG students to advanced space science topics
+d.Train school teachers
+
+Correct answer:
+c. Introduce UG/PG students to advanced space science topics
+
+
+
+
+
+
+
+
+
+Question: ISRO’s START programme primarily aims to:
+
+Options:
+
+a.Expose students to advanced space science and technology topics
+b.Provide employment guarantees
+c.Promote commercial startups
+d.Train astronauts
+
+
+Correct answer:
+a. Expose students to advanced space science and technology topics
+
+
+
+
+
+Question: ISSDC primarily archives data products from:
+
+Options:
+
+a.Commercial Earth observation missions
+b.Navigation satellites
+c.Human spaceflight missions
+d.Planetary and space science missions
+
+Correct answer:
+d. Planetary and space science missions
+
+
+
+
+
+
+
+
+Question: The output of most spaceborne sensors is initially in the form of:
+
+Options:
+
+a.Digital images ready for analysis
+b.Raw telemetry data
+c.Archived scientific datasets
+d.Level-2 geophysical products
+
+Correct answer:
+b. Raw telemetry data
+
+
+
+
+
+
+
+
+
+
+
+Question: For UG students aiming for space science research, the most important skill set includes:
+
+Options:
+
+a.Graphic design
+b.Management and marketing
+c.Programming, data analysis, and physics fundamentals
+d.Legal knowledge
+
+Correct answer:
+c. Programming, data analysis, and physics fundamentals
+
+
+
+
+
+
+
+
+
+Question: Which discipline is most directly associated with planetary science research?
+
+Options:
+
+a.Geology and Physics
+b.Commerce
+c.Biotechnology
+d.Mechanical Engineering
+
+Correct answer:
+a. Geology and Physics
+
+
+
+
+
+
+
+
+
+Question: Participation in ISRO student programmes primarily develops:
+
+Options:
+
+a.Marketing skills
+b.Political influence
+c.Theoretical knowledge without application
+d.Research aptitude, technical skills, and scientific thinking
+
+
+Correct answer:
+d. Research aptitude, technical skills, and scientific thinking
+
+
+
+
+
+
+
+
+
+
+
+Question: A UG student interested in planetary science should preferably strengthen knowledge in:
+
+Options:
+
+a.Geology, spectroscopy, and remote sensing
+b.Structural engineering only
+c.Accounting and finance
+d.Thermodynamics only
+
+Correct answer:
+a. Geology, spectroscopy, and remote sensing
+
+
+
+
+
+
+
+
+
+Question: Data levels available in ISSDC enable students to:
+
+Options:
+
+a.Perform instrument-level and science-level analysis
+b.Modify original mission data
+c.Access only processed images
+d.Control spacecraft operations
+
+Correct answer:
+a. Perform instrument-level and science-level analysis
+
+
+
+
+
+
+
+Question: PRL, IIST, IUCAA, and NARL primarily function as:
+
+Options:
+
+a.Launch vehicle centres
+b.Academic and research institutes
+c.Commercial enterprises
+d.Satellite manufacturing units
+
+Correct answer:
+b. Academic and research institutes
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following student projects is most suitable using ISSDC data?
+
+Options:
+
+a.Ground station network planning
+b.Satellite manufacturing
+c.Spectral analysis of lunar surface composition
+d.Design of launch vehicles
+
+Correct answer:
+
+c. Spectral analysis of lunar surface composition
+
+
+
+
+
+
+
+Question: Chandrayaan-2 Orbiter contributes to lunar science primarily by:
+
+Options:
+
+a.Studying lunar exosphere, mineralogy, and topography
+b.Demonstrating soft-landing technology
+c.Providing high-resolution imaging only
+d.Deploying communication satellites
+
+Correct answer:
+
+a. Studying lunar exosphere, mineralogy, and topography
+
+
+
+
+
+
+
+
+
+
+
+Question: Aditya-L1 will be placed near the L1 point mainly because:
+
+Options:
+
+a.Continuous, uninterrupted observation of the Sun is possible
+b.It is closest to the Sun
+c.Communication delay is zero
+d.Fuel consumption is minimum
+
+Correct answer:
+a. Continuous, uninterrupted observation of the Sun is possible
+
+
+
+
+
+
+
+
+
+
+Question: A typical research pathway for a space science career in India is:
+
+Options:
+
+a.UG → Civil Services
+b.UG → PG → Ph.D. → Research Scientist
+c.B.S
+c. → MBA → ISRO
+d.B.Tech → Industry only
+
+
+Correct answer:
+b. UG → PG → Ph.D. → Research Scientist
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following correctly represents the satellite data processing chain?
+
+Options:
+
+a.Level-2 → Level-1 → Level-0 → Level-3
+b.Level-0 → Level-1 → Level-2 → Level-3
+c.Raw data → Archive → Analysis
+d.Raw data → Level-3 → Level-0 → Archive
+
+
+Correct answer:
+b. Level-0 → Level-1 → Level-2 → Level-3
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following best differentiates ISRO’s Space Science missions from its application missions?
+
+Options:
+
+a.Use of cryogenic engines
+b.Use of geostationary orbits only
+c.Commercial data generation
+d.Focus on fundamental scientific investigation of space phenomena
+
+Correct answer:
+d. Focus on fundamental scientific investigation of space phenomena
+
+
+
+
+
+
+Question: Error correction coding in satellite communication is used to:
+
+Options:
+
+a.Reduce payload power
+b.Increase transmission speed
+c.Enhance spatial coverage
+d.Compensate for signal attenuation and noise
+
+Correct answer:
+d. Compensate for signal attenuation and noise
+
+
+
+
+
+
+
+
+
+
+
+Question: Which of the following ISRO opportunities provides hands-on research exposure to UG students?
+
+Options:
+
+a.Online quizzes
+b.Outreach lectures only
+c.Internships and project work at ISRO centres
+d.Satellite TV broadcasts
+
+Correct answer:
+c. Internships and project work at ISRO centres
+
+
+
+
+
+
+
+
+
+
+
+
+Question: Radiometric and geometric corrections are applied during:
+
+Options:
+
+a.Onboard sensing
+b.Ground data processing
+c.Archival stage
+d.Launch phase
+
+Correct answer:
+b. Ground data processing
+
+
+
+
+
+
+
+
+
+
+
+Question: AstroSat carries multiple payloads primarily to:
+
+Options:
+
+a.Improve satellite lifetime
+b.Enable deep-space communication
+c.Observe celestial sources across multiple wavelength bands
+d.Reduce launch mass
+
+Correct answer:
+c. Observe celestial sources across multiple wavelength bands
+
+
+
+
+
+
+
+
+
+
+Question: ISSDC data access generally requires:
+
+Options:
+
+a.ISRO employment
+b.Foreign collaboration
+c.Paid subscription
+d.User registration and proposal justification
+
+
+Correct answer:
+d. User registration and proposal justification
+
+
+
+
+
+
+
+
+
+
+
+Question: Onboard preprocessing of payload data is mainly required to:
+
+Options:
+
+a.Improve spatial resolution
+b.Reduce data volume before downlink
+c.Replace ground processing
+d.Eliminate sensor calibration
+
+
+Correct answer:
+b. Reduce data volume before downlink
+
+
+
+
+
+
+Question: Participation in ISRO student programmes primarily helps UG students to:
+
+Options:
+
+a.Obtain guaranteed jobs
+b.Replace university curriculum
+c.Skip postgraduate education
+d.Build research orientation and readiness for higher studies
+
+
+Correct answer:
+d. Build research orientation and readiness for higher studies
